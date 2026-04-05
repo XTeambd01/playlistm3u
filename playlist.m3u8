@@ -1,0 +1,186 @@
+#EXTM3U x-tvg-url="" url-tvg=""
+# Last Updated: 2026-04-05 04:34 UTC
+#EXTINF:-1 tvg-name="A SPORTS HD" group-title="Sports",A SPORTS HD
+http://103.144.89.251:8082/A.SPORTS.HD/index.m3u8?token=58c00a91efee0462abea5a8b0653f98a786738c5-6121860d69d4dc666cacdf6ce52e7d1d-1775374138-1775363338&remote=no_check_ip
+#EXTINF:-1 tvg-name="ALJAZEETA HD" group-title="English",ALJAZEETA HD
+http://103.144.89.251:8082/ALJAZEERA.HD/index.m3u8?token=4dbba3ec02cb5b2354ddb27054e2058aabd61681-47708821094bdd50c66073be99b90abe-1775374138-1775363338&remote=no_check_ip
+#EXTINF:-1 tvg-name="AND FLIX HD" group-title="English",AND FLIX HD
+http://103.144.89.251:8082/AND.FLIX.HD/index.m3u8?token=76792d35470356ae385a96622c564804971c0105-f551d16f159f94ebf9bbbeb372f3d8cf-1775374138-1775363338&remote=no_check_ip
+#EXTINF:-1 tvg-name="AND PICTURS HD" group-title="Hindi",AND PICTURS HD
+http://103.144.89.251:8082/ANT.PICTURS.HD/index.m3u8?token=53c00f98261c778457c262b7b0d4d3440750533e-bbe00073b62ce9b85c1d7a135ffd350f-1775374138-1775363338&remote=no_check_ip
+#EXTINF:-1 tvg-name="AND PRIVE HD" group-title="English",AND PRIVE HD
+http://103.144.89.251:8082/AND.PRIVE.HD/index.m3u8?token=491e9802a0a444348f3f0ab3a6ddacfadf0ecd59-0cd3e0d031b0a81f2e7376dad2795369-1775374138-1775363338&remote=no_check_ip
+#EXTINF:-1 tvg-name="AND XPLORE" group-title="English",AND XPLORE
+http://103.144.89.251:8082/XPLOR.HD/index.m3u8?token=a1e15ec6627efa3122ae7524acad5a095da1af6d-7fee24ef5ef88eeba02d3d30582dc18b-1775374138-1775363338&remote=no_check_ip
+#EXTINF:-1 tvg-name="ANIMAL PLANET HD" group-title="English",ANIMAL PLANET HD
+http://103.144.89.251:8082/ANIMAL.PLANET.HD/index.m3u8?token=aab4a2c926acd08a955edb6b76c52d9151b3c8b2-c0a633e753fc99deed4aefcaa32a1b5e-1775374138-1775363338&remote=no_check_ip
+#EXTINF:-1 tvg-name="ATN BANGLA" group-title="Bangla",ATN BANGLA
+http://103.144.89.251:8082/ATN.BANGLA.HD/index.m3u8?token=e752cabb15e40880e406e3feb21a9ad7b48b3237-49819cf0bbe7204269cec1ca1000c274-1775374138-1775363338&remote=no_check_ip
+#EXTINF:-1 tvg-name="ATN NEWS" group-title="Bangla",ATN NEWS
+http://103.144.89.251:8082/ATN.NEWS.HD/index.m3u8?token=a6c5b15aa39e1358a2a0e210f74646db64a31218-24504f71dd943d3b3dc782a65095936c-1775374138-1775363338&remote=no_check_ip
+#EXTINF:-1 tvg-name="AXN HD" group-title="English",AXN HD
+http://103.144.89.251:8082/AXN.HD/index.m3u8?token=e608e014bd0450561d57e51f6ad16ec6416042c5-fbf7138feb358ce86dab42c2ee169b88-1775374138-1775363338&remote=no_check_ip
+#EXTINF:-1 tvg-name="BAL BHARAT" group-title="Kids",BAL BHARAT
+http://103.144.89.251:8082/ETV.BAL.BHARAT/index.m3u8?token=8fd242ec8dd649efa292755b1b5d6b42395b3c65-b805f56a85bdda8e182a0e06f59f85df-1775374138-1775363338&remote=no_check_ip
+#EXTINF:-1 tvg-name="BBC EARTH HD" group-title="English",BBC EARTH HD
+http://103.144.89.251:8082/BBC.Earth.HD/index.m3u8?token=3e6dd918d6b630223607723eed205577ed0b4da4-839999988a110a826d528a12188fc99a-1775374138-1775363338&remote=no_check_ip
+#EXTINF:-1 tvg-name="BBC NEWS" group-title="English",BBC NEWS
+http://103.144.89.251:8082/BBC.NEWS/index.m3u8?token=bebea3d3edb7b585b23a39d30c86ffc5c7f990ed-8eb8779b3bcf1264ad1cf00957e90700-1775374138-1775363338&remote=no_check_ip
+#EXTINF:-1 tvg-name="CARTOON NETWORK" group-title="Kids",CARTOON NETWORK
+http://103.144.89.251:8082/CARTON.NETWORK.HD/index.m3u8?token=7e610ab73f6b962a9ab6e8fab9014b8e8de1eb01-6eb0364659aca8d054ef374a54ec0474-1775374138-1775363338&remote=no_check_ip
+#EXTINF:-1 tvg-name="CHANNEL 24" group-title="Bangla",CHANNEL 24
+http://103.144.89.251:8082/CHANNEL.24.HD/index.m3u8?token=26486d83710c5a572df192d43d67cd314315c4c9-427b22300e66036ba03fbf6430993d73-1775374138-1775363338&remote=no_check_ip
+#EXTINF:-1 tvg-name="CHANNEL I" group-title="Bangla",CHANNEL I
+http://103.144.89.251:8082/CHANNEL.I.HD/index.m3u8?token=f9ba46a7300576665995b85b631d41d16d7a07f9-b8fe4f11f653bb9cff127f71ec6cf098-1775374138-1775363338&remote=no_check_ip
+#EXTINF:-1 tvg-name="COLORS BANGLA CINEMA" group-title="Bangla",COLORS BANGLA CINEMA
+http://103.144.89.251:8082/COLORS.BANGLA.CINEMA/index.m3u8?token=b89a47e9cb553a7ed7c7631a42e3605affaeec27-54cfba78d24c35dfbc7f61d229977f7b-1775374138-1775363338&remote=no_check_ip
+#EXTINF:-1 tvg-name="COLORS BANGLA HD" group-title="Bangla",COLORS BANGLA HD
+http://103.144.89.251:8082/COLORS.BANGLA.HD/index.m3u8?token=ff7859d6744cfe9db7aabb8fa88cad89a6a5e14b-6b49bc457e7b2a22d9de1c59409cb782-1775374138-1775363338&remote=no_check_ip
+#EXTINF:-1 tvg-name="COLORS CINEPLEX HD" group-title="Hindi",COLORS CINEPLEX HD
+http://103.144.89.251:8082/COLORS.CINEPLEX.HD/index.m3u8?token=75bc4fa619ce3697120d690884b64925a237ca8b-3a26a6822c71693325d0ab4a3737561a-1775374138-1775363338&remote=no_check_ip
+#EXTINF:-1 tvg-name="COLORS HD" group-title="Hindi",COLORS HD
+http://103.144.89.251:8082/COLORS.HD/index.m3u8?token=16bac3694bdbbbe41de2b03486036158813f2957-ea4aedee6ecb2cd0069826b2382b9e19-1775374147-1775363347&remote=no_check_ip
+#EXTINF:-1 tvg-name="DISCOVERY HD" group-title="English",DISCOVERY HD
+http://103.144.89.251:8082/DISCOVERY.HD/index.m3u8?token=376aa7c9bad42e8e6792f44931cd973fe83d7d11-42cec0d7c013e6660aa288f0ff05eebd-1775374148-1775363348&remote=no_check_ip
+#EXTINF:-1 tvg-name="DURANTA TV" group-title="Kids",DURANTA TV
+http://103.144.89.251:8082/DURANTA.TV.HD/index.m3u8?token=0cdf32211d325f17757fd4ee7b717fcc65632a0b-d4754f7bf691ae4512f6297dc209dfad-1775374149-1775363349&remote=no_check_ip
+#EXTINF:-1 tvg-name="ENTERR 10" group-title="Bangla",ENTERR 10
+http://103.144.89.251:8082/ENTER10.BANGLA/index.m3u8?token=8c64c6e298b396f6cb706777712bb34cf1d905ac-b98e70a4454d56e9c9ba2dc0e008b8df-1775374147-1775363347&remote=no_check_ip
+#EXTINF:-1 tvg-name="EUROSPORTS HD" group-title="Sports",EUROSPORTS HD
+http://103.144.89.251:8082/EUROSPORTS.HD/index.m3u8?token=1f3bd44c88db736043b9c8cb570e082a455dc6d5-438b113a22b6f79455bb3d541bdb62c8-1775374149-1775363349&remote=no_check_ip
+#EXTINF:-1 tvg-name="FAST SPORTS HD" group-title="Sports",FAST SPORTS HD
+http://103.144.89.251:8082/FAST.SPORTS.HD/index.m3u8?token=e3f1da7d816d5b8c2217b2d2b3d28b7a8c248853-bffeeffd662eac80c7adc6fcf087e8c1-1775374150-1775363350&remote=no_check_ip
+#EXTINF:-1 tvg-name="GEO NEWS HD" group-title="Hindi",GEO NEWS HD
+http://103.144.89.251:8082/GEO.NEWS.HD/index.m3u8?token=dc345224101765ffedc48fb20f2efcf5d002c888-1c734673f4445a4e713b1e188236d8c3-1775374149-1775363349&remote=no_check_ip
+#EXTINF:-1 tvg-name="GOLF SPORTS" group-title="Sports",GOLF SPORTS
+http://103.144.89.251:8082/GOLF.SPORTS/index.m3u8?token=b926520f74c2bc3fcd1848364c6e604116f180ea-a2cfe8de5293ae61c3e7ee28aef70201-1775374149-1775363349&remote=no_check_ip
+#EXTINF:-1 tvg-name="GTV" group-title="Bangla",GTV
+http://103.144.89.251:8082/GAZI.TV.HD/index.m3u8?token=c8d1c0bb6190c4f71ac552434a60f6ea0d9bba89-ce97a2074fc8bd428ae8e2fa72caf3be-1775374150-1775363350&remote=no_check_ip
+#EXTINF:-1 tvg-name="HBO HD" group-title="English",HBO HD
+http://103.144.89.251:8082/HBO.HD/index.m3u8?token=48a6c7f56c89f9a89fba591235b4d7b486b2164d-e6b4bb9a32b6cc333ee11ab182f2d124-1775374150-1775363350&remote=no_check_ip
+#EXTINF:-1 tvg-name="HISTORY TV HD" group-title="English",HISTORY TV HD
+http://103.144.89.251:8082/HISTORY.TV.18.HD/index.m3u8?token=7af3e5270fb54e4cc19e72c97a8055ed52ad5eed-ec17936b151b6cdd65b96ed80763a191-1775374150-1775363350&remote=no_check_ip
+#EXTINF:-1 tvg-name="HITZ MUSIC" group-title="English",HITZ MUSIC
+http://103.144.89.251:8082/HITS.MUSIC.HD/index.m3u8?token=439ed892861417e36c5f6fb053e89dd684da4982-29f26d59c1843e9c91043f963e25ce2c-1775374150-1775363350&remote=no_check_ip
+#EXTINF:-1 tvg-name="HUM TV" group-title="Hindi",HUM TV
+http://103.144.89.251:8082/HUM.MASALA.TV/index.m3u8?token=467422d975311c52d7536450b82f615556f1591c-9cd7ee83e235e6fb600b285510dbf51f-1775374150-1775363350&remote=no_check_ip
+#EXTINF:-1 tvg-name="HUNGAMA" group-title="Kids",HUNGAMA
+http://103.144.89.251:8082/HUNGAMA/index.m3u8?token=8ec2fbb942fc11b8f51b239438c0824e7969f468-fa31e21eabc055149ddd5dfacb161ab8-1775374150-1775363350&remote=no_check_ip
+#EXTINF:-1 tvg-name="INDEPENDENT TV" group-title="Bangla",INDEPENDENT TV
+http://103.144.89.251:8082/INDEPENDENT.TV/index.m3u8?token=90028fc63396b9f2dacb3f8a727477c6bdfbe4c8-171521952690ff45ca230419a0ece6fc-1775374150-1775363350&remote=no_check_ip
+#EXTINF:-1 tvg-name="JALSHA MOVIES HD" group-title="Bangla",JALSHA MOVIES HD
+http://103.144.89.251:8082/JALSHA.MOVIES.HD/index.m3u8?token=c1991ed35d527ab1b886a24553ba2607fd37b901-d95b76ed88c6a5433ce8e9458b4328d3-1775374150-1775363350&remote=no_check_ip
+#EXTINF:-1 tvg-name="JAMUNA TV" group-title="Bangla",JAMUNA TV
+http://103.144.89.251:8082/JAMUNA.TV/index.m3u8?token=c46c2520f94643d4c049db5efdf743ae9353b9ec-c98f7510d1add5b62b5cd3bc3fec6e42-1775374150-1775363350&remote=no_check_ip
+#EXTINF:-1 tvg-name="LOTUS TV" group-title="English",LOTUS TV
+http://103.144.89.251:8082/Lotus.TV.HD/index.m3u8?token=27825c27f4a0a2097d75cdd2ad6cfe87c1bd1c44-44a000fb172ea597c3add5d02f743a8a-1775374150-1775363350&remote=no_check_ip
+#EXTINF:-1 tvg-name="LOVE NATURE" group-title="English",LOVE NATURE
+http://103.144.89.251:8082/LOVE.NATURE.HD/index.m3u8?token=5a83896690d05302e53f60bbd44a24892a803fac-2f35f492b9cdf73d728311f4f1e3231b-1775374150-1775363350&remote=no_check_ip
+#EXTINF:-1 tvg-name="MAASRANGA HD" group-title="Bangla",MAASRANGA HD
+http://103.144.89.251:8082/MASRANGA.TV.HD/index.m3u8?token=ccbb9bbfcbc08ab08065e52f843d32c7ea5b7272-df3fdddd3c291eab5d610350ee389297-1775374149-1775363349&remote=no_check_ip
+#EXTINF:-1 tvg-name="MADANI TV HD" group-title="Islamic",MADANI TV HD
+http://103.144.89.251:8082/MADANI.TV.HD/index.m3u8?token=ad5bb93b55213b948ba981965eb2fe15ff83795f-832e08d56e61f893d1778f5ee6b577c5-1775374153-1775363353&remote=no_check_ip
+#EXTINF:-1 tvg-name="MN PLUS" group-title="English",MN PLUS
+http://103.144.89.251:8082/MN.PLUS.HD/index.m3u8?token=00206629a3c6969017117d763224f2ccd1eeae58-29ae34bf56c48c7b78743c9edfb4411e-1775374155-1775363355&remote=no_check_ip
+#EXTINF:-1 tvg-name="MNX HD" group-title="English",MNX HD
+http://103.144.89.251:8082/MNX.HD/index.m3u8?token=0499f8f73814649ca964418dea8639dc8d41d0cb-1b9e952ec0154516704df72490dd07e7-1775374157-1775363357&remote=no_check_ip
+#EXTINF:-1 tvg-name="MOVIES NOW HD" group-title="English",MOVIES NOW HD
+http://103.144.89.251:8082/MOVIES.NOW.HD/index.m3u8?token=3fd053a97b2915759f3f951c4aafb3634349d904-019909ba6b5fbe4f978ade84fc1f316c-1775374160-1775363360&remote=no_check_ip
+#EXTINF:-1 tvg-name="NAGORIK" group-title="Bangla",NAGORIK
+http://103.144.89.251:8082/NAGORIK.TV.HD/index.m3u8?token=39e208ebe3c6e1957e79cd9cdcfc4383d16f743a-a41d4e5efad4fdc762465a8755306a1f-1775374160-1775363360&remote=no_check_ip
+#EXTINF:-1 tvg-name="NATGEO HD" group-title="English",NATGEO HD
+http://103.144.89.251:8082/NATGEO.HD/index.m3u8?token=a7fe69555e03a6fabb5b9d9bfceb71b364764146-0e1b0c11163a6a3c1bd9b68baf28ca1f-1775374161-1775363361&remote=no_check_ip
+#EXTINF:-1 tvg-name="NATGEO WILD HD" group-title="English",NATGEO WILD HD
+http://103.144.89.251:8082/NATGEO.WILD.HD/index.m3u8?token=190cc1dc5181f4774b925ff5ed78db708aa8691a-25b3f5bb8290cbadbf875045f31b0c61-1775374161-1775363361&remote=no_check_ip
+#EXTINF:-1 tvg-name="NICK JR" group-title="Kids",NICK JR
+http://103.144.89.251:8082/NICK.JR/index.m3u8?token=b9191adcd7e8fb7bf898f67e03bdcaec48126f17-0a813f2f651025810f3d763348b6fa10-1775374161-1775363361&remote=no_check_ip
+#EXTINF:-1 tvg-name="NICK" group-title="Kids",NICK
+http://103.144.89.251:8082/NICK/index.m3u8?token=715e94bc843f405aa2ff2c174fc9a35f7169e5a8-61d8f529e038dbdd530d8d4f3c1379e7-1775374160-1775363360&remote=no_check_ip
+#EXTINF:-1 tvg-name="PEACE TV BANGLA" group-title="Islamic",PEACE TV BANGLA
+http://103.144.89.251:8082/PEACE.TV.BANGLA.HD/index.m3u8?token=9bca83cb55fb278c6058936415275daa7b5ac425-957834b00b73283231db6c9e30caeb9b-1775374161-1775363361&remote=no_check_ip
+#EXTINF:-1 tvg-name="POGO" group-title="Kids",POGO
+http://103.144.89.251:8082/POGO/index.m3u8?token=cd92b11b40270960b1de19d9ede43f0fdd4b8923-dbb8d45496bfa6d490de6377ea6c3b37-1775374161-1775363361&remote=no_check_ip
+#EXTINF:-1 tvg-name="PTV SPORTS HD" group-title="Sports",PTV SPORTS HD
+http://103.144.89.251:8082/PTV-SPORTS-HD/index.m3u8?token=6488cb3fc64be1bba6d5418f38fb29dd1b014aa0-bc3901faf1b729914fcb1c7df656c3be-1775374161-1775363361&remote=no_check_ip
+#EXTINF:-1 tvg-name="ROMEDY NOW" group-title="English",ROMEDY NOW
+http://103.144.89.251:8082/ROMEDY.NOW/index.m3u8?token=efe687dc20b27acf5c4ead79fb54dcc7ff04e49d-ef1e617f3f42b13bab76c296a6139793-1775374161-1775363361&remote=no_check_ip
+#EXTINF:-1 tvg-name="SOMOY TV" group-title="Bangla",SOMOY TV
+http://103.144.89.251:8082/SOMOY.TV.HD/index.m3u8?token=7a9df9f1d082e7d4d618e9d7d3bb611022178750-8340d32b99d4e2909969bf697709a79f-1775374161-1775363361&remote=no_check_ip
+#EXTINF:-1 tvg-name="SONIC" group-title="Kids",SONIC
+http://103.144.89.251:8082/SONIC/index.m3u8?token=42814ea4bc1214c1be70b525b215a7352047a1a4-9227c5478d7176f3605d66e69f0978e9-1775374161-1775363361&remote=no_check_ip
+#EXTINF:-1 tvg-name="SONY AAT" group-title="Bangla",SONY AAT
+http://103.144.89.251:8082/SONY.AAT/index.m3u8?token=c577d6cf38a9c254715de96bded918e5024c0280-d75f74579d5c495ca0bce68685a84a55-1775374161-1775363361&remote=no_check_ip
+#EXTINF:-1 tvg-name="SONY BBC EARTH HD" group-title="English",SONY BBC EARTH HD
+http://103.144.89.251:8082/SONY.BBC.EARTH.HD/index.m3u8?token=862171dc1820591d4844753d0afef6a368a391e2-3e952e0ac563a1cbb5fbdaa2e62b2565-1775374161-1775363361&remote=no_check_ip
+#EXTINF:-1 tvg-name="SONY ENT HD" group-title="Hindi",SONY ENT HD
+http://103.144.89.251:8082/SONY.ENT.HD/index.m3u8?token=3a32e0aba4953cdc68be2bb8b3efd7f39db6574a-e4e87c0ec8b8f1c8af73bf72da0abe05-1775374161-1775363361&remote=no_check_ip
+#EXTINF:-1 tvg-name="SONY MAX HD" group-title="Hindi",SONY MAX HD
+http://103.144.89.251:8082/SONY.MAX.HD/index.m3u8?token=d4f623eb53f2eacc91b16d673a13c37e6795eb9b-6d929d25afea3817865ed32192854e25-1775374161-1775363361&remote=no_check_ip
+#EXTINF:-1 tvg-name="SONY PIX HD" group-title="English",SONY PIX HD
+http://103.144.89.251:8082/SONY.PIX.HD/index.m3u8?token=6f0312d0ef17add862598f841f4b5a242277e94f-592be3162f52d477e5bee161db993c21-1775374161-1775363361&remote=no_check_ip
+#EXTINF:-1 tvg-name="SONY SPORTS 1 HD" group-title="Sports",SONY SPORTS 1 HD
+http://103.144.89.251:8082/SONY.SPORTS.1HD/index.m3u8?token=010e48e4e21bbb8fd4c968153f537ba00ae0c0f2-e1035b90e350ab078ba3335af6d8b40c-1775374161-1775363361&remote=no_check_ip
+#EXTINF:-1 tvg-name="SONY SPORTS 2 HD" group-title="Sports",SONY SPORTS 2 HD
+http://103.144.89.251:8082/SONY.SPORTS2.HD/index.m3u8?token=fee44688838fbad85ccf5845f2511331afe494b7-9de4241a66344a005c2cfee00c948194-1775374162-1775363362&remote=no_check_ip
+#EXTINF:-1 tvg-name="SONY SPORTS 3" group-title="Sports",SONY SPORTS 3
+http://103.144.89.251:8082/SONY.SPORTS.3/index.m3u8?token=c8ed8e4acb2acf1d8d48a1d95e98df872eac02c4-9f5a5ccbefed1cb3dd20641285779f2f-1775374165-1775363365&remote=no_check_ip
+#EXTINF:-1 tvg-name="SONY SPORTS 4" group-title="Sports",SONY SPORTS 4
+http://103.144.89.251:8082/SONY.SPORTS.4/index.m3u8?token=a92815b2df648bef8d8cff16e15b6e5dc8da1c2f-4f1459df27935e7bd125e48dfa040a58-1775374170-1775363370&remote=no_check_ip
+#EXTINF:-1 tvg-name="SONY SPORTS 5 HD" group-title="Sports",SONY SPORTS 5 HD
+http://103.144.89.251:8082/SONY-SPORTS.5HD/index.m3u8?token=12551d9caed87aef719019dd6746a0384549d4db-ee39f3afd9cba09add9113924843aa06-1775374170-1775363370&remote=no_check_ip
+#EXTINF:-1 tvg-name="SONY YAY" group-title="Kids",SONY YAY
+http://103.144.89.251:8082/SONY.YAY/index.m3u8?token=3dc65225942e21bec07d24c4f68e2cdd8c045ec8-62c2dafbcf56050a6b955420ee35a01c-1775374171-1775363371&remote=no_check_ip
+#EXTINF:-1 tvg-name="SSC SPORTS 5 HD" group-title="Sports",SSC SPORTS 5 HD
+http://103.144.89.251:8082/SSC.SPORTS.5.HD/index.m3u8?token=600751d304936403a1a51a84b5dd6e224303c7de-bf851874d6cfffe0a4bef409245eb4bb-1775374172-1775363372&remote=no_check_ip
+#EXTINF:-1 tvg-name="SSC SPORTS" group-title="Sports",SSC SPORTS
+http://103.144.89.251:8082/SSC.SPORTS.1.HD/index.m3u8?token=f13b9c9a3187c3e5df4def2949d41ee35e610a07-9337b16057e0d0999ef317dc3c85c080-1775374172-1775363372&remote=no_check_ip
+#EXTINF:-1 tvg-name="STAR BHARAT HD" group-title="Hindi",STAR BHARAT HD
+http://103.144.89.251:8082/STAR.BHARAT.HD/index.m3u8?token=fdac76c4016f4b232b3bda2d07aeff6abe790a08-3d973f346863619430514ddfa545f07a-1775374172-1775363372&remote=no_check_ip
+#EXTINF:-1 tvg-name="STAR GOLD 2 HD" group-title="Hindi",STAR GOLD 2 HD
+http://103.144.89.251:8082/STAR.GOLD2.HD/index.m3u8?token=52338f461d862cc0f4f2a03266a5966d94d80e63-d46c8a4aa1e7761a7e8ae2bce90a8ff8-1775374172-1775363372&remote=no_check_ip
+#EXTINF:-1 tvg-name="STAR GOLD HD" group-title="Hindi",STAR GOLD HD
+http://103.144.89.251:8082/STAR.GOLD.HD/index.m3u8?token=89ea0d94e2a85ba2a801977cac4a948bc7690412-62d42d16535bf78e9afd30b942ce8ea3-1775374172-1775363372&remote=no_check_ip
+#EXTINF:-1 tvg-name="STAR GOLD SELECT HD" group-title="Hindi",STAR GOLD SELECT HD
+http://103.144.89.251:8082/STAR.GOLD.SEL.HD/index.m3u8?token=279164d92f03f51b9d56a10f4d884bd18fb4964e-088e107f9f55df1ef9d853e593da00d7-1775374172-1775363372&remote=no_check_ip
+#EXTINF:-1 tvg-name="STAR JALSHA HD" group-title="Bangla",STAR JALSHA HD
+http://103.144.89.251:8082/STAR.JALSHA.HD/index.m3u8?token=e15ffb361578bfbd792f01792f371cd954b2ba01-96fc93edf4d8560dbf3a11cd577f4bbd-1775374172-1775363372&remote=no_check_ip
+#EXTINF:-1 tvg-name="STAR MOVIES HD" group-title="English",STAR MOVIES HD
+http://103.144.89.251:8082/STAR.MOVIES.HD/index.m3u8?token=e984d7e6e7c400a4795b56bb38009e0789b6d33c-069a4d7fc0839944a6bf2ca0466045bc-1775374172-1775363372&remote=no_check_ip
+#EXTINF:-1 tvg-name="STAR MOVIES SELECT HD" group-title="English",STAR MOVIES SELECT HD
+http://103.144.89.251:8082/STAR.MOVIES.SEL.HD/index.m3u8?token=29e2cef0b924f844a4a1e9da4fd57a35e6c71940-311c6f55a92fbb0f79d23ce764663715-1775374172-1775363372&remote=no_check_ip
+#EXTINF:-1 tvg-name="STAR PLUS HD" group-title="Hindi",STAR PLUS HD
+http://103.144.89.251:8082/STAR.PLUS.HD/index.m3u8?token=19f2b6dbc1279ed14f1f8fbdaaf123b3db1f698c-c79093fff1d1b32beec17aa02e630074-1775374172-1775363372&remote=no_check_ip
+#EXTINF:-1 tvg-name="STAR SELECT 1 HD" group-title="Sports",STAR SELECT 1 HD
+http://103.144.89.251:8082/STAR.SPORTS-SEL1.HD/index.m3u8?token=0bed1219cd2fdeda3bc31fd4e4208cf7ca7227a9-e8a761bb1912dd4e53749c6816f9d17c-1775374172-1775363372&remote=no_check_ip
+#EXTINF:-1 tvg-name="STAR SPORTS 1 HD" group-title="Sports",STAR SPORTS 1 HD
+http://103.144.89.251:8082/STAR.SPORTS1.HD/index.m3u8?token=9d55cede008877cf1f11621e906c1346bcfabaeb-412c2524e6b2be0c2aa3a067ba95265e-1775374172-1775363372&remote=no_check_ip
+#EXTINF:-1 tvg-name="STAR SPORTS 2 HD" group-title="Sports",STAR SPORTS 2 HD
+http://103.144.89.251:8082/STAR.SPORTS2.HD/index.m3u8?token=a543e30c0e58048cb339889f1c5f047f2bd9ec4a-d2a0b728cc09b42d605417f83f3da164-1775374172-1775363372&remote=no_check_ip
+#EXTINF:-1 tvg-name="STAR SPORTS 3" group-title="Sports",STAR SPORTS 3
+http://103.144.89.251:8082/STAR-SPORTS.3/index.m3u8?token=17fdaa924c093a3842c61771d3b919679295bcb3-4d02f52888e9dce77c8624a0c05f8b14-1775374172-1775363372&remote=no_check_ip
+#EXTINF:-1 tvg-name="STAR SPORTS SELECT 2 HD" group-title="Sports",STAR SPORTS SELECT 2 HD
+http://103.144.89.251:8082/STAR.SPORTS.SEL.2.HD/index.m3u8?token=8150eceb5a0954613fa2757f02d1ad1ee89b0edc-02d9dbd1d89415ed160472283b653b9f-1775374172-1775363372&remote=no_check_ip
+#EXTINF:-1 tvg-name="SUN BANGLA HD" group-title="Bangla",SUN BANGLA HD
+http://103.144.89.251:8082/SUN.BANGLA.HD/index.m3u8?token=e66ddf7d52a77ff9b42acabf212b2f41aafc773d-e9c9e5c25d01b255402dfa8b41077cbf-1775374172-1775363372&remote=no_check_ip
+#EXTINF:-1 tvg-name="SUPER HUNGAMA" group-title="Kids",SUPER HUNGAMA
+http://103.144.89.251:8082/SUPER.HUNGAMA/index.m3u8?token=083f084ddc18ee479985213d0c5ca9ccbe69b2c4-14238a1feb47dab166f2745a65b074eb-1775374173-1775363373&remote=no_check_ip
+#EXTINF:-1 tvg-name="T SPORTS" group-title="Sports",T SPORTS
+http://103.144.89.251:8082/T-SPORTS-HD/index.m3u8?token=dc1daa364237ade9da4b609b822979512c73af1a-722bd309162a30a626a67973fc084f35-1775374138-1775363338&remote=no_check_ip
+#EXTINF:-1 tvg-name="TLC HD" group-title="English",TLC HD
+http://103.144.89.251:8082/TLC.HD/index.m3u8?token=150d9b4ff2d07775414e7143c1ad0a4527ee321c-b6aec57fa0efa81644b00ab33be37777-1775374178-1775363378&remote=no_check_ip
+#EXTINF:-1 tvg-name="TRAVEL XP" group-title="English",TRAVEL XP
+http://103.144.89.251:8082/TRAVELXP.HD/index.m3u8?token=fcc6d3877b8def5b0c4bd13db540f1dce20d5481-a025298b3afc8ff762b026d58bc0cbd0-1775374179-1775363379&remote=no_check_ip
+#EXTINF:-1 tvg-name="ZEE BANGLA CINEMA" group-title="Bangla",ZEE BANGLA CINEMA
+http://103.144.89.251:8082/ZEE.BANGLA.CINEMA/index.m3u8?token=99004ed395c245f6e8739453a82d47e4655dbc6c-7b5771ede4a751fc84e21919efb6e03b-1775374180-1775363380&remote=no_check_ip
+#EXTINF:-1 tvg-name="ZEE BANGLA HD" group-title="Bangla",ZEE BANGLA HD
+http://103.144.89.251:8082/ZEE.BANGLA.HD/index.m3u8?token=8adc9c1848e685117df1fe7d64478f363e490b64-ddbfd7a00694737598ab45e21262d1b2-1775374180-1775363380&remote=no_check_ip
+#EXTINF:-1 tvg-name="ZEE CAFE HD" group-title="English",ZEE CAFE HD
+http://103.144.89.251:8082/ZEE.CAFE.HD/index.m3u8?token=c1fc714ee521ce25d0969bfc63c65134615af704-b87e01e93e2e89d0c3ca5c251572882b-1775374181-1775363381&remote=no_check_ip
+#EXTINF:-1 tvg-name="ZEE CINEMA HD" group-title="Hindi",ZEE CINEMA HD
+http://103.144.89.251:8082/ZEE.CINEMA.HD/index.m3u8?token=b83d6bdd206c517eb3c47277d26980287cb21888-d2ba2bb40b2a2ee97e5dc0dc9bd12467-1775374180-1775363380&remote=no_check_ip
+#EXTINF:-1 tvg-name="ZEE TV HD" group-title="Hindi",ZEE TV HD
+http://103.144.89.251:8082/ZEE.TV.HD/index.m3u8?token=f5d0f55f9f714ab2e76d065f7e2d25e90adb9b5a-5b5da922711dfefc4d56268715ee8f17-1775374181-1775363381&remote=no_check_ip
+#EXTINF:-1 tvg-name="ZING" group-title="Hindi",ZING
+http://103.144.89.251:8082/ZING.MUSIC/index.m3u8?token=58ea2e6be10e7418f81ca5d414aa57f8929b0972-d393957445612f54c7a8bf88d983543e-1775374180-1775363380&remote=no_check_ip
+#EXTINF:-1 tvg-name="ZOOM" group-title="Hindi",ZOOM
+http://103.144.89.251:8082/ZOOM.MUSIC/index.m3u8?token=f0ba2a767bda4ede413728640e2ded49fb298de9-608901e87eadb756a317fa1a77c0f000-1775374180-1775363380&remote=no_check_ip
