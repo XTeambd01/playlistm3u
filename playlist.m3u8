@@ -1,186 +1,601 @@
-#EXTM3U x-tvg-url="" url-tvg=""
-# Last Updated: 2026-04-05 04:34 UTC
-#EXTINF:-1 tvg-name="A SPORTS HD" group-title="Sports",A SPORTS HD
-http://103.144.89.251:8082/A.SPORTS.HD/index.m3u8?token=58c00a91efee0462abea5a8b0653f98a786738c5-6121860d69d4dc666cacdf6ce52e7d1d-1775374138-1775363338&remote=no_check_ip
-#EXTINF:-1 tvg-name="ALJAZEETA HD" group-title="English",ALJAZEETA HD
-http://103.144.89.251:8082/ALJAZEERA.HD/index.m3u8?token=4dbba3ec02cb5b2354ddb27054e2058aabd61681-47708821094bdd50c66073be99b90abe-1775374138-1775363338&remote=no_check_ip
-#EXTINF:-1 tvg-name="AND FLIX HD" group-title="English",AND FLIX HD
-http://103.144.89.251:8082/AND.FLIX.HD/index.m3u8?token=76792d35470356ae385a96622c564804971c0105-f551d16f159f94ebf9bbbeb372f3d8cf-1775374138-1775363338&remote=no_check_ip
-#EXTINF:-1 tvg-name="AND PICTURS HD" group-title="Hindi",AND PICTURS HD
-http://103.144.89.251:8082/ANT.PICTURS.HD/index.m3u8?token=53c00f98261c778457c262b7b0d4d3440750533e-bbe00073b62ce9b85c1d7a135ffd350f-1775374138-1775363338&remote=no_check_ip
-#EXTINF:-1 tvg-name="AND PRIVE HD" group-title="English",AND PRIVE HD
-http://103.144.89.251:8082/AND.PRIVE.HD/index.m3u8?token=491e9802a0a444348f3f0ab3a6ddacfadf0ecd59-0cd3e0d031b0a81f2e7376dad2795369-1775374138-1775363338&remote=no_check_ip
-#EXTINF:-1 tvg-name="AND XPLORE" group-title="English",AND XPLORE
-http://103.144.89.251:8082/XPLOR.HD/index.m3u8?token=a1e15ec6627efa3122ae7524acad5a095da1af6d-7fee24ef5ef88eeba02d3d30582dc18b-1775374138-1775363338&remote=no_check_ip
-#EXTINF:-1 tvg-name="ANIMAL PLANET HD" group-title="English",ANIMAL PLANET HD
-http://103.144.89.251:8082/ANIMAL.PLANET.HD/index.m3u8?token=aab4a2c926acd08a955edb6b76c52d9151b3c8b2-c0a633e753fc99deed4aefcaa32a1b5e-1775374138-1775363338&remote=no_check_ip
-#EXTINF:-1 tvg-name="ATN BANGLA" group-title="Bangla",ATN BANGLA
-http://103.144.89.251:8082/ATN.BANGLA.HD/index.m3u8?token=e752cabb15e40880e406e3feb21a9ad7b48b3237-49819cf0bbe7204269cec1ca1000c274-1775374138-1775363338&remote=no_check_ip
-#EXTINF:-1 tvg-name="ATN NEWS" group-title="Bangla",ATN NEWS
-http://103.144.89.251:8082/ATN.NEWS.HD/index.m3u8?token=a6c5b15aa39e1358a2a0e210f74646db64a31218-24504f71dd943d3b3dc782a65095936c-1775374138-1775363338&remote=no_check_ip
-#EXTINF:-1 tvg-name="AXN HD" group-title="English",AXN HD
-http://103.144.89.251:8082/AXN.HD/index.m3u8?token=e608e014bd0450561d57e51f6ad16ec6416042c5-fbf7138feb358ce86dab42c2ee169b88-1775374138-1775363338&remote=no_check_ip
-#EXTINF:-1 tvg-name="BAL BHARAT" group-title="Kids",BAL BHARAT
-http://103.144.89.251:8082/ETV.BAL.BHARAT/index.m3u8?token=8fd242ec8dd649efa292755b1b5d6b42395b3c65-b805f56a85bdda8e182a0e06f59f85df-1775374138-1775363338&remote=no_check_ip
-#EXTINF:-1 tvg-name="BBC EARTH HD" group-title="English",BBC EARTH HD
-http://103.144.89.251:8082/BBC.Earth.HD/index.m3u8?token=3e6dd918d6b630223607723eed205577ed0b4da4-839999988a110a826d528a12188fc99a-1775374138-1775363338&remote=no_check_ip
-#EXTINF:-1 tvg-name="BBC NEWS" group-title="English",BBC NEWS
-http://103.144.89.251:8082/BBC.NEWS/index.m3u8?token=bebea3d3edb7b585b23a39d30c86ffc5c7f990ed-8eb8779b3bcf1264ad1cf00957e90700-1775374138-1775363338&remote=no_check_ip
-#EXTINF:-1 tvg-name="CARTOON NETWORK" group-title="Kids",CARTOON NETWORK
-http://103.144.89.251:8082/CARTON.NETWORK.HD/index.m3u8?token=7e610ab73f6b962a9ab6e8fab9014b8e8de1eb01-6eb0364659aca8d054ef374a54ec0474-1775374138-1775363338&remote=no_check_ip
-#EXTINF:-1 tvg-name="CHANNEL 24" group-title="Bangla",CHANNEL 24
-http://103.144.89.251:8082/CHANNEL.24.HD/index.m3u8?token=26486d83710c5a572df192d43d67cd314315c4c9-427b22300e66036ba03fbf6430993d73-1775374138-1775363338&remote=no_check_ip
-#EXTINF:-1 tvg-name="CHANNEL I" group-title="Bangla",CHANNEL I
-http://103.144.89.251:8082/CHANNEL.I.HD/index.m3u8?token=f9ba46a7300576665995b85b631d41d16d7a07f9-b8fe4f11f653bb9cff127f71ec6cf098-1775374138-1775363338&remote=no_check_ip
-#EXTINF:-1 tvg-name="COLORS BANGLA CINEMA" group-title="Bangla",COLORS BANGLA CINEMA
-http://103.144.89.251:8082/COLORS.BANGLA.CINEMA/index.m3u8?token=b89a47e9cb553a7ed7c7631a42e3605affaeec27-54cfba78d24c35dfbc7f61d229977f7b-1775374138-1775363338&remote=no_check_ip
-#EXTINF:-1 tvg-name="COLORS BANGLA HD" group-title="Bangla",COLORS BANGLA HD
-http://103.144.89.251:8082/COLORS.BANGLA.HD/index.m3u8?token=ff7859d6744cfe9db7aabb8fa88cad89a6a5e14b-6b49bc457e7b2a22d9de1c59409cb782-1775374138-1775363338&remote=no_check_ip
-#EXTINF:-1 tvg-name="COLORS CINEPLEX HD" group-title="Hindi",COLORS CINEPLEX HD
-http://103.144.89.251:8082/COLORS.CINEPLEX.HD/index.m3u8?token=75bc4fa619ce3697120d690884b64925a237ca8b-3a26a6822c71693325d0ab4a3737561a-1775374138-1775363338&remote=no_check_ip
-#EXTINF:-1 tvg-name="COLORS HD" group-title="Hindi",COLORS HD
-http://103.144.89.251:8082/COLORS.HD/index.m3u8?token=16bac3694bdbbbe41de2b03486036158813f2957-ea4aedee6ecb2cd0069826b2382b9e19-1775374147-1775363347&remote=no_check_ip
-#EXTINF:-1 tvg-name="DISCOVERY HD" group-title="English",DISCOVERY HD
-http://103.144.89.251:8082/DISCOVERY.HD/index.m3u8?token=376aa7c9bad42e8e6792f44931cd973fe83d7d11-42cec0d7c013e6660aa288f0ff05eebd-1775374148-1775363348&remote=no_check_ip
-#EXTINF:-1 tvg-name="DURANTA TV" group-title="Kids",DURANTA TV
-http://103.144.89.251:8082/DURANTA.TV.HD/index.m3u8?token=0cdf32211d325f17757fd4ee7b717fcc65632a0b-d4754f7bf691ae4512f6297dc209dfad-1775374149-1775363349&remote=no_check_ip
-#EXTINF:-1 tvg-name="ENTERR 10" group-title="Bangla",ENTERR 10
-http://103.144.89.251:8082/ENTER10.BANGLA/index.m3u8?token=8c64c6e298b396f6cb706777712bb34cf1d905ac-b98e70a4454d56e9c9ba2dc0e008b8df-1775374147-1775363347&remote=no_check_ip
-#EXTINF:-1 tvg-name="EUROSPORTS HD" group-title="Sports",EUROSPORTS HD
-http://103.144.89.251:8082/EUROSPORTS.HD/index.m3u8?token=1f3bd44c88db736043b9c8cb570e082a455dc6d5-438b113a22b6f79455bb3d541bdb62c8-1775374149-1775363349&remote=no_check_ip
-#EXTINF:-1 tvg-name="FAST SPORTS HD" group-title="Sports",FAST SPORTS HD
-http://103.144.89.251:8082/FAST.SPORTS.HD/index.m3u8?token=e3f1da7d816d5b8c2217b2d2b3d28b7a8c248853-bffeeffd662eac80c7adc6fcf087e8c1-1775374150-1775363350&remote=no_check_ip
-#EXTINF:-1 tvg-name="GEO NEWS HD" group-title="Hindi",GEO NEWS HD
-http://103.144.89.251:8082/GEO.NEWS.HD/index.m3u8?token=dc345224101765ffedc48fb20f2efcf5d002c888-1c734673f4445a4e713b1e188236d8c3-1775374149-1775363349&remote=no_check_ip
-#EXTINF:-1 tvg-name="GOLF SPORTS" group-title="Sports",GOLF SPORTS
-http://103.144.89.251:8082/GOLF.SPORTS/index.m3u8?token=b926520f74c2bc3fcd1848364c6e604116f180ea-a2cfe8de5293ae61c3e7ee28aef70201-1775374149-1775363349&remote=no_check_ip
-#EXTINF:-1 tvg-name="GTV" group-title="Bangla",GTV
-http://103.144.89.251:8082/GAZI.TV.HD/index.m3u8?token=c8d1c0bb6190c4f71ac552434a60f6ea0d9bba89-ce97a2074fc8bd428ae8e2fa72caf3be-1775374150-1775363350&remote=no_check_ip
-#EXTINF:-1 tvg-name="HBO HD" group-title="English",HBO HD
-http://103.144.89.251:8082/HBO.HD/index.m3u8?token=48a6c7f56c89f9a89fba591235b4d7b486b2164d-e6b4bb9a32b6cc333ee11ab182f2d124-1775374150-1775363350&remote=no_check_ip
-#EXTINF:-1 tvg-name="HISTORY TV HD" group-title="English",HISTORY TV HD
-http://103.144.89.251:8082/HISTORY.TV.18.HD/index.m3u8?token=7af3e5270fb54e4cc19e72c97a8055ed52ad5eed-ec17936b151b6cdd65b96ed80763a191-1775374150-1775363350&remote=no_check_ip
-#EXTINF:-1 tvg-name="HITZ MUSIC" group-title="English",HITZ MUSIC
-http://103.144.89.251:8082/HITS.MUSIC.HD/index.m3u8?token=439ed892861417e36c5f6fb053e89dd684da4982-29f26d59c1843e9c91043f963e25ce2c-1775374150-1775363350&remote=no_check_ip
-#EXTINF:-1 tvg-name="HUM TV" group-title="Hindi",HUM TV
-http://103.144.89.251:8082/HUM.MASALA.TV/index.m3u8?token=467422d975311c52d7536450b82f615556f1591c-9cd7ee83e235e6fb600b285510dbf51f-1775374150-1775363350&remote=no_check_ip
-#EXTINF:-1 tvg-name="HUNGAMA" group-title="Kids",HUNGAMA
-http://103.144.89.251:8082/HUNGAMA/index.m3u8?token=8ec2fbb942fc11b8f51b239438c0824e7969f468-fa31e21eabc055149ddd5dfacb161ab8-1775374150-1775363350&remote=no_check_ip
-#EXTINF:-1 tvg-name="INDEPENDENT TV" group-title="Bangla",INDEPENDENT TV
-http://103.144.89.251:8082/INDEPENDENT.TV/index.m3u8?token=90028fc63396b9f2dacb3f8a727477c6bdfbe4c8-171521952690ff45ca230419a0ece6fc-1775374150-1775363350&remote=no_check_ip
-#EXTINF:-1 tvg-name="JALSHA MOVIES HD" group-title="Bangla",JALSHA MOVIES HD
-http://103.144.89.251:8082/JALSHA.MOVIES.HD/index.m3u8?token=c1991ed35d527ab1b886a24553ba2607fd37b901-d95b76ed88c6a5433ce8e9458b4328d3-1775374150-1775363350&remote=no_check_ip
-#EXTINF:-1 tvg-name="JAMUNA TV" group-title="Bangla",JAMUNA TV
-http://103.144.89.251:8082/JAMUNA.TV/index.m3u8?token=c46c2520f94643d4c049db5efdf743ae9353b9ec-c98f7510d1add5b62b5cd3bc3fec6e42-1775374150-1775363350&remote=no_check_ip
-#EXTINF:-1 tvg-name="LOTUS TV" group-title="English",LOTUS TV
-http://103.144.89.251:8082/Lotus.TV.HD/index.m3u8?token=27825c27f4a0a2097d75cdd2ad6cfe87c1bd1c44-44a000fb172ea597c3add5d02f743a8a-1775374150-1775363350&remote=no_check_ip
-#EXTINF:-1 tvg-name="LOVE NATURE" group-title="English",LOVE NATURE
-http://103.144.89.251:8082/LOVE.NATURE.HD/index.m3u8?token=5a83896690d05302e53f60bbd44a24892a803fac-2f35f492b9cdf73d728311f4f1e3231b-1775374150-1775363350&remote=no_check_ip
-#EXTINF:-1 tvg-name="MAASRANGA HD" group-title="Bangla",MAASRANGA HD
-http://103.144.89.251:8082/MASRANGA.TV.HD/index.m3u8?token=ccbb9bbfcbc08ab08065e52f843d32c7ea5b7272-df3fdddd3c291eab5d610350ee389297-1775374149-1775363349&remote=no_check_ip
-#EXTINF:-1 tvg-name="MADANI TV HD" group-title="Islamic",MADANI TV HD
-http://103.144.89.251:8082/MADANI.TV.HD/index.m3u8?token=ad5bb93b55213b948ba981965eb2fe15ff83795f-832e08d56e61f893d1778f5ee6b577c5-1775374153-1775363353&remote=no_check_ip
-#EXTINF:-1 tvg-name="MN PLUS" group-title="English",MN PLUS
-http://103.144.89.251:8082/MN.PLUS.HD/index.m3u8?token=00206629a3c6969017117d763224f2ccd1eeae58-29ae34bf56c48c7b78743c9edfb4411e-1775374155-1775363355&remote=no_check_ip
-#EXTINF:-1 tvg-name="MNX HD" group-title="English",MNX HD
-http://103.144.89.251:8082/MNX.HD/index.m3u8?token=0499f8f73814649ca964418dea8639dc8d41d0cb-1b9e952ec0154516704df72490dd07e7-1775374157-1775363357&remote=no_check_ip
-#EXTINF:-1 tvg-name="MOVIES NOW HD" group-title="English",MOVIES NOW HD
-http://103.144.89.251:8082/MOVIES.NOW.HD/index.m3u8?token=3fd053a97b2915759f3f951c4aafb3634349d904-019909ba6b5fbe4f978ade84fc1f316c-1775374160-1775363360&remote=no_check_ip
-#EXTINF:-1 tvg-name="NAGORIK" group-title="Bangla",NAGORIK
-http://103.144.89.251:8082/NAGORIK.TV.HD/index.m3u8?token=39e208ebe3c6e1957e79cd9cdcfc4383d16f743a-a41d4e5efad4fdc762465a8755306a1f-1775374160-1775363360&remote=no_check_ip
-#EXTINF:-1 tvg-name="NATGEO HD" group-title="English",NATGEO HD
-http://103.144.89.251:8082/NATGEO.HD/index.m3u8?token=a7fe69555e03a6fabb5b9d9bfceb71b364764146-0e1b0c11163a6a3c1bd9b68baf28ca1f-1775374161-1775363361&remote=no_check_ip
-#EXTINF:-1 tvg-name="NATGEO WILD HD" group-title="English",NATGEO WILD HD
-http://103.144.89.251:8082/NATGEO.WILD.HD/index.m3u8?token=190cc1dc5181f4774b925ff5ed78db708aa8691a-25b3f5bb8290cbadbf875045f31b0c61-1775374161-1775363361&remote=no_check_ip
-#EXTINF:-1 tvg-name="NICK JR" group-title="Kids",NICK JR
-http://103.144.89.251:8082/NICK.JR/index.m3u8?token=b9191adcd7e8fb7bf898f67e03bdcaec48126f17-0a813f2f651025810f3d763348b6fa10-1775374161-1775363361&remote=no_check_ip
-#EXTINF:-1 tvg-name="NICK" group-title="Kids",NICK
-http://103.144.89.251:8082/NICK/index.m3u8?token=715e94bc843f405aa2ff2c174fc9a35f7169e5a8-61d8f529e038dbdd530d8d4f3c1379e7-1775374160-1775363360&remote=no_check_ip
-#EXTINF:-1 tvg-name="PEACE TV BANGLA" group-title="Islamic",PEACE TV BANGLA
-http://103.144.89.251:8082/PEACE.TV.BANGLA.HD/index.m3u8?token=9bca83cb55fb278c6058936415275daa7b5ac425-957834b00b73283231db6c9e30caeb9b-1775374161-1775363361&remote=no_check_ip
-#EXTINF:-1 tvg-name="POGO" group-title="Kids",POGO
-http://103.144.89.251:8082/POGO/index.m3u8?token=cd92b11b40270960b1de19d9ede43f0fdd4b8923-dbb8d45496bfa6d490de6377ea6c3b37-1775374161-1775363361&remote=no_check_ip
-#EXTINF:-1 tvg-name="PTV SPORTS HD" group-title="Sports",PTV SPORTS HD
-http://103.144.89.251:8082/PTV-SPORTS-HD/index.m3u8?token=6488cb3fc64be1bba6d5418f38fb29dd1b014aa0-bc3901faf1b729914fcb1c7df656c3be-1775374161-1775363361&remote=no_check_ip
-#EXTINF:-1 tvg-name="ROMEDY NOW" group-title="English",ROMEDY NOW
-http://103.144.89.251:8082/ROMEDY.NOW/index.m3u8?token=efe687dc20b27acf5c4ead79fb54dcc7ff04e49d-ef1e617f3f42b13bab76c296a6139793-1775374161-1775363361&remote=no_check_ip
-#EXTINF:-1 tvg-name="SOMOY TV" group-title="Bangla",SOMOY TV
-http://103.144.89.251:8082/SOMOY.TV.HD/index.m3u8?token=7a9df9f1d082e7d4d618e9d7d3bb611022178750-8340d32b99d4e2909969bf697709a79f-1775374161-1775363361&remote=no_check_ip
-#EXTINF:-1 tvg-name="SONIC" group-title="Kids",SONIC
-http://103.144.89.251:8082/SONIC/index.m3u8?token=42814ea4bc1214c1be70b525b215a7352047a1a4-9227c5478d7176f3605d66e69f0978e9-1775374161-1775363361&remote=no_check_ip
-#EXTINF:-1 tvg-name="SONY AAT" group-title="Bangla",SONY AAT
-http://103.144.89.251:8082/SONY.AAT/index.m3u8?token=c577d6cf38a9c254715de96bded918e5024c0280-d75f74579d5c495ca0bce68685a84a55-1775374161-1775363361&remote=no_check_ip
-#EXTINF:-1 tvg-name="SONY BBC EARTH HD" group-title="English",SONY BBC EARTH HD
-http://103.144.89.251:8082/SONY.BBC.EARTH.HD/index.m3u8?token=862171dc1820591d4844753d0afef6a368a391e2-3e952e0ac563a1cbb5fbdaa2e62b2565-1775374161-1775363361&remote=no_check_ip
-#EXTINF:-1 tvg-name="SONY ENT HD" group-title="Hindi",SONY ENT HD
-http://103.144.89.251:8082/SONY.ENT.HD/index.m3u8?token=3a32e0aba4953cdc68be2bb8b3efd7f39db6574a-e4e87c0ec8b8f1c8af73bf72da0abe05-1775374161-1775363361&remote=no_check_ip
-#EXTINF:-1 tvg-name="SONY MAX HD" group-title="Hindi",SONY MAX HD
-http://103.144.89.251:8082/SONY.MAX.HD/index.m3u8?token=d4f623eb53f2eacc91b16d673a13c37e6795eb9b-6d929d25afea3817865ed32192854e25-1775374161-1775363361&remote=no_check_ip
-#EXTINF:-1 tvg-name="SONY PIX HD" group-title="English",SONY PIX HD
-http://103.144.89.251:8082/SONY.PIX.HD/index.m3u8?token=6f0312d0ef17add862598f841f4b5a242277e94f-592be3162f52d477e5bee161db993c21-1775374161-1775363361&remote=no_check_ip
-#EXTINF:-1 tvg-name="SONY SPORTS 1 HD" group-title="Sports",SONY SPORTS 1 HD
-http://103.144.89.251:8082/SONY.SPORTS.1HD/index.m3u8?token=010e48e4e21bbb8fd4c968153f537ba00ae0c0f2-e1035b90e350ab078ba3335af6d8b40c-1775374161-1775363361&remote=no_check_ip
-#EXTINF:-1 tvg-name="SONY SPORTS 2 HD" group-title="Sports",SONY SPORTS 2 HD
-http://103.144.89.251:8082/SONY.SPORTS2.HD/index.m3u8?token=fee44688838fbad85ccf5845f2511331afe494b7-9de4241a66344a005c2cfee00c948194-1775374162-1775363362&remote=no_check_ip
-#EXTINF:-1 tvg-name="SONY SPORTS 3" group-title="Sports",SONY SPORTS 3
-http://103.144.89.251:8082/SONY.SPORTS.3/index.m3u8?token=c8ed8e4acb2acf1d8d48a1d95e98df872eac02c4-9f5a5ccbefed1cb3dd20641285779f2f-1775374165-1775363365&remote=no_check_ip
-#EXTINF:-1 tvg-name="SONY SPORTS 4" group-title="Sports",SONY SPORTS 4
-http://103.144.89.251:8082/SONY.SPORTS.4/index.m3u8?token=a92815b2df648bef8d8cff16e15b6e5dc8da1c2f-4f1459df27935e7bd125e48dfa040a58-1775374170-1775363370&remote=no_check_ip
-#EXTINF:-1 tvg-name="SONY SPORTS 5 HD" group-title="Sports",SONY SPORTS 5 HD
-http://103.144.89.251:8082/SONY-SPORTS.5HD/index.m3u8?token=12551d9caed87aef719019dd6746a0384549d4db-ee39f3afd9cba09add9113924843aa06-1775374170-1775363370&remote=no_check_ip
-#EXTINF:-1 tvg-name="SONY YAY" group-title="Kids",SONY YAY
-http://103.144.89.251:8082/SONY.YAY/index.m3u8?token=3dc65225942e21bec07d24c4f68e2cdd8c045ec8-62c2dafbcf56050a6b955420ee35a01c-1775374171-1775363371&remote=no_check_ip
-#EXTINF:-1 tvg-name="SSC SPORTS 5 HD" group-title="Sports",SSC SPORTS 5 HD
-http://103.144.89.251:8082/SSC.SPORTS.5.HD/index.m3u8?token=600751d304936403a1a51a84b5dd6e224303c7de-bf851874d6cfffe0a4bef409245eb4bb-1775374172-1775363372&remote=no_check_ip
-#EXTINF:-1 tvg-name="SSC SPORTS" group-title="Sports",SSC SPORTS
-http://103.144.89.251:8082/SSC.SPORTS.1.HD/index.m3u8?token=f13b9c9a3187c3e5df4def2949d41ee35e610a07-9337b16057e0d0999ef317dc3c85c080-1775374172-1775363372&remote=no_check_ip
-#EXTINF:-1 tvg-name="STAR BHARAT HD" group-title="Hindi",STAR BHARAT HD
-http://103.144.89.251:8082/STAR.BHARAT.HD/index.m3u8?token=fdac76c4016f4b232b3bda2d07aeff6abe790a08-3d973f346863619430514ddfa545f07a-1775374172-1775363372&remote=no_check_ip
-#EXTINF:-1 tvg-name="STAR GOLD 2 HD" group-title="Hindi",STAR GOLD 2 HD
-http://103.144.89.251:8082/STAR.GOLD2.HD/index.m3u8?token=52338f461d862cc0f4f2a03266a5966d94d80e63-d46c8a4aa1e7761a7e8ae2bce90a8ff8-1775374172-1775363372&remote=no_check_ip
-#EXTINF:-1 tvg-name="STAR GOLD HD" group-title="Hindi",STAR GOLD HD
-http://103.144.89.251:8082/STAR.GOLD.HD/index.m3u8?token=89ea0d94e2a85ba2a801977cac4a948bc7690412-62d42d16535bf78e9afd30b942ce8ea3-1775374172-1775363372&remote=no_check_ip
-#EXTINF:-1 tvg-name="STAR GOLD SELECT HD" group-title="Hindi",STAR GOLD SELECT HD
-http://103.144.89.251:8082/STAR.GOLD.SEL.HD/index.m3u8?token=279164d92f03f51b9d56a10f4d884bd18fb4964e-088e107f9f55df1ef9d853e593da00d7-1775374172-1775363372&remote=no_check_ip
-#EXTINF:-1 tvg-name="STAR JALSHA HD" group-title="Bangla",STAR JALSHA HD
-http://103.144.89.251:8082/STAR.JALSHA.HD/index.m3u8?token=e15ffb361578bfbd792f01792f371cd954b2ba01-96fc93edf4d8560dbf3a11cd577f4bbd-1775374172-1775363372&remote=no_check_ip
-#EXTINF:-1 tvg-name="STAR MOVIES HD" group-title="English",STAR MOVIES HD
-http://103.144.89.251:8082/STAR.MOVIES.HD/index.m3u8?token=e984d7e6e7c400a4795b56bb38009e0789b6d33c-069a4d7fc0839944a6bf2ca0466045bc-1775374172-1775363372&remote=no_check_ip
-#EXTINF:-1 tvg-name="STAR MOVIES SELECT HD" group-title="English",STAR MOVIES SELECT HD
-http://103.144.89.251:8082/STAR.MOVIES.SEL.HD/index.m3u8?token=29e2cef0b924f844a4a1e9da4fd57a35e6c71940-311c6f55a92fbb0f79d23ce764663715-1775374172-1775363372&remote=no_check_ip
-#EXTINF:-1 tvg-name="STAR PLUS HD" group-title="Hindi",STAR PLUS HD
-http://103.144.89.251:8082/STAR.PLUS.HD/index.m3u8?token=19f2b6dbc1279ed14f1f8fbdaaf123b3db1f698c-c79093fff1d1b32beec17aa02e630074-1775374172-1775363372&remote=no_check_ip
-#EXTINF:-1 tvg-name="STAR SELECT 1 HD" group-title="Sports",STAR SELECT 1 HD
-http://103.144.89.251:8082/STAR.SPORTS-SEL1.HD/index.m3u8?token=0bed1219cd2fdeda3bc31fd4e4208cf7ca7227a9-e8a761bb1912dd4e53749c6816f9d17c-1775374172-1775363372&remote=no_check_ip
-#EXTINF:-1 tvg-name="STAR SPORTS 1 HD" group-title="Sports",STAR SPORTS 1 HD
-http://103.144.89.251:8082/STAR.SPORTS1.HD/index.m3u8?token=9d55cede008877cf1f11621e906c1346bcfabaeb-412c2524e6b2be0c2aa3a067ba95265e-1775374172-1775363372&remote=no_check_ip
-#EXTINF:-1 tvg-name="STAR SPORTS 2 HD" group-title="Sports",STAR SPORTS 2 HD
-http://103.144.89.251:8082/STAR.SPORTS2.HD/index.m3u8?token=a543e30c0e58048cb339889f1c5f047f2bd9ec4a-d2a0b728cc09b42d605417f83f3da164-1775374172-1775363372&remote=no_check_ip
-#EXTINF:-1 tvg-name="STAR SPORTS 3" group-title="Sports",STAR SPORTS 3
-http://103.144.89.251:8082/STAR-SPORTS.3/index.m3u8?token=17fdaa924c093a3842c61771d3b919679295bcb3-4d02f52888e9dce77c8624a0c05f8b14-1775374172-1775363372&remote=no_check_ip
-#EXTINF:-1 tvg-name="STAR SPORTS SELECT 2 HD" group-title="Sports",STAR SPORTS SELECT 2 HD
-http://103.144.89.251:8082/STAR.SPORTS.SEL.2.HD/index.m3u8?token=8150eceb5a0954613fa2757f02d1ad1ee89b0edc-02d9dbd1d89415ed160472283b653b9f-1775374172-1775363372&remote=no_check_ip
-#EXTINF:-1 tvg-name="SUN BANGLA HD" group-title="Bangla",SUN BANGLA HD
-http://103.144.89.251:8082/SUN.BANGLA.HD/index.m3u8?token=e66ddf7d52a77ff9b42acabf212b2f41aafc773d-e9c9e5c25d01b255402dfa8b41077cbf-1775374172-1775363372&remote=no_check_ip
-#EXTINF:-1 tvg-name="SUPER HUNGAMA" group-title="Kids",SUPER HUNGAMA
-http://103.144.89.251:8082/SUPER.HUNGAMA/index.m3u8?token=083f084ddc18ee479985213d0c5ca9ccbe69b2c4-14238a1feb47dab166f2745a65b074eb-1775374173-1775363373&remote=no_check_ip
-#EXTINF:-1 tvg-name="T SPORTS" group-title="Sports",T SPORTS
-http://103.144.89.251:8082/T-SPORTS-HD/index.m3u8?token=dc1daa364237ade9da4b609b822979512c73af1a-722bd309162a30a626a67973fc084f35-1775374138-1775363338&remote=no_check_ip
-#EXTINF:-1 tvg-name="TLC HD" group-title="English",TLC HD
-http://103.144.89.251:8082/TLC.HD/index.m3u8?token=150d9b4ff2d07775414e7143c1ad0a4527ee321c-b6aec57fa0efa81644b00ab33be37777-1775374178-1775363378&remote=no_check_ip
-#EXTINF:-1 tvg-name="TRAVEL XP" group-title="English",TRAVEL XP
-http://103.144.89.251:8082/TRAVELXP.HD/index.m3u8?token=fcc6d3877b8def5b0c4bd13db540f1dce20d5481-a025298b3afc8ff762b026d58bc0cbd0-1775374179-1775363379&remote=no_check_ip
-#EXTINF:-1 tvg-name="ZEE BANGLA CINEMA" group-title="Bangla",ZEE BANGLA CINEMA
-http://103.144.89.251:8082/ZEE.BANGLA.CINEMA/index.m3u8?token=99004ed395c245f6e8739453a82d47e4655dbc6c-7b5771ede4a751fc84e21919efb6e03b-1775374180-1775363380&remote=no_check_ip
-#EXTINF:-1 tvg-name="ZEE BANGLA HD" group-title="Bangla",ZEE BANGLA HD
-http://103.144.89.251:8082/ZEE.BANGLA.HD/index.m3u8?token=8adc9c1848e685117df1fe7d64478f363e490b64-ddbfd7a00694737598ab45e21262d1b2-1775374180-1775363380&remote=no_check_ip
-#EXTINF:-1 tvg-name="ZEE CAFE HD" group-title="English",ZEE CAFE HD
-http://103.144.89.251:8082/ZEE.CAFE.HD/index.m3u8?token=c1fc714ee521ce25d0969bfc63c65134615af704-b87e01e93e2e89d0c3ca5c251572882b-1775374181-1775363381&remote=no_check_ip
-#EXTINF:-1 tvg-name="ZEE CINEMA HD" group-title="Hindi",ZEE CINEMA HD
-http://103.144.89.251:8082/ZEE.CINEMA.HD/index.m3u8?token=b83d6bdd206c517eb3c47277d26980287cb21888-d2ba2bb40b2a2ee97e5dc0dc9bd12467-1775374180-1775363380&remote=no_check_ip
-#EXTINF:-1 tvg-name="ZEE TV HD" group-title="Hindi",ZEE TV HD
-http://103.144.89.251:8082/ZEE.TV.HD/index.m3u8?token=f5d0f55f9f714ab2e76d065f7e2d25e90adb9b5a-5b5da922711dfefc4d56268715ee8f17-1775374181-1775363381&remote=no_check_ip
-#EXTINF:-1 tvg-name="ZING" group-title="Hindi",ZING
-http://103.144.89.251:8082/ZING.MUSIC/index.m3u8?token=58ea2e6be10e7418f81ca5d414aa57f8929b0972-d393957445612f54c7a8bf88d983543e-1775374180-1775363380&remote=no_check_ip
-#EXTINF:-1 tvg-name="ZOOM" group-title="Hindi",ZOOM
-http://103.144.89.251:8082/ZOOM.MUSIC/index.m3u8?token=f0ba2a767bda4ede413728640e2ded49fb298de9-608901e87eadb756a317fa1a77c0f000-1775374180-1775363380&remote=no_check_ip
+#EXTM3U
+#EXTINF:-1,Channel C1
+http://maxotts.maxdigitaltv.com/x-media/C1/master.m3u8
+#EXTINF:-1,Channel C2
+http://maxotts.maxdigitaltv.com/x-media/C2/master.m3u8
+#EXTINF:-1,Channel C3
+http://maxotts.maxdigitaltv.com/x-media/C3/master.m3u8
+#EXTINF:-1,Channel C4
+http://maxotts.maxdigitaltv.com/x-media/C4/master.m3u8
+#EXTINF:-1,Channel C5
+http://maxotts.maxdigitaltv.com/x-media/C5/master.m3u8
+#EXTINF:-1,Channel C6
+http://maxotts.maxdigitaltv.com/x-media/C6/master.m3u8
+#EXTINF:-1,Channel C7
+http://maxotts.maxdigitaltv.com/x-media/C7/master.m3u8
+#EXTINF:-1,Channel C8
+http://maxotts.maxdigitaltv.com/x-media/C8/master.m3u8
+#EXTINF:-1,Channel C9
+http://maxotts.maxdigitaltv.com/x-media/C9/master.m3u8
+#EXTINF:-1,Channel C10
+http://maxotts.maxdigitaltv.com/x-media/C10/master.m3u8
+#EXTINF:-1,Channel C11
+http://maxotts.maxdigitaltv.com/x-media/C11/master.m3u8
+#EXTINF:-1,Channel C12
+http://maxotts.maxdigitaltv.com/x-media/C12/master.m3u8
+#EXTINF:-1,Channel C13
+http://maxotts.maxdigitaltv.com/x-media/C13/master.m3u8
+#EXTINF:-1,Channel C14
+http://maxotts.maxdigitaltv.com/x-media/C14/master.m3u8
+#EXTINF:-1,Channel C15
+http://maxotts.maxdigitaltv.com/x-media/C15/master.m3u8
+#EXTINF:-1,Channel C16
+http://maxotts.maxdigitaltv.com/x-media/C16/master.m3u8
+#EXTINF:-1,Channel C17
+http://maxotts.maxdigitaltv.com/x-media/C17/master.m3u8
+#EXTINF:-1,Channel C18
+http://maxotts.maxdigitaltv.com/x-media/C18/master.m3u8
+#EXTINF:-1,Channel C19
+http://maxotts.maxdigitaltv.com/x-media/C19/master.m3u8
+#EXTINF:-1,Channel C20
+http://maxotts.maxdigitaltv.com/x-media/C20/master.m3u8
+#EXTINF:-1,Channel C21
+http://maxotts.maxdigitaltv.com/x-media/C21/master.m3u8
+#EXTINF:-1,Channel C22
+http://maxotts.maxdigitaltv.com/x-media/C22/master.m3u8
+#EXTINF:-1,Channel C23
+http://maxotts.maxdigitaltv.com/x-media/C23/master.m3u8
+#EXTINF:-1,Channel C24
+http://maxotts.maxdigitaltv.com/x-media/C24/master.m3u8
+#EXTINF:-1,Channel C25
+http://maxotts.maxdigitaltv.com/x-media/C25/master.m3u8
+#EXTINF:-1,Channel C26
+http://maxotts.maxdigitaltv.com/x-media/C26/master.m3u8
+#EXTINF:-1,Channel C27
+http://maxotts.maxdigitaltv.com/x-media/C27/master.m3u8
+#EXTINF:-1,Channel C28
+http://maxotts.maxdigitaltv.com/x-media/C28/master.m3u8
+#EXTINF:-1,Channel C29
+http://maxotts.maxdigitaltv.com/x-media/C29/master.m3u8
+#EXTINF:-1,Channel C30
+http://maxotts.maxdigitaltv.com/x-media/C30/master.m3u8
+#EXTINF:-1,Channel C31
+http://maxotts.maxdigitaltv.com/x-media/C31/master.m3u8
+#EXTINF:-1,Channel C32
+http://maxotts.maxdigitaltv.com/x-media/C32/master.m3u8
+#EXTINF:-1,Channel C33
+http://maxotts.maxdigitaltv.com/x-media/C33/master.m3u8
+#EXTINF:-1,Channel C34
+http://maxotts.maxdigitaltv.com/x-media/C34/master.m3u8
+#EXTINF:-1,Channel C35
+http://maxotts.maxdigitaltv.com/x-media/C35/master.m3u8
+#EXTINF:-1,Channel C36
+http://maxotts.maxdigitaltv.com/x-media/C36/master.m3u8
+#EXTINF:-1,Channel C37
+http://maxotts.maxdigitaltv.com/x-media/C37/master.m3u8
+#EXTINF:-1,Channel C38
+http://maxotts.maxdigitaltv.com/x-media/C38/master.m3u8
+#EXTINF:-1,Channel C39
+http://maxotts.maxdigitaltv.com/x-media/C39/master.m3u8
+#EXTINF:-1,Channel C40
+http://maxotts.maxdigitaltv.com/x-media/C40/master.m3u8
+#EXTINF:-1,Channel C41
+http://maxotts.maxdigitaltv.com/x-media/C41/master.m3u8
+#EXTINF:-1,Channel C42
+http://maxotts.maxdigitaltv.com/x-media/C42/master.m3u8
+#EXTINF:-1,Channel C43
+http://maxotts.maxdigitaltv.com/x-media/C43/master.m3u8
+#EXTINF:-1,Channel C44
+http://maxotts.maxdigitaltv.com/x-media/C44/master.m3u8
+#EXTINF:-1,Channel C45
+http://maxotts.maxdigitaltv.com/x-media/C45/master.m3u8
+#EXTINF:-1,Channel C46
+http://maxotts.maxdigitaltv.com/x-media/C46/master.m3u8
+#EXTINF:-1,Channel C47
+http://maxotts.maxdigitaltv.com/x-media/C47/master.m3u8
+#EXTINF:-1,Channel C48
+http://maxotts.maxdigitaltv.com/x-media/C48/master.m3u8
+#EXTINF:-1,Channel C49
+http://maxotts.maxdigitaltv.com/x-media/C49/master.m3u8
+#EXTINF:-1,Channel C50
+http://maxotts.maxdigitaltv.com/x-media/C50/master.m3u8
+#EXTINF:-1,Channel C51
+http://maxotts.maxdigitaltv.com/x-media/C51/master.m3u8
+#EXTINF:-1,Channel C52
+http://maxotts.maxdigitaltv.com/x-media/C52/master.m3u8
+#EXTINF:-1,Channel C53
+http://maxotts.maxdigitaltv.com/x-media/C53/master.m3u8
+#EXTINF:-1,Channel C54
+http://maxotts.maxdigitaltv.com/x-media/C54/master.m3u8
+#EXTINF:-1,Channel C55
+http://maxotts.maxdigitaltv.com/x-media/C55/master.m3u8
+#EXTINF:-1,Channel C56
+http://maxotts.maxdigitaltv.com/x-media/C56/master.m3u8
+#EXTINF:-1,Channel C57
+http://maxotts.maxdigitaltv.com/x-media/C57/master.m3u8
+#EXTINF:-1,Channel C58
+http://maxotts.maxdigitaltv.com/x-media/C58/master.m3u8
+#EXTINF:-1,Channel C59
+http://maxotts.maxdigitaltv.com/x-media/C59/master.m3u8
+#EXTINF:-1,Channel C60
+http://maxotts.maxdigitaltv.com/x-media/C60/master.m3u8
+#EXTINF:-1,Channel C61
+http://maxotts.maxdigitaltv.com/x-media/C61/master.m3u8
+#EXTINF:-1,Channel C62
+http://maxotts.maxdigitaltv.com/x-media/C62/master.m3u8
+#EXTINF:-1,Channel C63
+http://maxotts.maxdigitaltv.com/x-media/C63/master.m3u8
+#EXTINF:-1,Channel C64
+http://maxotts.maxdigitaltv.com/x-media/C64/master.m3u8
+#EXTINF:-1,Channel C65
+http://maxotts.maxdigitaltv.com/x-media/C65/master.m3u8
+#EXTINF:-1,Channel C66
+http://maxotts.maxdigitaltv.com/x-media/C66/master.m3u8
+#EXTINF:-1,Channel C67
+http://maxotts.maxdigitaltv.com/x-media/C67/master.m3u8
+#EXTINF:-1,Channel C68
+http://maxotts.maxdigitaltv.com/x-media/C68/master.m3u8
+#EXTINF:-1,Channel C69
+http://maxotts.maxdigitaltv.com/x-media/C69/master.m3u8
+#EXTINF:-1,Channel C70
+http://maxotts.maxdigitaltv.com/x-media/C70/master.m3u8
+#EXTINF:-1,Channel C71
+http://maxotts.maxdigitaltv.com/x-media/C71/master.m3u8
+#EXTINF:-1,Channel C72
+http://maxotts.maxdigitaltv.com/x-media/C72/master.m3u8
+#EXTINF:-1,Channel C73
+http://maxotts.maxdigitaltv.com/x-media/C73/master.m3u8
+#EXTINF:-1,Channel C74
+http://maxotts.maxdigitaltv.com/x-media/C74/master.m3u8
+#EXTINF:-1,Channel C75
+http://maxotts.maxdigitaltv.com/x-media/C75/master.m3u8
+#EXTINF:-1,Channel C76
+http://maxotts.maxdigitaltv.com/x-media/C76/master.m3u8
+#EXTINF:-1,Channel C77
+http://maxotts.maxdigitaltv.com/x-media/C77/master.m3u8
+#EXTINF:-1,Channel C78
+http://maxotts.maxdigitaltv.com/x-media/C78/master.m3u8
+#EXTINF:-1,Channel C79
+http://maxotts.maxdigitaltv.com/x-media/C79/master.m3u8
+#EXTINF:-1,Channel C80
+http://maxotts.maxdigitaltv.com/x-media/C80/master.m3u8
+#EXTINF:-1,Channel C81
+http://maxotts.maxdigitaltv.com/x-media/C81/master.m3u8
+#EXTINF:-1,Channel C82
+http://maxotts.maxdigitaltv.com/x-media/C82/master.m3u8
+#EXTINF:-1,Channel C83
+http://maxotts.maxdigitaltv.com/x-media/C83/master.m3u8
+#EXTINF:-1,Channel C84
+http://maxotts.maxdigitaltv.com/x-media/C84/master.m3u8
+#EXTINF:-1,Channel C85
+http://maxotts.maxdigitaltv.com/x-media/C85/master.m3u8
+#EXTINF:-1,Channel C86
+http://maxotts.maxdigitaltv.com/x-media/C86/master.m3u8
+#EXTINF:-1,Channel C87
+http://maxotts.maxdigitaltv.com/x-media/C87/master.m3u8
+#EXTINF:-1,Channel C88
+http://maxotts.maxdigitaltv.com/x-media/C88/master.m3u8
+#EXTINF:-1,Channel C89
+http://maxotts.maxdigitaltv.com/x-media/C89/master.m3u8
+#EXTINF:-1,Channel C90
+http://maxotts.maxdigitaltv.com/x-media/C90/master.m3u8
+#EXTINF:-1,Channel C91
+http://maxotts.maxdigitaltv.com/x-media/C91/master.m3u8
+#EXTINF:-1,Channel C92
+http://maxotts.maxdigitaltv.com/x-media/C92/master.m3u8
+#EXTINF:-1,Channel C93
+http://maxotts.maxdigitaltv.com/x-media/C93/master.m3u8
+#EXTINF:-1,Channel C94
+http://maxotts.maxdigitaltv.com/x-media/C94/master.m3u8
+#EXTINF:-1,Channel C95
+http://maxotts.maxdigitaltv.com/x-media/C95/master.m3u8
+#EXTINF:-1,Channel C96
+http://maxotts.maxdigitaltv.com/x-media/C96/master.m3u8
+#EXTINF:-1,Channel C97
+http://maxotts.maxdigitaltv.com/x-media/C97/master.m3u8
+#EXTINF:-1,Channel C98
+http://maxotts.maxdigitaltv.com/x-media/C98/master.m3u8
+#EXTINF:-1,Channel C99
+http://maxotts.maxdigitaltv.com/x-media/C99/master.m3u8
+#EXTINF:-1,Channel C100
+http://maxotts.maxdigitaltv.com/x-media/C100/master.m3u8#EXTM3U
+#EXTINF:-1,Channel C101
+http://maxotts.maxdigitaltv.com/x-media/C101/master.m3u8
+#EXTINF:-1,Channel C102
+http://maxotts.maxdigitaltv.com/x-media/C102/master.m3u8
+#EXTINF:-1,Channel C103
+http://maxotts.maxdigitaltv.com/x-media/C103/master.m3u8
+#EXTINF:-1,Channel C104
+http://maxotts.maxdigitaltv.com/x-media/C104/master.m3u8
+#EXTINF:-1,Channel C105
+http://maxotts.maxdigitaltv.com/x-media/C105/master.m3u8
+#EXTINF:-1,Channel C106
+http://maxotts.maxdigitaltv.com/x-media/C106/master.m3u8
+#EXTINF:-1,Channel C107
+http://maxotts.maxdigitaltv.com/x-media/C107/master.m3u8
+#EXTINF:-1,Channel C108
+http://maxotts.maxdigitaltv.com/x-media/C108/master.m3u8
+#EXTINF:-1,Channel C109
+http://maxotts.maxdigitaltv.com/x-media/C109/master.m3u8
+#EXTINF:-1,Channel C110
+http://maxotts.maxdigitaltv.com/x-media/C110/master.m3u8
+...#EXTINF:-1,Channel C111
+http://maxotts.maxdigitaltv.com/x-media/C111/master.m3u8
+#EXTINF:-1,Channel C112
+http://maxotts.maxdigitaltv.com/x-media/C112/master.m3u8
+#EXTINF:-1,Channel C113
+http://maxotts.maxdigitaltv.com/x-media/C113/master.m3u8
+#EXTINF:-1,Channel C114
+http://maxotts.maxdigitaltv.com/x-media/C114/master.m3u8
+#EXTINF:-1,Channel C115
+http://maxotts.maxdigitaltv.com/x-media/C115/master.m3u8
+#EXTINF:-1,Channel C116
+http://maxotts.maxdigitaltv.com/x-media/C116/master.m3u8
+#EXTINF:-1,Channel C117
+http://maxotts.maxdigitaltv.com/x-media/C117/master.m3u8
+#EXTINF:-1,Channel C118
+http://maxotts.maxdigitaltv.com/x-media/C118/master.m3u8
+#EXTINF:-1,Channel C119
+http://maxotts.maxdigitaltv.com/x-media/C119/master.m3u8
+#EXTINF:-1,Channel C120
+http://maxotts.maxdigitaltv.com/x-media/C120/master.m3u8
+#EXTINF:-1,Channel C121
+http://maxotts.maxdigitaltv.com/x-media/C121/master.m3u8
+#EXTINF:-1,Channel C122
+http://maxotts.maxdigitaltv.com/x-media/C122/master.m3u8
+#EXTINF:-1,Channel C123
+http://maxotts.maxdigitaltv.com/x-media/C123/master.m3u8
+#EXTINF:-1,Channel C124
+http://maxotts.maxdigitaltv.com/x-media/C124/master.m3u8
+#EXTINF:-1,Channel C125
+http://maxotts.maxdigitaltv.com/x-media/C125/master.m3u8
+#EXTINF:-1,Channel C126
+http://maxotts.maxdigitaltv.com/x-media/C126/master.m3u8
+#EXTINF:-1,Channel C127
+http://maxotts.maxdigitaltv.com/x-media/C127/master.m3u8
+#EXTINF:-1,Channel C128
+http://maxotts.maxdigitaltv.com/x-media/C128/master.m3u8
+#EXTINF:-1,Channel C129
+http://maxotts.maxdigitaltv.com/x-media/C129/master.m3u8
+#EXTINF:-1,Channel C130
+http://maxotts.maxdigitaltv.com/x-media/C130/master.m3u8
+#EXTINF:-1,Channel C131
+http://maxotts.maxdigitaltv.com/x-media/C131/master.m3u8
+#EXTINF:-1,Channel C132
+http://maxotts.maxdigitaltv.com/x-media/C132/master.m3u8
+#EXTINF:-1,Channel C133
+http://maxotts.maxdigitaltv.com/x-media/C133/master.m3u8
+#EXTINF:-1,Channel C134
+http://maxotts.maxdigitaltv.com/x-media/C134/master.m3u8
+#EXTINF:-1,Channel C135
+http://maxotts.maxdigitaltv.com/x-media/C135/master.m3u8
+#EXTINF:-1,Channel C136
+http://maxotts.maxdigitaltv.com/x-media/C136/master.m3u8
+#EXTINF:-1,Channel C137
+http://maxotts.maxdigitaltv.com/x-media/C137/master.m3u8
+#EXTINF:-1,Channel C138
+http://maxotts.maxdigitaltv.com/x-media/C138/master.m3u8
+#EXTINF:-1,Channel C139
+http://maxotts.maxdigitaltv.com/x-media/C139/master.m3u8
+#EXTINF:-1,Channel C140
+http://maxotts.maxdigitaltv.com/x-media/C140/master.m3u8
+#EXTINF:-1,Channel C141
+http://maxotts.maxdigitaltv.com/x-media/C141/master.m3u8
+#EXTINF:-1,Channel C142
+http://maxotts.maxdigitaltv.com/x-media/C142/master.m3u8
+#EXTINF:-1,Channel C143
+http://maxotts.maxdigitaltv.com/x-media/C143/master.m3u8
+#EXTINF:-1,Channel C144
+http://maxotts.maxdigitaltv.com/x-media/C144/master.m3u8
+#EXTINF:-1,Channel C145
+http://maxotts.maxdigitaltv.com/x-media/C145/master.m3u8
+#EXTINF:-1,Channel C146
+http://maxotts.maxdigitaltv.com/x-media/C146/master.m3u8
+#EXTINF:-1,Channel C147
+http://maxotts.maxdigitaltv.com/x-media/C147/master.m3u8
+#EXTINF:-1,Channel C148
+http://maxotts.maxdigitaltv.com/x-media/C148/master.m3u8
+#EXTINF:-1,Channel C149
+http://maxotts.maxdigitaltv.com/x-media/C149/master.m3u8
+#EXTINF:-1,Channel C150
+http://maxotts.maxdigitaltv.com/x-media/C150/master.m3u8
+#EXTINF:-1,Channel C151
+http://maxotts.maxdigitaltv.com/x-media/C151/master.m3u8
+#EXTINF:-1,Channel C152
+http://maxotts.maxdigitaltv.com/x-media/C152/master.m3u8
+#EXTINF:-1,Channel C153
+http://maxotts.maxdigitaltv.com/x-media/C153/master.m3u8
+#EXTINF:-1,Channel C154
+http://maxotts.maxdigitaltv.com/x-media/C154/master.m3u8
+#EXTINF:-1,Channel C155
+http://maxotts.maxdigitaltv.com/x-media/C155/master.m3u8
+#EXTINF:-1,Channel C156
+http://maxotts.maxdigitaltv.com/x-media/C156/master.m3u8
+#EXTINF:-1,Channel C157
+http://maxotts.maxdigitaltv.com/x-media/C157/master.m3u8
+#EXTINF:-1,Channel C158
+http://maxotts.maxdigitaltv.com/x-media/C158/master.m3u8
+#EXTINF:-1,Channel C159
+http://maxotts.maxdigitaltv.com/x-media/C159/master.m3u8
+#EXTINF:-1,Channel C160
+http://maxotts.maxdigitaltv.com/x-media/C160/master.m3u8
+#EXTINF:-1,Channel C161
+http://maxotts.maxdigitaltv.com/x-media/C161/master.m3u8
+#EXTINF:-1,Channel C162
+http://maxotts.maxdigitaltv.com/x-media/C162/master.m3u8
+#EXTINF:-1,Channel C163
+http://maxotts.maxdigitaltv.com/x-media/C163/master.m3u8
+#EXTINF:-1,Channel C164
+http://maxotts.maxdigitaltv.com/x-media/C164/master.m3u8
+#EXTINF:-1,Channel C165
+http://maxotts.maxdigitaltv.com/x-media/C165/master.m3u8
+#EXTINF:-1,Channel C166
+http://maxotts.maxdigitaltv.com/x-media/C166/master.m3u8
+#EXTINF:-1,Channel C167
+http://maxotts.maxdigitaltv.com/x-media/C167/master.m3u8
+#EXTINF:-1,Channel C168
+http://maxotts.maxdigitaltv.com/x-media/C168/master.m3u8
+#EXTINF:-1,Channel C169
+http://maxotts.maxdigitaltv.com/x-media/C169/master.m3u8
+#EXTINF:-1,Channel C170
+http://maxotts.maxdigitaltv.com/x-media/C170/master.m3u8
+#EXTINF:-1,Channel C171
+http://maxotts.maxdigitaltv.com/x-media/C171/master.m3u8
+#EXTINF:-1,Channel C172
+http://maxotts.maxdigitaltv.com/x-media/C172/master.m3u8
+#EXTINF:-1,Channel C173
+http://maxotts.maxdigitaltv.com/x-media/C173/master.m3u8
+#EXTINF:-1,Channel C174
+http://maxotts.maxdigitaltv.com/x-media/C174/master.m3u8
+#EXTINF:-1,Channel C175
+http://maxotts.maxdigitaltv.com/x-media/C175/master.m3u8
+#EXTINF:-1,Channel C176
+http://maxotts.maxdigitaltv.com/x-media/C176/master.m3u8
+#EXTINF:-1,Channel C177
+http://maxotts.maxdigitaltv.com/x-media/C177/master.m3u8
+#EXTINF:-1,Channel C178
+http://maxotts.maxdigitaltv.com/x-media/C178/master.m3u8
+#EXTINF:-1,Channel C179
+http://maxotts.maxdigitaltv.com/x-media/C179/master.m3u8
+#EXTINF:-1,Channel C180
+http://maxotts.maxdigitaltv.com/x-media/C180/master.m3u8
+#EXTINF:-1,Channel C181
+http://maxotts.maxdigitaltv.com/x-media/C181/master.m3u8
+#EXTINF:-1,Channel C182
+http://maxotts.maxdigitaltv.com/x-media/C182/master.m3u8
+#EXTINF:-1,Channel C183
+http://maxotts.maxdigitaltv.com/x-media/C183/master.m3u8
+#EXTINF:-1,Channel C184
+http://maxotts.maxdigitaltv.com/x-media/C184/master.m3u8
+#EXTINF:-1,Channel C185
+http://maxotts.maxdigitaltv.com/x-media/C185/master.m3u8
+#EXTINF:-1,Channel C186
+http://maxotts.maxdigitaltv.com/x-media/C186/master.m3u8
+#EXTINF:-1,Channel C187
+http://maxotts.maxdigitaltv.com/x-media/C187/master.m3u8
+#EXTINF:-1,Channel C188
+http://maxotts.maxdigitaltv.com/x-media/C188/master.m3u8
+#EXTINF:-1,Channel C189
+http://maxotts.maxdigitaltv.com/x-media/C189/master.m3u8
+#EXTINF:-1,Channel C190
+http://maxotts.maxdigitaltv.com/x-media/C190/master.m3u8
+#EXTINF:-1,Channel C191
+http://maxotts.maxdigitaltv.com/x-media/C191/master.m3u8
+#EXTINF:-1,Channel C192
+http://maxotts.maxdigitaltv.com/x-media/C192/master.m3u8
+#EXTINF:-1,Channel C193
+http://maxotts.maxdigitaltv.com/x-media/C193/master.m3u8
+#EXTINF:-1,Channel C194
+http://maxotts.maxdigitaltv.com/x-media/C194/master.m3u8
+#EXTINF:-1,Channel C195
+http://maxotts.maxdigitaltv.com/x-media/C195/master.m3u8
+#EXTINF:-1,Channel C196
+http://maxotts.maxdigitaltv.com/x-media/C196/master.m3u8
+#EXTINF:-1,Channel C197
+http://maxotts.maxdigitaltv.com/x-media/C197/master.m3u8
+#EXTINF:-1,Channel C198
+http://maxotts.maxdigitaltv.com/x-media/C198/master.m3u8
+#EXTINF:-1,Channel C199
+http://maxotts.maxdigitaltv.com/x-media/C199/master.m3u8
+#EXTINF:-1,Channel C200
+http://maxotts.maxdigitaltv.com/x-media/C200/master.m3u8
+#EXTINF:-1,Channel C201
+http://maxotts.maxdigitaltv.com/x-media/C201/master.m3u8
+#EXTINF:-1,Channel C202
+http://maxotts.maxdigitaltv.com/x-media/C202/master.m3u8
+#EXTINF:-1,Channel C203
+http://maxotts.maxdigitaltv.com/x-media/C203/master.m3u8
+#EXTINF:-1,Channel C204
+http://maxotts.maxdigitaltv.com/x-media/C204/master.m3u8
+#EXTINF:-1,Channel C205
+http://maxotts.maxdigitaltv.com/x-media/C205/master.m3u8
+#EXTINF:-1,Channel C206
+http://maxotts.maxdigitaltv.com/x-media/C206/master.m3u8
+#EXTINF:-1,Channel C207
+http://maxotts.maxdigitaltv.com/x-media/C207/master.m3u8
+#EXTINF:-1,Channel C208
+http://maxotts.maxdigitaltv.com/x-media/C208/master.m3u8
+#EXTINF:-1,Channel C209
+http://maxotts.maxdigitaltv.com/x-media/C209/master.m3u8
+#EXTINF:-1,Channel C210
+http://maxotts.maxdigitaltv.com/x-media/C210/master.m3u8
+#EXTINF:-1,Channel C211
+http://maxotts.maxdigitaltv.com/x-media/C211/master.m3u8
+#EXTINF:-1,Channel C212
+http://maxotts.maxdigitaltv.com/x-media/C212/master.m3u8
+#EXTINF:-1,Channel C213
+http://maxotts.maxdigitaltv.com/x-media/C213/master.m3u8
+#EXTINF:-1,Channel C214
+http://maxotts.maxdigitaltv.com/x-media/C214/master.m3u8
+#EXTINF:-1,Channel C215
+http://maxotts.maxdigitaltv.com/x-media/C215/master.m3u8
+#EXTINF:-1,Channel C216
+http://maxotts.maxdigitaltv.com/x-media/C216/master.m3u8
+#EXTINF:-1,Channel C217
+http://maxotts.maxdigitaltv.com/x-media/C217/master.m3u8
+#EXTINF:-1,Channel C218
+http://maxotts.maxdigitaltv.com/x-media/C218/master.m3u8
+#EXTINF:-1,Channel C219
+http://maxotts.maxdigitaltv.com/x-media/C219/master.m3u8
+#EXTINF:-1,Channel C220
+http://maxotts.maxdigitaltv.com/x-media/C220/master.m3u8
+#EXTINF:-1,Channel C221
+http://maxotts.maxdigitaltv.com/x-media/C221/master.m3u8
+#EXTINF:-1,Channel C222
+http://maxotts.maxdigitaltv.com/x-media/C222/master.m3u8
+#EXTINF:-1,Channel C223
+http://maxotts.maxdigitaltv.com/x-media/C223/master.m3u8
+#EXTINF:-1,Channel C224
+http://maxotts.maxdigitaltv.com/x-media/C224/master.m3u8
+#EXTINF:-1,Channel C225
+http://maxotts.maxdigitaltv.com/x-media/C225/master.m3u8
+#EXTINF:-1,Channel C226
+http://maxotts.maxdigitaltv.com/x-media/C226/master.m3u8
+#EXTINF:-1,Channel C227
+http://maxotts.maxdigitaltv.com/x-media/C227/master.m3u8
+#EXTINF:-1,Channel C228
+http://maxotts.maxdigitaltv.com/x-media/C228/master.m3u8
+#EXTINF:-1,Channel C229
+http://maxotts.maxdigitaltv.com/x-media/C229/master.m3u8
+#EXTINF:-1,Channel C230
+http://maxotts.maxdigitaltv.com/x-media/C230/master.m3u8
+#EXTINF:-1,Channel C231
+http://maxotts.maxdigitaltv.com/x-media/C231/master.m3u8
+#EXTINF:-1,Channel C232
+http://maxotts.maxdigitaltv.com/x-media/C232/master.m3u8
+#EXTINF:-1,Channel C233
+http://maxotts.maxdigitaltv.com/x-media/C233/master.m3u8
+#EXTINF:-1,Channel C234
+http://maxotts.maxdigitaltv.com/x-media/C234/master.m3u8
+#EXTINF:-1,Channel C235
+http://maxotts.maxdigitaltv.com/x-media/C235/master.m3u8
+#EXTINF:-1,Channel C236
+http://maxotts.maxdigitaltv.com/x-media/C236/master.m3u8
+#EXTINF:-1,Channel C237
+http://maxotts.maxdigitaltv.com/x-media/C237/master.m3u8
+#EXTINF:-1,Channel C238
+http://maxotts.maxdigitaltv.com/x-media/C238/master.m3u8
+#EXTINF:-1,Channel C239
+http://maxotts.maxdigitaltv.com/x-media/C239/master.m3u8
+#EXTINF:-1,Channel C240
+http://maxotts.maxdigitaltv.com/x-media/C240/master.m3u8
+#EXTINF:-1,Channel C241
+http://maxotts.maxdigitaltv.com/x-media/C241/master.m3u8
+#EXTINF:-1,Channel C242
+http://maxotts.maxdigitaltv.com/x-media/C242/master.m3u8
+#EXTINF:-1,Channel C243
+http://maxotts.maxdigitaltv.com/x-media/C243/master.m3u8
+#EXTINF:-1,Channel C244
+http://maxotts.maxdigitaltv.com/x-media/C244/master.m3u8
+#EXTINF:-1,Channel C245
+http://maxotts.maxdigitaltv.com/x-media/C245/master.m3u8
+#EXTINF:-1,Channel C246
+http://maxotts.maxdigitaltv.com/x-media/C246/master.m3u8
+#EXTINF:-1,Channel C247
+http://maxotts.maxdigitaltv.com/x-media/C247/master.m3u8
+#EXTINF:-1,Channel C248
+http://maxotts.maxdigitaltv.com/x-media/C248/master.m3u8
+#EXTINF:-1,Channel C249
+http://maxotts.maxdigitaltv.com/x-media/C249/master.m3u8
+#EXTINF:-1,Channel C250
+http://maxotts.maxdigitaltv.com/x-media/C250/master.m3u8
+#EXTINF:-1,Channel C251
+http://maxotts.maxdigitaltv.com/x-media/C251/master.m3u8
+#EXTINF:-1,Channel C252
+http://maxotts.maxdigitaltv.com/x-media/C252/master.m3u8
+#EXTINF:-1,Channel C253
+http://maxotts.maxdigitaltv.com/x-media/C253/master.m3u8
+#EXTINF:-1,Channel C254
+http://maxotts.maxdigitaltv.com/x-media/C254/master.m3u8
+#EXTINF:-1,Channel C255
+http://maxotts.maxdigitaltv.com/x-media/C255/master.m3u8
+#EXTINF:-1,Channel C256
+http://maxotts.maxdigitaltv.com/x-media/C256/master.m3u8
+#EXTINF:-1,Channel C257
+http://maxotts.maxdigitaltv.com/x-media/C257/master.m3u8
+#EXTINF:-1,Channel C258
+http://maxotts.maxdigitaltv.com/x-media/C258/master.m3u8
+#EXTINF:-1,Channel C259
+http://maxotts.maxdigitaltv.com/x-media/C259/master.m3u8
+#EXTINF:-1,Channel C260
+http://maxotts.maxdigitaltv.com/x-media/C260/master.m3u8
+#EXTINF:-1,Channel C261
+http://maxotts.maxdigitaltv.com/x-media/C261/master.m3u8
+#EXTINF:-1,Channel C262
+http://maxotts.maxdigitaltv.com/x-media/C262/master.m3u8
+#EXTINF:-1,Channel C263
+http://maxotts.maxdigitaltv.com/x-media/C263/master.m3u8
+#EXTINF:-1,Channel C264
+http://maxotts.maxdigitaltv.com/x-media/C264/master.m3u8
+#EXTINF:-1,Channel C265
+http://maxotts.maxdigitaltv.com/x-media/C265/master.m3u8
+#EXTINF:-1,Channel C266
+http://maxotts.maxdigitaltv.com/x-media/C266/master.m3u8
+#EXTINF:-1,Channel C267
+http://maxotts.maxdigitaltv.com/x-media/C267/master.m3u8
+#EXTINF:-1,Channel C268
+http://maxotts.maxdigitaltv.com/x-media/C268/master.m3u8
+#EXTINF:-1,Channel C269
+http://maxotts.maxdigitaltv.com/x-media/C269/master.m3u8
+#EXTINF:-1,Channel C270
+http://maxotts.maxdigitaltv.com/x-media/C270/master.m3u8
+#EXTINF:-1,Channel C271
+http://maxotts.maxdigitaltv.com/x-media/C271/master.m3u8
+#EXTINF:-1,Channel C272
+http://maxotts.maxdigitaltv.com/x-media/C272/master.m3u8
+#EXTINF:-1,Channel C273
+http://maxotts.maxdigitaltv.com/x-media/C273/master.m3u8
+#EXTINF:-1,Channel C274
+http://maxotts.maxdigitaltv.com/x-media/C274/master.m3u8
+#EXTINF:-1,Channel C275
+http://maxotts.maxdigitaltv.com/x-media/C275/master.m3u8
+#EXTINF:-1,Channel C276
+http://maxotts.maxdigitaltv.com/x-media/C276/master.m3u8
+#EXTINF:-1,Channel C277
+http://maxotts.maxdigitaltv.com/x-media/C277/master.m3u8
+#EXTINF:-1,Channel C278
+http://maxotts.maxdigitaltv.com/x-media/C278/master.m3u8
+#EXTINF:-1,Channel C279
+http://maxotts.maxdigitaltv.com/x-media/C279/master.m3u8
+#EXTINF:-1,Channel C280
+http://maxotts.maxdigitaltv.com/x-media/C280/master.m3u8
+#EXTINF:-1,Channel C281
+http://maxotts.maxdigitaltv.com/x-media/C281/master.m3u8
+#EXTINF:-1,Channel C282
+http://maxotts.maxdigitaltv.com/x-media/C282/master.m3u8
+#EXTINF:-1,Channel C283
+http://maxotts.maxdigitaltv.com/x-media/C283/master.m3u8
+#EXTINF:-1,Channel C284
+http://maxotts.maxdigitaltv.com/x-media/C284/master.m3u8
+#EXTINF:-1,Channel C285
+http://maxotts.maxdigitaltv.com/x-media/C285/master.m3u8
+#EXTINF:-1,Channel C286
+http://maxotts.maxdigitaltv.com/x-media/C286/master.m3u8
+#EXTINF:-1,Channel C287
+http://maxotts.maxdigitaltv.com/x-media/C287/master.m3u8
+#EXTINF:-1,Channel C288
+http://maxotts.maxdigitaltv.com/x-media/C288/master.m3u8
+#EXTINF:-1,Channel C289
+http://maxotts.maxdigitaltv.com/x-media/C289/master.m3u8
+#EXTINF:-1,Channel C290
+http://maxotts.maxdigitaltv.com/x-media/C290/master.m3u8
+#EXTINF:-1,Channel C291
+http://maxotts.maxdigitaltv.com/x-media/C291/master.m3u8
+#EXTINF:-1,Channel C292
+http://maxotts.maxdigitaltv.com/x-media/C292/master.m3u8
+#EXTINF:-1,Channel C293
+http://maxotts.maxdigitaltv.com/x-media/C293/master.m3u8
+#EXTINF:-1,Channel C294
+http://maxotts.maxdigitaltv.com/x-media/C294/master.m3u8
+#EXTINF:-1,Channel C295
+http://maxotts.maxdigitaltv.com/x-media/C295/master.m3u8
+#EXTINF:-1,Channel C296
+http://maxotts.maxdigitaltv.com/x-media/C296/master.m3u8
+#EXTINF:-1,Channel C297
+http://maxotts.maxdigitaltv.com/x-media/C297/master.m3u8
+#EXTINF:-1,Channel C298
+http://maxotts.maxdigitaltv.com/x-media/C298/master.m3u8
+#EXTINF:-1,Channel C299
+http://maxotts.maxdigitaltv.com/x-media/C299/master.m3u8
+#EXTINF:-1,Channel C300
+http://maxotts.maxdigitaltv.com/x-media/C300/master.m3u8
