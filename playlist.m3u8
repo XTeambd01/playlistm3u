@@ -1,601 +1,202 @@
-#EXTM3U
-#EXTINF:-1,Channel C1
-http://maxotts.maxdigitaltv.com/x-media/C1/master.m3u8
-#EXTINF:-1,Channel C2
-http://maxotts.maxdigitaltv.com/x-media/C2/master.m3u8
-#EXTINF:-1,Channel C3
-http://maxotts.maxdigitaltv.com/x-media/C3/master.m3u8
-#EXTINF:-1,Channel C4
-http://maxotts.maxdigitaltv.com/x-media/C4/master.m3u8
-#EXTINF:-1,Channel C5
-http://maxotts.maxdigitaltv.com/x-media/C5/master.m3u8
-#EXTINF:-1,Channel C6
-http://maxotts.maxdigitaltv.com/x-media/C6/master.m3u8
-#EXTINF:-1,Channel C7
-http://maxotts.maxdigitaltv.com/x-media/C7/master.m3u8
-#EXTINF:-1,Channel C8
-http://maxotts.maxdigitaltv.com/x-media/C8/master.m3u8
-#EXTINF:-1,Channel C9
-http://maxotts.maxdigitaltv.com/x-media/C9/master.m3u8
-#EXTINF:-1,Channel C10
-http://maxotts.maxdigitaltv.com/x-media/C10/master.m3u8
-#EXTINF:-1,Channel C11
-http://maxotts.maxdigitaltv.com/x-media/C11/master.m3u8
-#EXTINF:-1,Channel C12
-http://maxotts.maxdigitaltv.com/x-media/C12/master.m3u8
-#EXTINF:-1,Channel C13
-http://maxotts.maxdigitaltv.com/x-media/C13/master.m3u8
-#EXTINF:-1,Channel C14
-http://maxotts.maxdigitaltv.com/x-media/C14/master.m3u8
-#EXTINF:-1,Channel C15
-http://maxotts.maxdigitaltv.com/x-media/C15/master.m3u8
-#EXTINF:-1,Channel C16
-http://maxotts.maxdigitaltv.com/x-media/C16/master.m3u8
-#EXTINF:-1,Channel C17
-http://maxotts.maxdigitaltv.com/x-media/C17/master.m3u8
-#EXTINF:-1,Channel C18
-http://maxotts.maxdigitaltv.com/x-media/C18/master.m3u8
-#EXTINF:-1,Channel C19
-http://maxotts.maxdigitaltv.com/x-media/C19/master.m3u8
-#EXTINF:-1,Channel C20
-http://maxotts.maxdigitaltv.com/x-media/C20/master.m3u8
-#EXTINF:-1,Channel C21
-http://maxotts.maxdigitaltv.com/x-media/C21/master.m3u8
-#EXTINF:-1,Channel C22
-http://maxotts.maxdigitaltv.com/x-media/C22/master.m3u8
-#EXTINF:-1,Channel C23
-http://maxotts.maxdigitaltv.com/x-media/C23/master.m3u8
-#EXTINF:-1,Channel C24
-http://maxotts.maxdigitaltv.com/x-media/C24/master.m3u8
-#EXTINF:-1,Channel C25
-http://maxotts.maxdigitaltv.com/x-media/C25/master.m3u8
-#EXTINF:-1,Channel C26
-http://maxotts.maxdigitaltv.com/x-media/C26/master.m3u8
-#EXTINF:-1,Channel C27
-http://maxotts.maxdigitaltv.com/x-media/C27/master.m3u8
-#EXTINF:-1,Channel C28
-http://maxotts.maxdigitaltv.com/x-media/C28/master.m3u8
-#EXTINF:-1,Channel C29
-http://maxotts.maxdigitaltv.com/x-media/C29/master.m3u8
-#EXTINF:-1,Channel C30
-http://maxotts.maxdigitaltv.com/x-media/C30/master.m3u8
-#EXTINF:-1,Channel C31
-http://maxotts.maxdigitaltv.com/x-media/C31/master.m3u8
-#EXTINF:-1,Channel C32
-http://maxotts.maxdigitaltv.com/x-media/C32/master.m3u8
-#EXTINF:-1,Channel C33
-http://maxotts.maxdigitaltv.com/x-media/C33/master.m3u8
-#EXTINF:-1,Channel C34
-http://maxotts.maxdigitaltv.com/x-media/C34/master.m3u8
-#EXTINF:-1,Channel C35
-http://maxotts.maxdigitaltv.com/x-media/C35/master.m3u8
-#EXTINF:-1,Channel C36
-http://maxotts.maxdigitaltv.com/x-media/C36/master.m3u8
-#EXTINF:-1,Channel C37
-http://maxotts.maxdigitaltv.com/x-media/C37/master.m3u8
-#EXTINF:-1,Channel C38
-http://maxotts.maxdigitaltv.com/x-media/C38/master.m3u8
-#EXTINF:-1,Channel C39
-http://maxotts.maxdigitaltv.com/x-media/C39/master.m3u8
-#EXTINF:-1,Channel C40
-http://maxotts.maxdigitaltv.com/x-media/C40/master.m3u8
-#EXTINF:-1,Channel C41
-http://maxotts.maxdigitaltv.com/x-media/C41/master.m3u8
-#EXTINF:-1,Channel C42
-http://maxotts.maxdigitaltv.com/x-media/C42/master.m3u8
-#EXTINF:-1,Channel C43
-http://maxotts.maxdigitaltv.com/x-media/C43/master.m3u8
-#EXTINF:-1,Channel C44
-http://maxotts.maxdigitaltv.com/x-media/C44/master.m3u8
-#EXTINF:-1,Channel C45
-http://maxotts.maxdigitaltv.com/x-media/C45/master.m3u8
-#EXTINF:-1,Channel C46
-http://maxotts.maxdigitaltv.com/x-media/C46/master.m3u8
-#EXTINF:-1,Channel C47
-http://maxotts.maxdigitaltv.com/x-media/C47/master.m3u8
-#EXTINF:-1,Channel C48
-http://maxotts.maxdigitaltv.com/x-media/C48/master.m3u8
-#EXTINF:-1,Channel C49
-http://maxotts.maxdigitaltv.com/x-media/C49/master.m3u8
-#EXTINF:-1,Channel C50
-http://maxotts.maxdigitaltv.com/x-media/C50/master.m3u8
-#EXTINF:-1,Channel C51
-http://maxotts.maxdigitaltv.com/x-media/C51/master.m3u8
-#EXTINF:-1,Channel C52
-http://maxotts.maxdigitaltv.com/x-media/C52/master.m3u8
-#EXTINF:-1,Channel C53
-http://maxotts.maxdigitaltv.com/x-media/C53/master.m3u8
-#EXTINF:-1,Channel C54
-http://maxotts.maxdigitaltv.com/x-media/C54/master.m3u8
-#EXTINF:-1,Channel C55
-http://maxotts.maxdigitaltv.com/x-media/C55/master.m3u8
-#EXTINF:-1,Channel C56
-http://maxotts.maxdigitaltv.com/x-media/C56/master.m3u8
-#EXTINF:-1,Channel C57
-http://maxotts.maxdigitaltv.com/x-media/C57/master.m3u8
-#EXTINF:-1,Channel C58
-http://maxotts.maxdigitaltv.com/x-media/C58/master.m3u8
-#EXTINF:-1,Channel C59
-http://maxotts.maxdigitaltv.com/x-media/C59/master.m3u8
-#EXTINF:-1,Channel C60
-http://maxotts.maxdigitaltv.com/x-media/C60/master.m3u8
-#EXTINF:-1,Channel C61
-http://maxotts.maxdigitaltv.com/x-media/C61/master.m3u8
-#EXTINF:-1,Channel C62
-http://maxotts.maxdigitaltv.com/x-media/C62/master.m3u8
-#EXTINF:-1,Channel C63
-http://maxotts.maxdigitaltv.com/x-media/C63/master.m3u8
-#EXTINF:-1,Channel C64
-http://maxotts.maxdigitaltv.com/x-media/C64/master.m3u8
-#EXTINF:-1,Channel C65
-http://maxotts.maxdigitaltv.com/x-media/C65/master.m3u8
-#EXTINF:-1,Channel C66
-http://maxotts.maxdigitaltv.com/x-media/C66/master.m3u8
-#EXTINF:-1,Channel C67
-http://maxotts.maxdigitaltv.com/x-media/C67/master.m3u8
-#EXTINF:-1,Channel C68
-http://maxotts.maxdigitaltv.com/x-media/C68/master.m3u8
-#EXTINF:-1,Channel C69
-http://maxotts.maxdigitaltv.com/x-media/C69/master.m3u8
-#EXTINF:-1,Channel C70
-http://maxotts.maxdigitaltv.com/x-media/C70/master.m3u8
-#EXTINF:-1,Channel C71
-http://maxotts.maxdigitaltv.com/x-media/C71/master.m3u8
-#EXTINF:-1,Channel C72
-http://maxotts.maxdigitaltv.com/x-media/C72/master.m3u8
-#EXTINF:-1,Channel C73
-http://maxotts.maxdigitaltv.com/x-media/C73/master.m3u8
-#EXTINF:-1,Channel C74
-http://maxotts.maxdigitaltv.com/x-media/C74/master.m3u8
-#EXTINF:-1,Channel C75
-http://maxotts.maxdigitaltv.com/x-media/C75/master.m3u8
-#EXTINF:-1,Channel C76
-http://maxotts.maxdigitaltv.com/x-media/C76/master.m3u8
-#EXTINF:-1,Channel C77
-http://maxotts.maxdigitaltv.com/x-media/C77/master.m3u8
-#EXTINF:-1,Channel C78
-http://maxotts.maxdigitaltv.com/x-media/C78/master.m3u8
-#EXTINF:-1,Channel C79
-http://maxotts.maxdigitaltv.com/x-media/C79/master.m3u8
-#EXTINF:-1,Channel C80
-http://maxotts.maxdigitaltv.com/x-media/C80/master.m3u8
-#EXTINF:-1,Channel C81
-http://maxotts.maxdigitaltv.com/x-media/C81/master.m3u8
-#EXTINF:-1,Channel C82
-http://maxotts.maxdigitaltv.com/x-media/C82/master.m3u8
-#EXTINF:-1,Channel C83
-http://maxotts.maxdigitaltv.com/x-media/C83/master.m3u8
-#EXTINF:-1,Channel C84
-http://maxotts.maxdigitaltv.com/x-media/C84/master.m3u8
-#EXTINF:-1,Channel C85
-http://maxotts.maxdigitaltv.com/x-media/C85/master.m3u8
-#EXTINF:-1,Channel C86
-http://maxotts.maxdigitaltv.com/x-media/C86/master.m3u8
-#EXTINF:-1,Channel C87
-http://maxotts.maxdigitaltv.com/x-media/C87/master.m3u8
-#EXTINF:-1,Channel C88
-http://maxotts.maxdigitaltv.com/x-media/C88/master.m3u8
-#EXTINF:-1,Channel C89
-http://maxotts.maxdigitaltv.com/x-media/C89/master.m3u8
-#EXTINF:-1,Channel C90
-http://maxotts.maxdigitaltv.com/x-media/C90/master.m3u8
-#EXTINF:-1,Channel C91
-http://maxotts.maxdigitaltv.com/x-media/C91/master.m3u8
-#EXTINF:-1,Channel C92
-http://maxotts.maxdigitaltv.com/x-media/C92/master.m3u8
-#EXTINF:-1,Channel C93
-http://maxotts.maxdigitaltv.com/x-media/C93/master.m3u8
-#EXTINF:-1,Channel C94
-http://maxotts.maxdigitaltv.com/x-media/C94/master.m3u8
-#EXTINF:-1,Channel C95
-http://maxotts.maxdigitaltv.com/x-media/C95/master.m3u8
-#EXTINF:-1,Channel C96
-http://maxotts.maxdigitaltv.com/x-media/C96/master.m3u8
-#EXTINF:-1,Channel C97
-http://maxotts.maxdigitaltv.com/x-media/C97/master.m3u8
-#EXTINF:-1,Channel C98
-http://maxotts.maxdigitaltv.com/x-media/C98/master.m3u8
-#EXTINF:-1,Channel C99
-http://maxotts.maxdigitaltv.com/x-media/C99/master.m3u8
-#EXTINF:-1,Channel C100
-http://maxotts.maxdigitaltv.com/x-media/C100/master.m3u8#EXTM3U
-#EXTINF:-1,Channel C101
-http://maxotts.maxdigitaltv.com/x-media/C101/master.m3u8
-#EXTINF:-1,Channel C102
-http://maxotts.maxdigitaltv.com/x-media/C102/master.m3u8
-#EXTINF:-1,Channel C103
-http://maxotts.maxdigitaltv.com/x-media/C103/master.m3u8
-#EXTINF:-1,Channel C104
-http://maxotts.maxdigitaltv.com/x-media/C104/master.m3u8
-#EXTINF:-1,Channel C105
-http://maxotts.maxdigitaltv.com/x-media/C105/master.m3u8
-#EXTINF:-1,Channel C106
-http://maxotts.maxdigitaltv.com/x-media/C106/master.m3u8
-#EXTINF:-1,Channel C107
-http://maxotts.maxdigitaltv.com/x-media/C107/master.m3u8
-#EXTINF:-1,Channel C108
-http://maxotts.maxdigitaltv.com/x-media/C108/master.m3u8
-#EXTINF:-1,Channel C109
-http://maxotts.maxdigitaltv.com/x-media/C109/master.m3u8
-#EXTINF:-1,Channel C110
-http://maxotts.maxdigitaltv.com/x-media/C110/master.m3u8
-...#EXTINF:-1,Channel C111
-http://maxotts.maxdigitaltv.com/x-media/C111/master.m3u8
-#EXTINF:-1,Channel C112
-http://maxotts.maxdigitaltv.com/x-media/C112/master.m3u8
-#EXTINF:-1,Channel C113
-http://maxotts.maxdigitaltv.com/x-media/C113/master.m3u8
-#EXTINF:-1,Channel C114
-http://maxotts.maxdigitaltv.com/x-media/C114/master.m3u8
-#EXTINF:-1,Channel C115
-http://maxotts.maxdigitaltv.com/x-media/C115/master.m3u8
-#EXTINF:-1,Channel C116
-http://maxotts.maxdigitaltv.com/x-media/C116/master.m3u8
-#EXTINF:-1,Channel C117
-http://maxotts.maxdigitaltv.com/x-media/C117/master.m3u8
-#EXTINF:-1,Channel C118
-http://maxotts.maxdigitaltv.com/x-media/C118/master.m3u8
-#EXTINF:-1,Channel C119
-http://maxotts.maxdigitaltv.com/x-media/C119/master.m3u8
-#EXTINF:-1,Channel C120
-http://maxotts.maxdigitaltv.com/x-media/C120/master.m3u8
-#EXTINF:-1,Channel C121
-http://maxotts.maxdigitaltv.com/x-media/C121/master.m3u8
-#EXTINF:-1,Channel C122
-http://maxotts.maxdigitaltv.com/x-media/C122/master.m3u8
-#EXTINF:-1,Channel C123
-http://maxotts.maxdigitaltv.com/x-media/C123/master.m3u8
-#EXTINF:-1,Channel C124
-http://maxotts.maxdigitaltv.com/x-media/C124/master.m3u8
-#EXTINF:-1,Channel C125
-http://maxotts.maxdigitaltv.com/x-media/C125/master.m3u8
-#EXTINF:-1,Channel C126
-http://maxotts.maxdigitaltv.com/x-media/C126/master.m3u8
-#EXTINF:-1,Channel C127
-http://maxotts.maxdigitaltv.com/x-media/C127/master.m3u8
-#EXTINF:-1,Channel C128
-http://maxotts.maxdigitaltv.com/x-media/C128/master.m3u8
-#EXTINF:-1,Channel C129
-http://maxotts.maxdigitaltv.com/x-media/C129/master.m3u8
-#EXTINF:-1,Channel C130
-http://maxotts.maxdigitaltv.com/x-media/C130/master.m3u8
-#EXTINF:-1,Channel C131
-http://maxotts.maxdigitaltv.com/x-media/C131/master.m3u8
-#EXTINF:-1,Channel C132
-http://maxotts.maxdigitaltv.com/x-media/C132/master.m3u8
-#EXTINF:-1,Channel C133
-http://maxotts.maxdigitaltv.com/x-media/C133/master.m3u8
-#EXTINF:-1,Channel C134
-http://maxotts.maxdigitaltv.com/x-media/C134/master.m3u8
-#EXTINF:-1,Channel C135
-http://maxotts.maxdigitaltv.com/x-media/C135/master.m3u8
-#EXTINF:-1,Channel C136
-http://maxotts.maxdigitaltv.com/x-media/C136/master.m3u8
-#EXTINF:-1,Channel C137
-http://maxotts.maxdigitaltv.com/x-media/C137/master.m3u8
-#EXTINF:-1,Channel C138
-http://maxotts.maxdigitaltv.com/x-media/C138/master.m3u8
-#EXTINF:-1,Channel C139
-http://maxotts.maxdigitaltv.com/x-media/C139/master.m3u8
-#EXTINF:-1,Channel C140
-http://maxotts.maxdigitaltv.com/x-media/C140/master.m3u8
-#EXTINF:-1,Channel C141
-http://maxotts.maxdigitaltv.com/x-media/C141/master.m3u8
-#EXTINF:-1,Channel C142
-http://maxotts.maxdigitaltv.com/x-media/C142/master.m3u8
-#EXTINF:-1,Channel C143
-http://maxotts.maxdigitaltv.com/x-media/C143/master.m3u8
-#EXTINF:-1,Channel C144
-http://maxotts.maxdigitaltv.com/x-media/C144/master.m3u8
-#EXTINF:-1,Channel C145
-http://maxotts.maxdigitaltv.com/x-media/C145/master.m3u8
-#EXTINF:-1,Channel C146
-http://maxotts.maxdigitaltv.com/x-media/C146/master.m3u8
-#EXTINF:-1,Channel C147
-http://maxotts.maxdigitaltv.com/x-media/C147/master.m3u8
-#EXTINF:-1,Channel C148
-http://maxotts.maxdigitaltv.com/x-media/C148/master.m3u8
-#EXTINF:-1,Channel C149
-http://maxotts.maxdigitaltv.com/x-media/C149/master.m3u8
-#EXTINF:-1,Channel C150
-http://maxotts.maxdigitaltv.com/x-media/C150/master.m3u8
-#EXTINF:-1,Channel C151
-http://maxotts.maxdigitaltv.com/x-media/C151/master.m3u8
-#EXTINF:-1,Channel C152
-http://maxotts.maxdigitaltv.com/x-media/C152/master.m3u8
-#EXTINF:-1,Channel C153
-http://maxotts.maxdigitaltv.com/x-media/C153/master.m3u8
-#EXTINF:-1,Channel C154
-http://maxotts.maxdigitaltv.com/x-media/C154/master.m3u8
-#EXTINF:-1,Channel C155
-http://maxotts.maxdigitaltv.com/x-media/C155/master.m3u8
-#EXTINF:-1,Channel C156
-http://maxotts.maxdigitaltv.com/x-media/C156/master.m3u8
-#EXTINF:-1,Channel C157
-http://maxotts.maxdigitaltv.com/x-media/C157/master.m3u8
-#EXTINF:-1,Channel C158
-http://maxotts.maxdigitaltv.com/x-media/C158/master.m3u8
-#EXTINF:-1,Channel C159
-http://maxotts.maxdigitaltv.com/x-media/C159/master.m3u8
-#EXTINF:-1,Channel C160
-http://maxotts.maxdigitaltv.com/x-media/C160/master.m3u8
-#EXTINF:-1,Channel C161
-http://maxotts.maxdigitaltv.com/x-media/C161/master.m3u8
-#EXTINF:-1,Channel C162
-http://maxotts.maxdigitaltv.com/x-media/C162/master.m3u8
-#EXTINF:-1,Channel C163
-http://maxotts.maxdigitaltv.com/x-media/C163/master.m3u8
-#EXTINF:-1,Channel C164
-http://maxotts.maxdigitaltv.com/x-media/C164/master.m3u8
-#EXTINF:-1,Channel C165
-http://maxotts.maxdigitaltv.com/x-media/C165/master.m3u8
-#EXTINF:-1,Channel C166
-http://maxotts.maxdigitaltv.com/x-media/C166/master.m3u8
-#EXTINF:-1,Channel C167
-http://maxotts.maxdigitaltv.com/x-media/C167/master.m3u8
-#EXTINF:-1,Channel C168
-http://maxotts.maxdigitaltv.com/x-media/C168/master.m3u8
-#EXTINF:-1,Channel C169
-http://maxotts.maxdigitaltv.com/x-media/C169/master.m3u8
-#EXTINF:-1,Channel C170
-http://maxotts.maxdigitaltv.com/x-media/C170/master.m3u8
-#EXTINF:-1,Channel C171
-http://maxotts.maxdigitaltv.com/x-media/C171/master.m3u8
-#EXTINF:-1,Channel C172
-http://maxotts.maxdigitaltv.com/x-media/C172/master.m3u8
-#EXTINF:-1,Channel C173
-http://maxotts.maxdigitaltv.com/x-media/C173/master.m3u8
-#EXTINF:-1,Channel C174
-http://maxotts.maxdigitaltv.com/x-media/C174/master.m3u8
-#EXTINF:-1,Channel C175
-http://maxotts.maxdigitaltv.com/x-media/C175/master.m3u8
-#EXTINF:-1,Channel C176
-http://maxotts.maxdigitaltv.com/x-media/C176/master.m3u8
-#EXTINF:-1,Channel C177
-http://maxotts.maxdigitaltv.com/x-media/C177/master.m3u8
-#EXTINF:-1,Channel C178
-http://maxotts.maxdigitaltv.com/x-media/C178/master.m3u8
-#EXTINF:-1,Channel C179
-http://maxotts.maxdigitaltv.com/x-media/C179/master.m3u8
-#EXTINF:-1,Channel C180
-http://maxotts.maxdigitaltv.com/x-media/C180/master.m3u8
-#EXTINF:-1,Channel C181
-http://maxotts.maxdigitaltv.com/x-media/C181/master.m3u8
-#EXTINF:-1,Channel C182
-http://maxotts.maxdigitaltv.com/x-media/C182/master.m3u8
-#EXTINF:-1,Channel C183
-http://maxotts.maxdigitaltv.com/x-media/C183/master.m3u8
-#EXTINF:-1,Channel C184
-http://maxotts.maxdigitaltv.com/x-media/C184/master.m3u8
-#EXTINF:-1,Channel C185
-http://maxotts.maxdigitaltv.com/x-media/C185/master.m3u8
-#EXTINF:-1,Channel C186
-http://maxotts.maxdigitaltv.com/x-media/C186/master.m3u8
-#EXTINF:-1,Channel C187
-http://maxotts.maxdigitaltv.com/x-media/C187/master.m3u8
-#EXTINF:-1,Channel C188
-http://maxotts.maxdigitaltv.com/x-media/C188/master.m3u8
-#EXTINF:-1,Channel C189
-http://maxotts.maxdigitaltv.com/x-media/C189/master.m3u8
-#EXTINF:-1,Channel C190
-http://maxotts.maxdigitaltv.com/x-media/C190/master.m3u8
-#EXTINF:-1,Channel C191
-http://maxotts.maxdigitaltv.com/x-media/C191/master.m3u8
-#EXTINF:-1,Channel C192
-http://maxotts.maxdigitaltv.com/x-media/C192/master.m3u8
-#EXTINF:-1,Channel C193
-http://maxotts.maxdigitaltv.com/x-media/C193/master.m3u8
-#EXTINF:-1,Channel C194
-http://maxotts.maxdigitaltv.com/x-media/C194/master.m3u8
-#EXTINF:-1,Channel C195
-http://maxotts.maxdigitaltv.com/x-media/C195/master.m3u8
-#EXTINF:-1,Channel C196
-http://maxotts.maxdigitaltv.com/x-media/C196/master.m3u8
-#EXTINF:-1,Channel C197
-http://maxotts.maxdigitaltv.com/x-media/C197/master.m3u8
-#EXTINF:-1,Channel C198
-http://maxotts.maxdigitaltv.com/x-media/C198/master.m3u8
-#EXTINF:-1,Channel C199
-http://maxotts.maxdigitaltv.com/x-media/C199/master.m3u8
-#EXTINF:-1,Channel C200
-http://maxotts.maxdigitaltv.com/x-media/C200/master.m3u8
-#EXTINF:-1,Channel C201
-http://maxotts.maxdigitaltv.com/x-media/C201/master.m3u8
-#EXTINF:-1,Channel C202
-http://maxotts.maxdigitaltv.com/x-media/C202/master.m3u8
-#EXTINF:-1,Channel C203
-http://maxotts.maxdigitaltv.com/x-media/C203/master.m3u8
-#EXTINF:-1,Channel C204
-http://maxotts.maxdigitaltv.com/x-media/C204/master.m3u8
-#EXTINF:-1,Channel C205
-http://maxotts.maxdigitaltv.com/x-media/C205/master.m3u8
-#EXTINF:-1,Channel C206
-http://maxotts.maxdigitaltv.com/x-media/C206/master.m3u8
-#EXTINF:-1,Channel C207
-http://maxotts.maxdigitaltv.com/x-media/C207/master.m3u8
-#EXTINF:-1,Channel C208
-http://maxotts.maxdigitaltv.com/x-media/C208/master.m3u8
-#EXTINF:-1,Channel C209
-http://maxotts.maxdigitaltv.com/x-media/C209/master.m3u8
-#EXTINF:-1,Channel C210
-http://maxotts.maxdigitaltv.com/x-media/C210/master.m3u8
-#EXTINF:-1,Channel C211
-http://maxotts.maxdigitaltv.com/x-media/C211/master.m3u8
-#EXTINF:-1,Channel C212
-http://maxotts.maxdigitaltv.com/x-media/C212/master.m3u8
-#EXTINF:-1,Channel C213
-http://maxotts.maxdigitaltv.com/x-media/C213/master.m3u8
-#EXTINF:-1,Channel C214
-http://maxotts.maxdigitaltv.com/x-media/C214/master.m3u8
-#EXTINF:-1,Channel C215
-http://maxotts.maxdigitaltv.com/x-media/C215/master.m3u8
-#EXTINF:-1,Channel C216
-http://maxotts.maxdigitaltv.com/x-media/C216/master.m3u8
-#EXTINF:-1,Channel C217
-http://maxotts.maxdigitaltv.com/x-media/C217/master.m3u8
-#EXTINF:-1,Channel C218
-http://maxotts.maxdigitaltv.com/x-media/C218/master.m3u8
-#EXTINF:-1,Channel C219
-http://maxotts.maxdigitaltv.com/x-media/C219/master.m3u8
-#EXTINF:-1,Channel C220
-http://maxotts.maxdigitaltv.com/x-media/C220/master.m3u8
-#EXTINF:-1,Channel C221
-http://maxotts.maxdigitaltv.com/x-media/C221/master.m3u8
-#EXTINF:-1,Channel C222
-http://maxotts.maxdigitaltv.com/x-media/C222/master.m3u8
-#EXTINF:-1,Channel C223
-http://maxotts.maxdigitaltv.com/x-media/C223/master.m3u8
-#EXTINF:-1,Channel C224
-http://maxotts.maxdigitaltv.com/x-media/C224/master.m3u8
-#EXTINF:-1,Channel C225
-http://maxotts.maxdigitaltv.com/x-media/C225/master.m3u8
-#EXTINF:-1,Channel C226
-http://maxotts.maxdigitaltv.com/x-media/C226/master.m3u8
-#EXTINF:-1,Channel C227
-http://maxotts.maxdigitaltv.com/x-media/C227/master.m3u8
-#EXTINF:-1,Channel C228
-http://maxotts.maxdigitaltv.com/x-media/C228/master.m3u8
-#EXTINF:-1,Channel C229
-http://maxotts.maxdigitaltv.com/x-media/C229/master.m3u8
-#EXTINF:-1,Channel C230
-http://maxotts.maxdigitaltv.com/x-media/C230/master.m3u8
-#EXTINF:-1,Channel C231
-http://maxotts.maxdigitaltv.com/x-media/C231/master.m3u8
-#EXTINF:-1,Channel C232
-http://maxotts.maxdigitaltv.com/x-media/C232/master.m3u8
-#EXTINF:-1,Channel C233
-http://maxotts.maxdigitaltv.com/x-media/C233/master.m3u8
-#EXTINF:-1,Channel C234
-http://maxotts.maxdigitaltv.com/x-media/C234/master.m3u8
-#EXTINF:-1,Channel C235
-http://maxotts.maxdigitaltv.com/x-media/C235/master.m3u8
-#EXTINF:-1,Channel C236
-http://maxotts.maxdigitaltv.com/x-media/C236/master.m3u8
-#EXTINF:-1,Channel C237
-http://maxotts.maxdigitaltv.com/x-media/C237/master.m3u8
-#EXTINF:-1,Channel C238
-http://maxotts.maxdigitaltv.com/x-media/C238/master.m3u8
-#EXTINF:-1,Channel C239
-http://maxotts.maxdigitaltv.com/x-media/C239/master.m3u8
-#EXTINF:-1,Channel C240
-http://maxotts.maxdigitaltv.com/x-media/C240/master.m3u8
-#EXTINF:-1,Channel C241
-http://maxotts.maxdigitaltv.com/x-media/C241/master.m3u8
-#EXTINF:-1,Channel C242
-http://maxotts.maxdigitaltv.com/x-media/C242/master.m3u8
-#EXTINF:-1,Channel C243
-http://maxotts.maxdigitaltv.com/x-media/C243/master.m3u8
-#EXTINF:-1,Channel C244
-http://maxotts.maxdigitaltv.com/x-media/C244/master.m3u8
-#EXTINF:-1,Channel C245
-http://maxotts.maxdigitaltv.com/x-media/C245/master.m3u8
-#EXTINF:-1,Channel C246
-http://maxotts.maxdigitaltv.com/x-media/C246/master.m3u8
-#EXTINF:-1,Channel C247
-http://maxotts.maxdigitaltv.com/x-media/C247/master.m3u8
-#EXTINF:-1,Channel C248
-http://maxotts.maxdigitaltv.com/x-media/C248/master.m3u8
-#EXTINF:-1,Channel C249
-http://maxotts.maxdigitaltv.com/x-media/C249/master.m3u8
-#EXTINF:-1,Channel C250
-http://maxotts.maxdigitaltv.com/x-media/C250/master.m3u8
-#EXTINF:-1,Channel C251
-http://maxotts.maxdigitaltv.com/x-media/C251/master.m3u8
-#EXTINF:-1,Channel C252
-http://maxotts.maxdigitaltv.com/x-media/C252/master.m3u8
-#EXTINF:-1,Channel C253
-http://maxotts.maxdigitaltv.com/x-media/C253/master.m3u8
-#EXTINF:-1,Channel C254
-http://maxotts.maxdigitaltv.com/x-media/C254/master.m3u8
-#EXTINF:-1,Channel C255
-http://maxotts.maxdigitaltv.com/x-media/C255/master.m3u8
-#EXTINF:-1,Channel C256
-http://maxotts.maxdigitaltv.com/x-media/C256/master.m3u8
-#EXTINF:-1,Channel C257
-http://maxotts.maxdigitaltv.com/x-media/C257/master.m3u8
-#EXTINF:-1,Channel C258
-http://maxotts.maxdigitaltv.com/x-media/C258/master.m3u8
-#EXTINF:-1,Channel C259
-http://maxotts.maxdigitaltv.com/x-media/C259/master.m3u8
-#EXTINF:-1,Channel C260
-http://maxotts.maxdigitaltv.com/x-media/C260/master.m3u8
-#EXTINF:-1,Channel C261
-http://maxotts.maxdigitaltv.com/x-media/C261/master.m3u8
-#EXTINF:-1,Channel C262
-http://maxotts.maxdigitaltv.com/x-media/C262/master.m3u8
-#EXTINF:-1,Channel C263
-http://maxotts.maxdigitaltv.com/x-media/C263/master.m3u8
-#EXTINF:-1,Channel C264
-http://maxotts.maxdigitaltv.com/x-media/C264/master.m3u8
-#EXTINF:-1,Channel C265
-http://maxotts.maxdigitaltv.com/x-media/C265/master.m3u8
-#EXTINF:-1,Channel C266
-http://maxotts.maxdigitaltv.com/x-media/C266/master.m3u8
-#EXTINF:-1,Channel C267
-http://maxotts.maxdigitaltv.com/x-media/C267/master.m3u8
-#EXTINF:-1,Channel C268
-http://maxotts.maxdigitaltv.com/x-media/C268/master.m3u8
-#EXTINF:-1,Channel C269
-http://maxotts.maxdigitaltv.com/x-media/C269/master.m3u8
-#EXTINF:-1,Channel C270
-http://maxotts.maxdigitaltv.com/x-media/C270/master.m3u8
-#EXTINF:-1,Channel C271
-http://maxotts.maxdigitaltv.com/x-media/C271/master.m3u8
-#EXTINF:-1,Channel C272
-http://maxotts.maxdigitaltv.com/x-media/C272/master.m3u8
-#EXTINF:-1,Channel C273
-http://maxotts.maxdigitaltv.com/x-media/C273/master.m3u8
-#EXTINF:-1,Channel C274
-http://maxotts.maxdigitaltv.com/x-media/C274/master.m3u8
-#EXTINF:-1,Channel C275
-http://maxotts.maxdigitaltv.com/x-media/C275/master.m3u8
-#EXTINF:-1,Channel C276
-http://maxotts.maxdigitaltv.com/x-media/C276/master.m3u8
-#EXTINF:-1,Channel C277
-http://maxotts.maxdigitaltv.com/x-media/C277/master.m3u8
-#EXTINF:-1,Channel C278
-http://maxotts.maxdigitaltv.com/x-media/C278/master.m3u8
-#EXTINF:-1,Channel C279
-http://maxotts.maxdigitaltv.com/x-media/C279/master.m3u8
-#EXTINF:-1,Channel C280
-http://maxotts.maxdigitaltv.com/x-media/C280/master.m3u8
-#EXTINF:-1,Channel C281
-http://maxotts.maxdigitaltv.com/x-media/C281/master.m3u8
-#EXTINF:-1,Channel C282
-http://maxotts.maxdigitaltv.com/x-media/C282/master.m3u8
-#EXTINF:-1,Channel C283
-http://maxotts.maxdigitaltv.com/x-media/C283/master.m3u8
-#EXTINF:-1,Channel C284
-http://maxotts.maxdigitaltv.com/x-media/C284/master.m3u8
-#EXTINF:-1,Channel C285
-http://maxotts.maxdigitaltv.com/x-media/C285/master.m3u8
-#EXTINF:-1,Channel C286
-http://maxotts.maxdigitaltv.com/x-media/C286/master.m3u8
-#EXTINF:-1,Channel C287
-http://maxotts.maxdigitaltv.com/x-media/C287/master.m3u8
-#EXTINF:-1,Channel C288
-http://maxotts.maxdigitaltv.com/x-media/C288/master.m3u8
-#EXTINF:-1,Channel C289
-http://maxotts.maxdigitaltv.com/x-media/C289/master.m3u8
-#EXTINF:-1,Channel C290
-http://maxotts.maxdigitaltv.com/x-media/C290/master.m3u8
-#EXTINF:-1,Channel C291
-http://maxotts.maxdigitaltv.com/x-media/C291/master.m3u8
-#EXTINF:-1,Channel C292
-http://maxotts.maxdigitaltv.com/x-media/C292/master.m3u8
-#EXTINF:-1,Channel C293
-http://maxotts.maxdigitaltv.com/x-media/C293/master.m3u8
-#EXTINF:-1,Channel C294
-http://maxotts.maxdigitaltv.com/x-media/C294/master.m3u8
-#EXTINF:-1,Channel C295
-http://maxotts.maxdigitaltv.com/x-media/C295/master.m3u8
-#EXTINF:-1,Channel C296
-http://maxotts.maxdigitaltv.com/x-media/C296/master.m3u8
-#EXTINF:-1,Channel C297
-http://maxotts.maxdigitaltv.com/x-media/C297/master.m3u8
-#EXTINF:-1,Channel C298
-http://maxotts.maxdigitaltv.com/x-media/C298/master.m3u8
-#EXTINF:-1,Channel C299
-http://maxotts.maxdigitaltv.com/x-media/C299/master.m3u8
-#EXTINF:-1,Channel C300
-http://maxotts.maxdigitaltv.com/x-media/C300/master.m3u8
+#EXTINF:-1,T SPORTS
+https://edge2.roarzone.net:8447/roarzone/edge2/tsports/index.m3u8?token=339792d71aac2462913446e41cafc4377dc0460c-c724c4a3008edd1f6983c91de2f985e8-1776613482-1776602682
+#EXTINF:-1,GAZI TV
+https://edge2.roarzone.net:8447/roarzone/edge2/gazi/index.m3u8?token=de490df77af4b621e45b6994ef4a0c05170524be-80f38a17d4f3675f5be591f72da09d3a-1776613483-1776602683
+#EXTINF:-1,STAR SPORTS 1
+https://edge2.roarzone.net:8447/roarzone/edge2/star-sports-1/index.m3u8?token=3877865673546b7338480d60a2d9c8127c03d862-5de362ade3edc89259ac8beaffbe3310-1776613483-1776602683
+#EXTINF:-1,STAR SPORTS 2
+https://edge2.roarzone.net:8447/roarzone/edge2/star-sports-2/index.m3u8?token=8da725b63a79840d305be23d36d9ee5312463ac1-1fdea43bc99ef97c70b114842aa32189-1776613482-1776602682
+#EXTINF:-1,STAR SPORTS 3
+https://edge2.roarzone.net:8447/roarzone/edge2/star-sports-3/index.m3u8?token=9451f3d29bc820b7030ead5ed3efaaad1ed226ef-8f77dae224054b800a6f65931326fe66-1776613482-1776602682
+#EXTINF:-1,STAR SPORTS SELECT 1
+https://edge2.roarzone.net:8447/roarzone/edge2/star-sports-select-1/index.m3u8?token=32a2bee8784c4979788956d8a4dbea75620416d4-ccb54abc0a16f91040cd810c92b75baf-1776613482-1776602682
+#EXTINF:-1,STAR SPORTS SELECT 2
+https://edge2.roarzone.net:8447/roarzone/edge2/star-sports-select-2/index.m3u8?token=7fc6df9e5dc00296213dbff3e95ecbeaaa866a8d-7f6e13c2b865ea08032bed36718b6b09-1776613482-1776602682
+#EXTINF:-1,PTV SPOTRS
+https://edge2.roarzone.net:8447/roarzone/edge2/ptv-sports/index.m3u8?token=986bf0691809fc2aa562f0dbe0423e1ad04bf47f-6208c8c0931088ebb3792df9afaf5fc7-1776613483-1776602683
+#EXTINF:-1,ASPORTS
+https://edge2.roarzone.net:8447/roarzone/edge2/a-sports/index.m3u8?token=7a6c6a777c4df9b1f91b6d80d5066cd645bc10d1-c3a6e1e8d3dcd865ba63101b3d6b4803-1776613482-1776602682
+#EXTINF:-1,SONY TEN 1
+https://edge2.roarzone.net:8447/roarzone/edge3/sony-sports-ten-1-hd/index.m3u8?token=4b35d0db42e01bd79be70996c23d1b223d0be992-86e0c726402ef93fe839229edacd1b1f-1776613483-1776602683
+#EXTINF:-1,SONY TEN 2
+https://edge2.roarzone.net:8447/roarzone/edge3/sony-sports-ten-2-hd/index.m3u8?token=5db28d8e40fd8e12da02d9edf6dc93a59d422161-dd3e0f41ec9db50deed854c52fa04b57-1776613483-1776602683
+#EXTINF:-1,SONY TEN 3
+https://edge2.roarzone.net:8447/roarzone/edge4/Sony-Ten-3/index.m3u8?token=d01f501d08cb431a83e1366a09725f339ba040e2-8dc8e8a6e7e5d71aa8d2bf1427ac38de-1776613482-1776602682
+#EXTINF:-1,SONY SIX
+https://edge2.roarzone.net:8447/roarzone/edge3/sony-sports-ten-5-hd/index.m3u8?token=23cca7b4ee5bef6707ece00005379f18c3940efa-78972d54283f7441e332c7eae9ce038e-1776613482-1776602682
+#EXTINF:-1,EURO SPORTS
+https://edge2.roarzone.net:8447/roarzone/edge3/euro-sport-hd/index.m3u8?token=762201a0e65cb25fd82592be3ca3ed3d36a833eb-a1d28a6ef71a6de31cf8d191c78fd7f8-1776613483-1776602683
+#EXTINF:-1,TEN CRICKET
+https://edge2.roarzone.net:8447/roarzone/edge3/sony-ten-cricket/index.m3u8?token=faef64cc1d7a026bbfbecbc759f25782589f0b2f-3e7c7c102f5f76995ea553097601b864-1776613483-1776602683
+#EXTINF:-1,TEN SPORTS
+https://edge2.roarzone.net:8447/roarzone/edge4/Ten-Sports/index.m3u8?token=78ba8c653b801dda627c8584c59c4e9ac3c57bad-28f29ee138abe49012cf15fbe44a97b5-1776613483-1776602683
+#EXTINF:-1,WILLOW
+https://edge2.roarzone.net:8447/roarzone/edge4/WILLOW-TV/index.m3u8?token=c4f9fba99d1abc677bbc157798a84cf63c2862cf-a64aee9e4566ee421915818feec57de7-1776613483-1776602683
+#EXTINF:-1,STAR GOLD
+https://edge2.roarzone.net:8447/roarzone/edge2/star-gold/index.m3u8?token=2a7e62030b0ceaabfde7539cfdaaed948bc42c5b-d2c989b6eb3ebc588282f6871ecb69e4-1776613483-1776602683
+#EXTINF:-1,SONY TV
+https://edge2.roarzone.net:8447/roarzone/edge3/sony-entertainment-television-hd/index.m3u8?token=b326a5cabfb37ee2200a22fe2bde1b269808bdd5-7d8554eb9cd71db61552b350909e9865-1776613483-1776602683
+#EXTINF:-1,SONY MAX
+https://edge2.roarzone.net:8447/roarzone/edge3/sony-max/index.m3u8?token=6f524a9444d6dadefe4985efae61ecc55fb2c0af-68a882366f3cd0b0eabe014beee6ed07-1776613483-1776602683
+#EXTINF:-1,SONY MAX HD
+https://edge2.roarzone.net:8447/roarzone/edge3/sony-max-hd/index.m3u8?token=16d3549f92c0b5d363e47f596e0b2aaefee0e5ef-f8812480e322989d00f120c43f73bbce-1776613483-1776602683
+#EXTINF:-1,COLORS
+https://edge2.roarzone.net:8447/roarzone/edge2/colors/index.m3u8?token=6de87a8c6b55d7768c9cb9f26b216c935221a5a1-a49dad2d66c4b03817319c4855c313df-1776613482-1776602682
+#EXTINF:-1,SONY MAX 2
+https://edge2.roarzone.net:8447/roarzone/edge3/sony-max-2/index.m3u8?token=fb18ff0aa81f70a8a36d74a4113113c616855f76-3b1dac4fce4047ba720e04c5cf39b472-1776613483-1776602683
+#EXTINF:-1,ZEE TV
+https://edge2.roarzone.net:8447/roarzone/edge3/zee-tv-hd/index.m3u8?token=efcd8aef4de3a65894365d1f5cd14e5817ff850f-ddb97ec17c9861e2d6b3e83e4c17357c-1776613483-1776602683
+#EXTINF:-1,ZEE CINEMA
+https://edge2.roarzone.net:8447/roarzone/edge3/zee-cinema-hd/index.m3u8?token=d974a992a7515b5a64a5f404be7deaa0b556cbb3-aff19d1df203cdbe7ac42fdb19a86c78-1776613483-1776602683
+#EXTINF:-1,ZEE BOLLYWOOD
+https://edge2.roarzone.net:8447/roarzone/edge3/zee-bollywood/index.m3u8?token=ec7312a8eec19678d9568eda0cb80062d7b986be-af15cc1fbac9ff91d5a643fd4b2914d5-1776613482-1776602682
+#EXTINF:-1,ZEE ACTION
+https://edge2.roarzone.net:8447/roarzone/edge3/zee-action/index.m3u8?token=a8afa0b917358d190f217d580894ff8e2f1b073b-c0fe2307602b66c8945eee9512fdc819-1776613482-1776602682
+#EXTINF:-1,STAR PLUS
+https://edge2.roarzone.net:8447/roarzone/bk/67/index.m3u8?token=2996b09887bfc86d4a7d8fe252ea01be6fcffb0e-8b82cb9ca99233e490b25bb019801c89-1776613482-1776602682
+#EXTINF:-1,AND TV HD
+https://edge2.roarzone.net:8447/roarzone/edge3/tv-hd/index.m3u8?token=436d3c923783d5abf0a12ee8fde904b4cbaee7c2-8a4816dde9d36c5b953bebdc9a6c3ecd-1776613483-1776602683
+#EXTINF:-1,AND PICTURES
+https://edge2.roarzone.net:8447/roarzone/edge3/pictures-hd/index.m3u8?token=f4d14a5521553857d5cd0c68784d4e32a13343a5-4593b4717fa16bc335d3d7fec12b5837-1776613483-1776602683
+#EXTINF:-1,HUM TV
+https://edge2.roarzone.net:8447/roarzone/edge3/hum/index.m3u8?token=81b0598d215c5e5e9557fdd2209e7e860fede26e-88592af0010f3c7125f36809fba34367-1776613482-1776602682
+#EXTINF:-1,ZEE-ANMOL
+https://edge2.roarzone.net:8447/roarzone/edge3/zee-anmol/index.m3u8?token=2bc52526a4847b064311f7675fed651c1cadbc86-ea2cde8bf3325fe29b659d65ceaa69b9-1776613483-1776602683
+#EXTINF:-1,HUM MASALA
+https://edge2.roarzone.net:8447/roarzone/edge3/hum-masala/index.m3u8?token=e84485e8428ef8eac792186221be3e1f14c018dc-87fd5727bff1682f455a9cbed1dc2850-1776613482-1776602682
+#EXTINF:-1,HUM SITAREY
+https://edge2.roarzone.net:8447/roarzone/edge3/hum-sitaray/index.m3u8?token=4dd080bc0125f91591c0ab264760e042b9e6f2da-f38b1127661389ae4eb1816311b08886-1776613482-1776602682
+#EXTINF:-1,B4U MOVIES
+https://edge2.roarzone.net:8447/roarzone/edge3/b4u-movies-apac/index.m3u8?token=95ddf001f23d1e6028f4d5e7d598fe8fc1c8fce3-a51baf46735c7435915bfab7b7fac5d3-1776613482-1776602682
+#EXTINF:-1,SONY SAB
+https://edge2.roarzone.net:8447/roarzone/edge3/sony-sab-hd/index.m3u8?token=7e0a406cd2afa30a0ef5e5e9e101b9b47a8d5716-6c6ef32b8bbf5afe84cb8061c302507d-1776613483-1776602683
+#EXTINF:-1,DISCOVERY HD
+https://edge2.roarzone.net:8447/roarzone/edge3/discovery-hd/index.m3u8?token=504f064b07065e2c588a52d83539ae82dc91b961-876bd47921ed6f82b5cedd9868291bf8-1776613483-1776602683
+#EXTINF:-1,DISCOVERY SCIENCE
+https://edge2.roarzone.net:8447/roarzone/edge3/discovery-science/index.m3u8?token=4072aed4ad440fa2276f6d74bcb500b901c290cc-9398bae07f89e0b4421d861c5e67d956-1776613483-1776602683
+#EXTINF:-1,DISCOVERY TURBO
+https://edge2.roarzone.net:8447/roarzone/edge3/discovery-turbo/index.m3u8?token=b36c14b74094a7a6235832788bb6f2a962ad3015-8ffeb6a10a0b38198e04c796cff6d2a9-1776613483-1776602683
+#EXTINF:-1,DISCOVERY HD INVESTIGATION
+https://edge2.roarzone.net:8447/roarzone/edge3/investigation-discovery-hd/index.m3u8?token=28a9392f46b7e476f5d278796cef3da97d3109df-42127e9ad27be56e9e8c30d03d75980e-1776613483-1776602683
+#EXTINF:-1,CNN
+https://edge2.roarzone.net:8447/roarzone/edge3/cnn/index.m3u8?token=26de87e41047df6de5ac251a626d9f509771ba89-da41c823b1b7ead277105a3881674968-1776613483-1776602683
+#EXTINF:-1,SONY BBC EARTH HD
+https://edge2.roarzone.net:8447/roarzone/edge3/sony-bbc-earth-hd/index.m3u8?token=7370b48b6afb257b38e993232978f2654558004b-cd65f1f9a066977b5296b863c6ac6c62-1776613482-1776602682
+#EXTINF:-1,NATGEO
+https://edge2.roarzone.net:8447/roarzone/bk/35/index.m3u8?token=e299544b760cadc2bb9e70ff025d8ff299d33796-8790621ea7f31aad752107d965659379-1776613483-1776602683
+#EXTINF:-1,ANIMAL PLANET
+https://edge2.roarzone.net:8447/roarzone/edge3/animal-planet-hd/index.m3u8?token=83f3bb771762f2705dfd1f2362e67b1b9022a3b4-3b4a258294822255e344dfc4988e4f44-1776613483-1776602683
+#EXTINF:-1,STAR JALSHA
+https://edge2.roarzone.net:8447/roarzone/edge2/star-jalsha/index.m3u8?token=6bed8d1e5709731730b101e637a01a3d1e5b9de0-0a5f4932a2b83ce31f801e15353d553a-1776613482-1776602682
+#EXTINF:-1,STAR JALSHA MOVIES
+https://edge2.roarzone.net:8447/roarzone/edge2/jalsha-movies/index.m3u8?token=82d3e3588d4a0dbc82069e37c0d515fa9a0105af-fcaafb6f67fd74f806abf598d31d82a9-1776613482-1776602682
+#EXTINF:-1,ZEE BANGLA
+https://edge2.roarzone.net:8447/roarzone/edge3/zee-bangla/index.m3u8?token=74ab8404cb017d8116be3bd8c4b5999115ecfd73-48e909521717c780cee0a8f3a3145300-1776613483-1776602683
+#EXTINF:-1,ZEE BANGLA CINEMA
+https://edge2.roarzone.net:8447/roarzone/edge3/zee-bangla-cinema/index.m3u8?token=8b7861abd355e0cb91e13bff012c0b9b22b12b05-930592d66369c6e97ac5c2f14a781bb0-1776613483-1776602683
+#EXTINF:-1,COLORS BANGLA
+https://edge2.roarzone.net:8447/roarzone/edge2/colors-bangla/index.m3u8?token=ba36ce25c6d384b325cc19d1c96bac0244aacd2e-45e602cb4d13ccbfe2de3e5be3af09b5-1776613483-1776602683
+#EXTINF:-1,SONY AATH
+https://edge2.roarzone.net:8447/roarzone/edge3/sony-aath/index.m3u8?token=c9b877d280c625a229f2e18b66dc268a58e573f3-ed61b6941f2a00b7ad4b5c95c26733e2-1776613482-1776602682
+#EXTINF:-1,CARTOON NETWORK HD
+https://edge2.roarzone.net:8447/roarzone/edge3/cartoon-network-hd/index.m3u8?token=cc8f930525118edbfb14c3d40e2529099cb1f665-926e9cfd9e8de1c274239971b2321c72-1776613483-1776602683
+#EXTINF:-1,CARTOON NETWORK
+https://edge2.roarzone.net:8447/roarzone/edge3/cartoon-network/index.m3u8?token=3be3391403d92dbf70822ae578ba6265ce3c4427-0200124b7708bb9e11c14d66ab32f727-1776613483-1776602683
+#EXTINF:-1,NICK
+https://edge2.roarzone.net:8447/roarzone/bk/55/index.m3u8?token=46bf24530635f2b214ca71ed19950bdb05c45645-b8f3a8fb967c67ae8f7dd8c5e428d410-1776613483-1776602683
+#EXTINF:-1,POGO
+https://edge2.roarzone.net:8447/roarzone/edge3/pogo/index.m3u8?token=663502cd8840bfba57c721533834580dc11fd2bd-27768ef673f9eb4fb49bfd851e407acc-1776613483-1776602683
+#EXTINF:-1,DISCOVERY KIDS
+https://edge2.roarzone.net:8447/roarzone/edge3/discovery-kids/index.m3u8?token=5df6c1cbc397b29b583536a677241cfaaa659e96-60bfbe2e0b6771d1f40e176110803251-1776613483-1776602683
+#EXTINF:-1,SONY YAY
+https://edge2.roarzone.net:8447/roarzone/edge3/sony-yay/index.m3u8?token=711b9e2b7df4aade13cb711003e9909abd5aa180-7f0fbd95f62d6d11c6fd8434586b51d1-1776613483-1776602683
+#EXTINF:-1,STAR MOVIES
+https://edge2.roarzone.net:8447/roarzone/bk/starmovies/index.m3u8?token=97369211580e9fdff4a75bb3cd1d1db52eee6c69-f6ec56e4280fbe9e0918f4b0810f9174-1776613482-1776602682
+#EXTINF:-1,ZEE CAFE HD
+https://edge2.roarzone.net:8447/roarzone/edge3/zee-cafe/index.m3u8?token=c0bdadcb30db8f03ed5edbc89d1fa6e80568ce4f-b78537ef5452875a530d25067baf4c68-1776613483-1776602683
+#EXTINF:-1,SONY PIX
+https://edge2.roarzone.net:8447/roarzone/edge3/sony-pix-hd/index.m3u8?token=0dd8adc70cd5a990030afe27cc9df083a593d255-d8a34b594912d268a6e14fb226ab78e3-1776613483-1776602683
+#EXTINF:-1,DW NEWS
+https://edge2.roarzone.net:8447/roarzone/bk/85/index.m3u8?token=e600b8054fbe43b0d862d7788c0430a78cdedae7-697141f3f5ae460735ec59b7c0cd65f8-1776613483-1776602683
+#EXTINF:-1,AL JAZEERA
+https://edge2.roarzone.net:8447/roarzone/bk/89/index.m3u8?token=a51a0c7a3ff64f9c224c784694ea518b295ede74-7e69f7d654e5cb2359335e420788af13-1776613483-1776602683
+#EXTINF:-1,TLC HD
+https://edge2.roarzone.net:8447/roarzone/edge3/tlc-hd/index.m3u8?token=e379a91b837d601d338223e50cb7f1eda201c80c-7d5f74d7e3a7e80de61a1465eb603ee2-1776613483-1776602683
+#EXTINF:-1,GAAN BANGLA
+https://edge2.roarzone.net:8447/roarzone/bk/58/index.m3u8?token=7abfd7930e7e7c398ceb65b282e8773deddfd8c1-4952ffe4d4ccf2970f92abb173892fb5-1776613482-1776602682
+#EXTINF:-1,9XM
+https://edge2.roarzone.net:8447/roarzone/bk/48/index.m3u8?token=f862754bb33b622e38fff8e7bc51dbc722dc6f7f-000a32d04d08831a147f52aa8d3bde9b-1776613483-1776602683
+#EXTINF:-1,ZING
+https://edge2.roarzone.net:8447/roarzone/edge3/zing/index.m3u8?token=dd490d1c6e0efbd489d451ba1016c58866f428ce-893dc0592f6139bc000ac91752946c6d-1776613482-1776602682
+#EXTINF:-1,B4U MUSIC
+https://edge2.roarzone.net:8447/roarzone/edge3/b4u-music/index.m3u8?token=bcde94ad2273a3d3f88c10980735b595a61807e1-df34e475b66fab80d23a302324034375-1776613482-1776602682
+#EXTINF:-1,JAMUNA TV
+https://edge2.roarzone.net:8447/roarzone/edge3/jamuna-tv/index.m3u8?token=5aa8ec597ee3246f5552db9c0fe043e68866c9d5-b264110cae5a4c9ac6814462e54b36dd-1776613482-1776602682
+#EXTINF:-1,NAGORIK TV
+https://edge2.roarzone.net:8447/roarzone/edge2/nagorik/index.m3u8?token=4430744bb0c73aae6540500ef10c4d5284ac445b-3f9f6593d872344e29b55539cfbcf38d-1776613483-1776602683
+#EXTINF:-1,CHANNEL 24
+https://edge2.roarzone.net:8447/roarzone/edge2/channel24/index.m3u8?token=8b1801c3a0d5677d4b9592afdf76e12c73487f6e-6b192c497c99f9485833b0ac26cfb1b3-1776613482-1776602682
+#EXTINF:-1,CHANNEL S
+https://edge2.roarzone.net:8447/roarzone/edge3/channel-s/index.m3u8?token=576af79a8484968b8bf7c3da86b343ae04676627-64c4dca15aff28773f83fb6ec0272953-1776613482-1776602682
+#EXTINF:-1,SOMOY TV
+https://edge2.roarzone.net:8447/roarzone/edge3/somoy-tv/index.m3u8?token=4aaa0a4965147d1c70cce2806de54482a6188a98-ccf9be5ceb78da00333a65b92e3c716f-1776613482-1776602682
+#EXTINF:-1,EKUSHY TV
+https://edge2.roarzone.net:8447/roarzone/bk/65/index.m3u8?token=b61b38c9827d35b3fc46f0d810787fe7b80d7b73-a4a3770fe825ef2b2945bd4e4c6d8d7d-1776613482-1776602682
+#EXTINF:-1,ASIAN TV
+https://edge2.roarzone.net:8447/roarzone/edge3/asian-tv/index.m3u8?token=c0a0042f37a81e26b7f1af0f3ae702cfa6212035-ee687ae51e6db2cd04c02167c93a31bd-1776613482-1776602682
+#EXTINF:-1,ATN BANGLA
+https://edge2.roarzone.net:8447/roarzone/bk/2/index.m3u8?token=0edb3dfc5c7bfc2354686abb2a4ff9674f929fd6-1af5e68db0f6055be67cc0642558252b-1776613483-1776602683
+#EXTINF:-1,ATN NEWS
+https://edge2.roarzone.net:8447/roarzone/edge2/atn-news/index.m3u8?token=41292fcef48fb3475620ec795045c27f3c58603a-278eddffe693d2d4d3a929ef2a534f73-1776613482-1776602682
+#EXTINF:-1,BANGLAVISION TV
+https://edge2.roarzone.net:8447/roarzone/edge2/banglavision/index.m3u8?token=fbe86fd81c0abdd84925d5cb599c274ed1954d00-9606d6922db7076c9ff5113a97456710-1776613483-1776602683
+#EXTINF:-1,GLOBAL TV
+https://edge2.roarzone.net:8447/roarzone/edge3/global-tv/index.m3u8?token=5ce4cd23eeb6fca6c5b2e2639ae890d50e36f552-83884b43e2e1207f34b559b594ae4729-1776613483-1776602683
+#EXTINF:-1,ANANDA TV
+https://edge2.roarzone.net:8447/roarzone/edge3/ananda-tv/index.m3u8?token=8615ccd1ad6186a134a012f5c6a9b38179233e6b-1d70e177a5e3c61eb62df2658d6b4569-1776613483-1776602683
+#EXTINF:-1,BANGLA TV
+https://edge2.roarzone.net:8447/roarzone/edge3/bangla-tv/index.m3u8?token=e9ebf5d0a25744174973373901d8191c1be99479-b9bc459b6c93afdeb5982ea393a511fa-1776613483-1776602683
+#EXTINF:-1,BOISHAKHI TV
+https://edge2.roarzone.net:8447/roarzone/bk/61/index.m3u8?token=389a8a2a3a7aa2f12a6486eeb24e590ed223594f-02c6b99461a17a06f32483ff0a02808c-1776613482-1776602682
+#EXTINF:-1,BTV
+https://edge2.roarzone.net:8447/roarzone/bk/53/index.m3u8?token=80f09ca5931bc4825a1fd5e8b804427eccbcdff3-187f3303056fc105acced13ec8127e54-1776613483-1776602683
+#EXTINF:-1,BTV WORLD
+https://edge2.roarzone.net:8447/roarzone/bk/84/index.m3u8?token=b6f6fa8316aa72814861765ca5e325a1664cfbce-daa8075a01289fb74dc872698f6a2261-1776613483-1776602683
+#EXTINF:-1,CHANNEL 9
+https://edge2.roarzone.net:8447/roarzone/bk/4/index.m3u8?token=f269bee47312feeebad17e9e94f0427ad30f172c-2a497142f2176f5793003c2dc2693f1a-1776613483-1776602683
+#EXTINF:-1,CHANNEL I
+https://edge2.roarzone.net:8447/roarzone/edge3/channel-i/index.m3u8?token=907be7f23d6e661d735312ac17e4ef422ce7f9a2-c1f58e550c0104f520ad3d426ba52840-1776613483-1776602683
+#EXTINF:-1,DBC NEWS
+https://edge2.roarzone.net:8447/roarzone/edge2/dbc/index.m3u8?token=48971e2d405f7ea1d8fe117d48d4e0191db449b4-8206bd3e35338fd3e77a073e3265489b-1776613482-1776602682
+#EXTINF:-1,EKATTOR TV
+https://edge2.roarzone.net:8447/roarzone/edge3/ekattor-tv/index.m3u8?token=efa8e8c5ea1092b207a6cd46b58b0766cd818f4f-0664a1b191569c66ecab0ca9623823e1-1776613482-1776602682
+#EXTINF:-1,DEEPTO TV
+https://edge2.roarzone.net:8447/roarzone/edge2/deepto_tv/index.m3u8?token=60e671de65b94b5fd9e138d6a5c3dd0ebfdff823-b05ceb80e01410e3ae28574d4e1d35c9-1776613482-1776602682
+#EXTINF:-1,DESH TV
+https://edge2.roarzone.net:8447/roarzone/bk/9/index.m3u8?token=93994c8aa19d3a91ae894359335856ab3fdf7563-14ed510d1dcbcad36513a06b1a083edd-1776613483-1776602683
+#EXTINF:-1,DURONTO TV
+https://edge2.roarzone.net:8447/roarzone/bk/10/index.m3u8?token=59c79b61c840d3083ea96a4b41ba3d58aeb60e0f-67fe0172488f8a4b0ad1aef82fa616a5-1776613482-1776602682
+#EXTINF:-1,INDEPENDENT TV
+https://edge2.roarzone.net:8447/roarzone/edge3/independent-tv/index.m3u8?token=8240422589ba813491219b5876ccfd41b6cdff8c-94a515c11d073ea5f66708fed27fca31-1776613483-1776602683
+#EXTINF:-1,MAASRANGA
+https://edge2.roarzone.net:8447/roarzone/edge2/mashraga/index.m3u8?token=96e7f3c82eb8b64760b3777a72811bcfc13da3e1-895d8dbf0ea8a7b50b9518dfdc3ce5e2-1776613483-1776602683
+#EXTINF:-1,MOHONA TV
+https://edge2.roarzone.net:8447/roarzone/bk/50/index.m3u8?token=533043d00a265fb9430ed3ec95015288b5394494-3da62fdf4fb0a26ba1b1a57a51a93d5b-1776613482-1776602682
+#EXTINF:-1,MOVIE BANGLA TV
+https://edge2.roarzone.net:8447/roarzone/edge3/movie-bangla/index.m3u8?token=c45891131f793c5ac4bbbe69da8ccfcf82e469bc-fd407a27c3774c73dfcb016a7296519c-1776613482-1776602682
+#EXTINF:-1,MY TV
+https://edge2.roarzone.net:8447/roarzone/bk/56/index.m3u8?token=9ac8ffb92b9aeb72232b28596017e1eac0b59ae1-05d54a8ce5fa5eec0428877fbdd4a844-1776613482-1776602682
+#EXTINF:-1,NEWS24
+https://edge2.roarzone.net:8447/roarzone/bk/18/index.m3u8?token=27a29707de5a4312e61b042eb55b5502b4d1e539-c005f9a9adc3f88a3932ed71f8726fe5-1776613482-1776602682
+#EXTINF:-1,NTV
+https://edge2.roarzone.net:8447/roarzone/bk/54/index.m3u8?token=7c00a13c06ac030fc03da3f901a88691ed942e57-81101a7b221d911d24fbb574c23bf8df-1776613483-1776602683
+#EXTINF:-1,RTV
+https://edge2.roarzone.net:8447/roarzone/bk/14/index.m3u8?token=781232f7fe87f007793503ca59e55a51bbf50a58-d01a8041ac9d6b5422d65ce77342990e-1776613483-1776602683
+#EXTINF:-1,SA TV
+https://edge2.roarzone.net:8447/roarzone/bk/15/index.m3u8?token=8acf0b7481b6ac3659b6e40cc543759a5eb4f3e5-c45cbb09faea12349ac7dd5213f0824f-1776613483-1776602683
+#EXTINF:-1,SANGSAD TV
+https://edge2.roarzone.net:8447/roarzone/bk/88/index.m3u8?token=72fcf6dd19ba4c0e9e9ac3c6ffc0f3e3be5e4b47-f607dec08f9089c5a7f6c45066aa2a1c-1776613482-1776602682
+#EXTINF:-1,EKHON
+https://edge2.roarzone.net:8447/roarzone/edge3/ekhon-tv/index.m3u8?token=b52b20264a191da062964b35536f723e33561690-2300c57601e34eae5dd9a55029da0f3b-1776613483-1776602683
+#EXTINF:-1,BIJOY-TV
+https://edge2.roarzone.net:8447/roarzone/edge3/bijoy-tv/index.m3u8?token=79bb0cdcd840f575709972a6bea177b4190e63d3-98a949ca8992def2e3cc0a528abca27d-1776613482-1776602682
