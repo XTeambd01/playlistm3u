@@ -1,2 +1,104 @@
-EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPkLNzYmE3iWoT0RIUPh5dPx392smbo8bbbTfkUy2nWw&s=10" group-title="PSL + IPL",IPL 2026 বাংলা কমেন্ট্রি
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://image2url.com/r2/default/images/1770813874301-25b66e67-53d0-4fe4-b4e9-879e73dab118.png" group-title="Sany Sports", T Sports
+https://tinyurl.com/sanyxtsports1
+
+#EXTINF:-1 tvg-logo="https://image2url.com/r2/default/images/1770813874301-25b66e67-53d0-4fe4-b4e9-879e73dab118.png" group-title="Sany Sports", T Sports2
+https://tinyurl.com/smbt1
+
+#EXTINF:-1 tvg-logo="https://image2url.com/r2/default/images/1770813888776-cc2f459b-8c1b-4eb5-911f-d5ca2753a4ad.webp" group-title="Sany Sports", Willow
+https://xteambd01.github.io/biotv/?id=cricbuzz-1-mpd-link
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/39BX6RwQ/images-2026-04-22-T220118-363.png" group-title="Sany Sports", Willow live 2
+https://playztv-apps.pages.dev/willow/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pix1.b442d6eefbd6173bad7ee5bde6cd31e8.com/download/fdba6bfebbc1a9ac4723d4979feff73c/mahmudsany+wapkizs+com/Sany-boss-starsp-png-(mahmudsany.wapkizs.com).png" group-title="Sany Sports", Star Sports1
+https://playztv-apps.pages.dev/star-sports/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image2url.com/r2/default/images/1775898160765-4f2145f1-d24c-4960-9fb6-f3ca51ac5d43.jpeg" group-title="Sany Sports", Star Sports2
+https://kstv.us:8080/live/qdxkt3R5pH/5118349267/15965.m3u8
+
+#EXTINF:-1 tvg-logo="https://image2url.com/r2/default/images/1770818399114-f7c0b6d5-c4f6-4e4d-963b-4af52365d90c.png" group-title="Sany Sports", Star Sports Select1
+https://sportsbuzz7.vercel.app/?id=star-sports-select-2-hd
+
+#EXTINF:-1 tvg-logo="https://pix1.b442d6eefbd6173bad7ee5bde6cd31e8.com/download/31001906d2626c1de954ceebc34b4e33/mahmudsany+wapkizs+com/logo-Asports-png-(mahmudsany.wapkizs.com).png" group-title="Sany Sports", A Sports
+https://tinyurl.com/sanyxasports2
+
+#EXTINF:-1 tvg-logo="https://pix1.b442d6eefbd6173bad7ee5bde6cd31e8.com/download/582580105ab6c615bdc7cb9fac1e96c7/mahmudsany+wapkizs+com/Sany-boss-ptv-png-(mahmudsany.wapkizs.com).png" group-title="Sany Sports", PTV Sports
+https://playztv-apps.pages.dev/ptvsports/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/BwKj1kv.th.png" group-title="Sany Sports", Dazn Sports 1
+https://xteambd01.github.io/biotv/?id=dazn-1
+
+#EXTINF:-1 tvg-logo="https://iili.io/BwfEf7p.th.png" group-title="Sany Sports", Dazn Sports2
+https://xteambd01.github.io/biotv/?id=dazn-2
+
+#EXTINF:-1 tvg-logo="https://iili.io/BwfM00b.th.png" group-title="Sany Sports", Dazn Sports 5
+https://xteambd01.github.io/biotv/?id=dazn-5
+
+#EXTINF:-1 tvg-logo="https://pix1.b442d6eefbd6173bad7ee5bde6cd31e8.com/download/68f1ca0e9187c461978600ae57b1227b/mahmudsany+wapkizs+com/Sany-boss-sky-png-(mahmudsany.wapkizs.com).png" group-title="Sany Sports", Sky Sports cricket
+https://xteambd01.github.io/biotv/?id=sky-sports-cricket
+
+#EXTINF:-1 tvg-logo="https://iili.io/BwqnX0g.th.jpg" group-title="Sany Sports", Sky Sports Football
+https://xteambd01.github.io/biotv/?id=sky-sports-football
+
+#EXTINF:-1 tvg-logo="https://iili.io/BwqxloB.th.png" group-title="Sany Sports", Sky Sports Epl
+https://xteambd01.github.io/biotv/?id=sky-sports-epl
+
+#EXTINF:-1 tvg-logo="https://image2url.com/r2/default/images/1770816194383-197d0825-4a9b-4289-a106-7fa74b984326.jpeg" group-title="Sany Sports", Sony Sports1
+https://sportsbuzz7.vercel.app/?id=sony-ten-1-hd
+
+#EXTINF:-1 tvg-logo="https://pix1.b442d6eefbd6173bad7ee5bde6cd31e8.com/download/d89beec390ed8a95c1308e6bf057eebd/youtube99+wapo+mobi/download-2026-01-11T123513-975-png-(youtube99.wapo.mobi).png" group-title="Sany Sports", Sony Sports2
+https://sportsbuzz7.vercel.app/?id=sony-ten-2-hd
+
+#EXTINF:-1 tvg-logo="https://image2url.com/r2/default/images/1770816206763-d715ae15-7c11-43cb-83cb-40df6d2bd57b.jpeg" group-title="Sany Sports", Sony Sports 3
+https://sportsbuzz7.vercel.app/?id=sony-ten-3-hd
+
+#EXTINF:-1 tvg-logo="https://image2url.com/r2/default/images/1770816220566-2711c35f-9eaf-4e5a-827e-2bb1cc4bc98b.jpeg" group-title="Sany Sports", Sony Sports 5
+https://sportsbuzz7.vercel.app/?id=sony-5-hd
+
+#EXTINF:-1 tvg-logo="https://image2url.com/r2/default/images/1769518043218-f7ca15c5-10ae-4a5d-bc35-309e338671c6.png" group-title="Sany Sports", Bein Sports 1
+https://wahyu1ptv.pages.dev/AstroBein1.m3u8
+
+#EXTINF:-1 tvg-logo="https://image2url.com/r2/default/images/1769518061040-7ae16705-8bd5-4a11-8305-b82535e3dc5c.jpeg" group-title="Sany Sports", Bein Sports 2
+https://wahyu1ptv.pages.dev/AstroBein2.m3u8
+
+#EXTINF:-1 tvg-logo="https://image2url.com/r2/default/images/1769518072904-3b0d895c-b673-4438-a644-73a50beb048f.png" group-title="Sany Sports", Bein Sports 3
+https://wahyu1ptv.pages.dev/AstroBein3.m3u8
+
+#EXTINF:-1 tvg-logo="https://image2url.com/r2/default/images/1775896747230-bd83bcb9-0ef3-4fc9-ac65-4bf9abee3b9e.png" group-title="Sany Sports", Max Sports
+https://xteambd01.github.io/biotv/?id=kantipur-max-hd
+
+#EXTINF:-1 tvg-logo="https://image2url.com/r2/default/images/1775896883083-499dfd29-001a-4c53-8f45-bed6289d53a8.png" group-title="Sany Sports", Max Sports 2
+https://xteambd01.github.io/biotv/?id=kantipur-max-2-hd
+
+#EXTINF:-1 tvg-logo="https://image2url.com/r2/default/images/1775897812486-428e14de-b8f0-4ed2-b1a2-d63d86e956c4.png" group-title="Sany Sports", Espn Sports
+https://xteambd01.github.io/biotv/?id=sky-sports-mix
+
+#EXTINF:-1 tvg-logo="https://image2url.com/r2/default/images/1775897830283-431df799-94bb-46a2-9391-53be20b9c24b.png" group-title="Sany Sports", Espn Sports 2
+https://xteambd01.github.io/biotv/?id=sky-sports-main-event
+
+#EXTINF:-1 tvg-logo="https://image2url.com/r2/default/images/1770813914728-0fc45457-4dd6-485d-a5f4-cd17fc2cdaab.jpeg" group-title="Sany Sports", Bein Sports Extra
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/3DPQBC7.png.png" group-title="Sany Sports", Tnt Sports 1
+https://xteambd01.github.io/biotv/?id=tnt-sports-1
+
+#EXTINF:-1 tvg-logo="https://iili.io/3OKhGKg.png" group-title="Sany Sports", Tnt Sports 2
+https://xteambd01.github.io/biotv/?id=tnt-sports-2
+
+#EXTINF:-1 tvg-logo="https://iili.io/3DPQCG9.png.png" group-title="Sany Sports", Tnt Sports3
+https://xteambd01.github.io/biotv/?id=tnt-sports-3
+
+#EXTINF:-1 tvg-logo="https://iili.io/BwKZMUG.th.jpg" group-title="Sany Sports", Hub Sports
+https://xteambd01.github.io/biotv/?id=ipl-2026-hub-sports
+
+#EXTINF:-1 tvg-logo="https://image2url.com/r2/default/images/1770813925571-1d0a3a17-2019-4c7e-9f85-75d7267e7e36.webp" group-title="Sany Sports", Fifa Tv
+https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://image2url.com/r2/default/images/1769917825664-7029e70e-12e8-4e77-9a1e-5e8fffef8682.jpeg" group-title="Sany Sports", Laliga Tv
+https://is.gd/sanyxlaliga
+
+#EXTINF:-1 tvg-logo="https://image2url.com/r2/default/images/1769874775570-c4ded786-4cc8-400d-b7db-b56df6815fab.jpeg" group-title="Sany Sports", Real Madrid Tv
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPkLNzYmE3iWoT0RIUPh5dPx392smbo8bbbTfkUy2nWw&s=10" group-title="PSL + IPL",IPL 2026 বাংলা কমেন্ট্রি
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/705160.ts
