@@ -1,4 +1,4 @@
-const M3U_URL = 'https://raw.githubusercontent.com/mdarif2743/Cmcl-digital-mpd/refs/heads/main/README.m3u';
+const M3U_URL = 'https://raw.githubusercontent.com/XTeambd01/playlistm3u/refs/heads/main/playlist.m3u8';
 const video = document.getElementById('mainPlayer');
 const playerWrapper = document.getElementById('playerWrapper');
 
