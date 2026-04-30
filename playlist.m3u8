@@ -102,3 +102,150 @@ https://is.gd/sanyxlaliga
 #EXTINF:-1 tvg-logo="https://image2url.com/r2/default/images/1769874775570-c4ded786-4cc8-400d-b7db-b56df6815fab.jpeg" group-title="Sany Sports", Real Madrid Tv
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPkLNzYmE3iWoT0RIUPh5dPx392smbo8bbbTfkUy2nWw&s=10" group-title="PSL + IPL",IPL 2026 বাংলা কমেন্ট্রি
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/705160.ts
+EXTINF:-1 tvg-id="daznlaliga2" tvg-logo="", DAZN 1
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2531/index.m3u8
+
+#EXTINF:-1 tvg-id="daznlaliga2" tvg-logo="", DAZN 2
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2532/index.m3u8
+#EXTINF:-1 tvg-id="daznlaliga2" tvg-logo="", DAZN 3
+
+
+#EXTINF:-1 tvg-id="daznlaliga2" tvg-logo="", DAZN 4
+
+
+#EXTINF:-1 tvg-id="daznlaliga2" tvg-logo="", DAZN 5
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2535/index.m3u8
+
+#EXTINF:-1 tvg-id="Eurosport 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlw-Kq3yru8w7W1UBKBHMRpskcS4oi3sWt0G7moHIIyVvmHGN17QAXFmDh5A&s" group-title="Sports", EUROSPORT 1
+http://151.80.18.177:86/Eurosport_HD/index.m3u8
+
+
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsoBgMQ2Ia0mhn7QY_hV_5us_kfXCxY5tX6EjY2aG9tYBsYOTz7iFwvAiWZw&s" group-title="Sports", EUROSPORT 2 
+http://151.80.18.177:86/Eurosport_2_HD/index.m3u8#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY1.png" group-title="PREMIUM SPORT",Bein Sports 1
+http://27.124.71.27/beIN_Sports_1/index.m3u8
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/415625.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY2.png" group-title="PREMIUM SPORT",Bein Sports 2
+http://27.124.71.27/beIN_Sports_2/index.m3u8
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/415626.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY3.png" group-title="PREMIUM SPORT",Bein Sports 3
+http://27.124.71.27/beIN_Sports_3/index.m3u8
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs1hd.png" group-title="beIN SPORTS HD",beIN SPORTS 1 HD
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/652310.ts
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs2hd.png" group-title="beIN SPORTS HD",beIN SPORTS 2 HD
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/652311.ts
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs3hd.png" group-title="beIN SPORTS HD",beIN SPORTS 3 HD
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/652312.ts
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs4hd.png" group-title="beIN SPORTS HD",beIN SPORTS 4 HD
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/652313.ts
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs5hd.png" group-title="beIN SPORTS HD",beIN SPORTS 5 HD
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/652314.ts
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs6hd.png" group-title="beIN SPORTS HD",beIN SPORTS 6 HD
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/652315.ts
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs7hd.png" group-title="beIN SPORTS HD",beIN SPORTS 7 HD
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/652316.ts
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs8hd.png" group-title="beIN SPORTS HD",beIN SPORTS 8 HD
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/652317.ts
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs9hd.png" group-title="beIN SPORTS HD",beIN SPORTS 9 HD
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/652318.ts
+
+
+#EXTINF:-1,BEIN SPORTS 1 FRANCE
+http://99.27.51.147:8080/BeinSport/index.m3u8
+
+#EXTINF:-1,BEIN SPORTS 2 FRANCE
+http://99.27.51.147:8080/BeinSport2/index.m3u8
+
+#EXTINF:-1,BEIN SPORTS 3 FRANCE
+http://99.27.51.147:8080/BeinSport3/index.m3u8
+
+#EXTINF:0,Sport 1
+http://212.102.38.45/live/test_sport1_25p/playlist.m3u8
+
+#EXTINF:0,Sport 2
+http://212.102.38.45/live/test_sport_2/playlist.m3u8
+
+#EXTINF:50,Sporty TV
+https://dash2.antik.sk/live/sporty_tv/index.m3u8
+
+#EXTINF:-1,TEN SPORTS
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/98.ts
+#EXTINF:-1,TEN CRICKET 
+https://toffe.cr7x.workers.dev/can/ten_cricket/.m3u8EXTINF:-1,LIVE SPORTS
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6554/index.m3u8
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtZcJANelaW8aBRREj0hAfcWIjvYWJdJ_Epg&usqp=CAU",Willow Cricket
+http://i2col4q6.russtv.net/iptv/GFETD2V4GYT5Q449F9XNUYDZ/31131/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/500px-T_Sports_logo.svg.png" group-title="AynaOTT - Sports",T Sports
+http://163.227.239.233:8080/stream.php?id=1
+https://iptv.prisma.net.bd/hls/stream4/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-chno="500" tvg-id="213212" tvg-name="KANTIPUR MAX  HD" tvg-logo="http://ottcasomsapi.maxdigitaltv.com/uploads/channels/channel_212_1742546009_thumb.png",KANTIPUR MAX  HD
+http://maxotts.maxdigitaltv.com/x-media/C413/master.m3u8
+#EXTINF:-1 tvg-chno="501" tvg-id="504" tvg-name="KANTIPUR MAX 2 HD" tvg-logo="http://ottcasomsapi.maxdigitaltv.com/uploads/channels/channel-logo-C190-1763958788.png",KANTIPUR MAX 2 HD
+http://maxotts.maxdigitaltv.com/x-media/C190/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrZBygzDovVY_wCvtTy8J8SQogo6-QPwfmGThA4vBFcWXFqXLpCNpQuaG7&s=10" group-title="PSL + IPL",PSL 2026 ENGLISH
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrZBygzDovVY_wCvtTy8J8SQogo6-QPwfmGThA4vBFcWXFqXLpCNpQuaG7&s=10" group-title="PSL + IPL",PSL 2026 URDU
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrZBygzDovVY_wCvtTy8J8SQogo6-QPwfmGThA4vBFcWXFqXLpCNpQuaG7&s=10" group-title="PSL + IPL",PSL 2026 GEO SUPER
+http://163.227.239.233:8080/stream.php?id=3
+
+#EXTINF:-1, (SA VS NZ) SUPER SPORTS CRICKET 🏏 
+#http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/158442.ts
+http://180.94.28.28:8097//SUPERSPORT-CRICKET/index.fmp4.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPkLNzYmE3iWoT0RIUPh5dPx392smbo8bbbTfkUy2nWw&s=10" group-title="PSL + IPL",IPL 2026 HUB SPORTS 
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/196347.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPkLNzYmE3iWoT0RIUPh5dPx392smbo8bbbTfkUy2nWw&s=10" group-title="PSL + IPL",IPL 2026 4k live
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/333368.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPkLNzYmE3iWoT0RIUPh5dPx392smbo8bbbTfkUy2nWw&s=10" group-title="PSL + IPL",IPL 2026 4k live hindi 2
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/705144.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPkLNzYmE3iWoT0RIUPh5dPx392smbo8bbbTfkUy2nWw&s=10" group-title="PSL + IPL",IPL 2026 4k live
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/705141.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPkLNzYmE3iWoT0RIUPh5dPx392smbo8bbbTfkUy2nWw&s=10" group-title="PSL + IPL",IPL 2026 বাংলা কমেন্ট্রি
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/705160.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPkLNzYmE3iWoT0RIUPh5dPx392smbo8bbbTfkUy2nWw&s=10" group-title="PSL + IPL",IPL 2026 2
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/705136.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPkLNzYmE3iWoT0RIUPh5dPx392smbo8bbbTfkUy2nWw&s=10" group-title="PSL + IPL",IPL 2026
+http://ptuf.ridsys.in/riptv/live/STAR_SPORTS_1_HD/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPkLNzYmE3iWoT0RIUPh5dPx392smbo8bbbTfkUy2nWw&s=10" group-title="PSL + IPL",IPL 2026 AD FREE LIVE HINDI 1
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/705131.ts
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPkLNzYmE3iWoT0RIUPh5dPx392smbo8bbbTfkUy2nWw&s=10" group-title="PSL + IPL",IPL 2026 AD FREE LIVE HINDI 2
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/705137.ts
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/epg/2025/05/09/20250509042549016858_59.png", Cricbuzz 1 MPD LINK
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/2494.ts
