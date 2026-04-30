@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sportzfy Tv By Sany</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- PLAYER SECTION -->
+<div id="playerWrapper">
+    <video id="mainPlayer" controls autoplay></video>
+</div>
+
+<!-- TOP NAVIGATION -->
+<div class="topbar">
+    <div class="left">
+        <div class="toggle" onclick="toggleDrawer()">☰</div>
+        <div class="brand">Sportzfy Tv</div>
+    </div>
+    <div class="right">
+        <div id="time">00:00 AM</div>
+        <div class="search" onclick="toggleSearch()">🔍</div>
+    </div>
+</div>
+
+<!-- SIDE MENU -->
+<div class="drawer" id="drawer">
+    <div class="drawer-header">
+        <h3>Menu</h3>
+        <div class="close-btn" onclick="toggleDrawer()">✖</div>
+    </div>
+    <a href="index.html">Home</a>
+    <a href="#" onclick="location.reload()">Refresh Playlist</a>
+    <a href="https://crex.live">Live Score</a>
+</div>
+
+<div class="sub"><div class="title">Live Streaming</div></div>
+
+<!-- SEARCH BOX -->
+<div class="searchbox" id="searchBox">
+    <input type="text" placeholder="Search your channel..." onkeyup="filterChannels(this.value)">
+</div>
+
+<!-- CHANNEL LIST -->
+<div id="channelList">
+    <div class="loading-spinner">Fetching Channels from GitHub...</div>
+</div>
+
+<!-- HLS library and Custom Script -->
+<script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+<script src="script.js"></script>
+
+</body>
+          </html>
