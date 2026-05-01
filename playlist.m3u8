@@ -2,15 +2,15 @@
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtZcJANelaW8aBRREj0hAfcWIjvYWJdJ_Epg&usqp=CAU",Willow SPORTS
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive:license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive:license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+#KODIPROP:inputstream.adaptive:manifest_type=mpd
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/800px-Flag_of_Bangladesh.svg.png",LIVE SPORTS AKASH DTH 1
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/bd.png",LIVE SPORTS AKASH DTH 1
 https://owrcovcrpy.gpcdn.net/bpk-tv/1730/output/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/800px-Flag_of_Bangladesh.svg.png",LIVE SPORTS AKASH DTH 2
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/bd.png",LIVE SPORTS AKASH DTH 2
 https://owrcovcrpy.gpcdn.net/bpk-tv/1731/output/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtZcJANelaW8aBRREj0hAfcWIjvYWJdJ_Epg&usqp=CAU",Willow Cricket
@@ -70,7 +70,7 @@ http://stb-air.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_STAR_SPORTS_SELECT_1
 #EXTINF:-1 tvg-id="89" group-title="Sports" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735045174734.png",Star Sports Select 2 HD
 http://i2col4q6.russtv.net/iptv/GFETD2V4GYT5Q449F9XNUYDZ/2507/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/800px-Flag_of_Bangladesh.svg.png",STAR SPORTS KHEL
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/bd.png",STAR SPORTS KHEL
 http://103.175.73.12:8080/live/151/151_0.m3u8
 
 #EXTINF:-1 tvg-name="A sports" tvg-logo="https://s3.aynaott.com/storage/f32cb68f73e383cf0e3f12ad2732b902" group-title="Channels",A sports
@@ -79,16 +79,16 @@ https://yupptv.rkdyiptv.workers.dev/live/3327.m3u8
 #EXTINF:-1 tvg-logo="https://ptv.com.pk/frontend/media/introduction/logosarchive/ptvsports.png" group-title="AynaOTT - Sports",PTV Sports
 https://yupptv.rkdyiptv.workers.dev/live/1991.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/800px-Flag_of_Bangladesh.svg.png",DAZN 1
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/bd.png",DAZN 1
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2531/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/800px-Flag_of_Bangladesh.svg.png",DAZN 2
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/bd.png",DAZN 2
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2532/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/800px-Flag_of_Bangladesh.svg.png",TNT SPORTS
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/bd.png",TNT SPORTS
 http://46.225.94.157/hls/tnt/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/800px-Flag_of_Bangladesh.svg.png",SKY SPORTS BUNDESLIGA
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/bd.png",SKY SPORTS BUNDESLIGA
 http://104.194.8.54:9090/281188_.m3u8
 
 #EXTINF:-1 group-title="Cricket" tvg-logo="http://image.5gtv.online/logo/sports/willow.png", Willow Cricket
@@ -97,10 +97,10 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/215.ts
 #EXTINF:-1 group-title="Cricket" tvg-logo="http://image.5gtv.online/logo/sports/willowxtra.png", Willow 2
 https://crichd.workspace-sultanarabi161.workers.dev/live/willowextra.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/800px-Flag_of_Bangladesh.svg.png",FOX SPORTS
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/bd.png",FOX SPORTS
 https://a1xs.vip/700001
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/800px-Flag_of_Bangladesh.svg.png",ESPN Premium
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/bd.png",ESPN Premium
 http://46.225.94.157/hls/espn/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY1.png" group-title="PREMIUM SPORT",Bein Sports 1
@@ -112,11 +112,11 @@ http://27.124.71.27/beIN_Sports_2/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY3.png" group-title="PREMIUM SPORT",Bein Sports 3
 http://27.124.71.27/beIN_Sports_3/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/800px-Flag_of_Bangladesh.svg.png",BEIN SPORTS 1 FRANCE
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/bd.png",BEIN SPORTS 1 FRANCE
 http://99.27.51.147:8080/BeinSport/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/800px-Flag_of_Bangladesh.svg.png",BEIN SPORTS 2 FRANCE
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/bd.png",BEIN SPORTS 2 FRANCE
 http://99.27.51.147:8080/BeinSport2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/800px-Flag_of_Bangladesh.svg.png",BEIN SPORTS 3 FRANCE
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/bd.png",BEIN SPORTS 3 FRANCE
 http://99.27.51.147:8080/BeinSport3/index.m3u8
