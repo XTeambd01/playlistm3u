@@ -19,10 +19,10 @@ http://i2col4q6.russtv.net/iptv/GFETD2V4GYT5Q449F9XNUYDZ/31131/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/500px-T_Sports_logo.svg.png" group-title="Sports",T Sports
 http://163.227.239.233:8080/stream.php?id=1
 
-#EXTINF:-1 tvg-logo="http://ottcasomsapi.maxdigitaltv.com/uploads/channels/channel_212_1742546009_thumb.png",KANTIPUR MAX HD
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/bd.png",KANTIPUR MAX HD
 http://maxotts.maxdigitaltv.com/x-media/C413/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://ottcasomsapi.maxdigitaltv.com/uploads/channels/channel-logo-C190-1763958788.png",KANTIPUR MAX 2 HD
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/bd.png",KANTIPUR MAX 2 HD
 http://maxotts.maxdigitaltv.com/x-media/C190/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPkLNzYmE3iWoT0RIUPh5dPx392smbo8bbbTfkUy2nWw&s=10" group-title="PSL + IPL",IPL 2026 HUB SPORTS
@@ -33,9 +33,6 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/705160.ts
 
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/epg/2025/05/09/20250509042549016858_59.png",Cricbuzz 1
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/2494.ts
-
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/w_256,q_75,f_webp/JS1AqZgBNnOkwJLWlwg-/posters/08617b27-2af1-4035-bcc3-d054ce42ca4b.png" group-title="Toffee",EPL LIVE
-https://stream.camcloud.stream/stream/4994d2defc1a/playlist.m3u8
 
 #EXTINF:-1 tvg-id="sony-ten-1-hd" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="Sports",Sony Ten 1 HD
 http://stb-air.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_1_HD&uid=999&pass=999
