@@ -55,12 +55,6 @@ http://103.157.248.140:8000/play/a01m/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/1600px-Star_Sports_1_HD.png" group-title="AynaOTT - Sports",Star Sports 1 HD
 http://maxotts.maxdigitaltv.com/x-media/C250/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180611/pks/aa8l5aros.webp" group-title="AynaOTT - Sports",Star Sports 2 hd
-http://stb-air.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_STAR_SPORTS_2_HD&uid=999&pass=999
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP8j8Vc_lguK13yQO9X3u_hvSXI2kmnJAywg&s" group-title="Xfireflix",Star Sports 3
-http://stb-air.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_STAR_SPORTS_3&uid=999&pass=999
-
 #EXTINF:-1 tvg-id="87" group-title="Sports" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735043602147.png",Star Sports Select 1 HD
 http://stb-air.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_STAR_SPORTS_SELECT_1_HD&uid=999&pass=999
 
@@ -90,9 +84,6 @@ http://104.194.8.54:9090/281188_.m3u8
 
 #EXTINF:-1 group-title="Cricket" tvg-logo="http://image.5gtv.online/logo/sports/willow.png", Willow Cricket
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/215.ts
-
-#EXTINF:-1 group-title="Cricket" tvg-logo="http://image.5gtv.online/logo/sports/willowxtra.png", Willow 2
-https://crichd.workspace-sultanarabi161.workers.dev/live/willowextra.m3u8
 
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/bd.png",FOX SPORTS
 https://a1xs.vip/700001
