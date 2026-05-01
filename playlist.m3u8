@@ -14,7 +14,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1
 #EXTINF:-1 tvg-name="A sports" tvg-logo="https://s3.aynaott.com/storage/f32cb68f73e383cf0e3f12ad2732b902" group-title="Channels",A sports
 https://yupptv.rkdyiptv.workers.dev/live/3327.m3u8
 
-#EXTINF:-1 tvg-logo="https://pix1.b442d6eefbd6173bad7ee5bde6cd31e8.com/download/582580105ab6c615bdc7cb9fac1e96c7/mahmudsany+wapkizs+com/Sany-boss-ptv-png-(mahmudsany.wapkizs.com).pn" group-title="AynaOTT - Sports",PTV Sports
+#EXTINF:-1 tvg-logo="https://pix1.b442d6eefbd6173bad7ee5bde6cd31e8.com/download/582580105ab6c615bdc7cb9fac1e96c7/mahmudsany+wapkizs+com/Sany-boss-ptv-png-(mahmudsany.wapkizs.com).png" group-title="AynaOTT - Sports",PTV Sports
 https://yupptv.rkdyiptv.workers.dev/live/1991.m3u8
 
 #EXTINF:-1 tvg-logo="https://pix1.b442d6eefbd6173bad7ee5bde6cd31e8.com/download/fdba6bfebbc1a9ac4723d4979feff73c/mahmudsany+wapkizs+com/Sany-boss-starsp-png-(mahmudsany.wapkizs.com).png" group-title="AynaOTT - Sports",Star Sports 1 HD
@@ -50,7 +50,7 @@ http://maxotts.maxdigitaltv.com/x-media/C61/master.m3u8
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://pix1.b442d6eefbd6173bad7ee5bde6cd31e8.com/download/fdba6bfebbc1a9ac4723d4979feff73c/mahmudsany+wapkizs+com/Sany-boss-starsp-png-(mahmudsany.wapkizs.com).png",Star Sports 1 Hindi
 http://datahub11.com:80/live/Jen12345/Jen54321/98866..ts
 
-#EXTINF:-1 tvg-id="1033" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/starsports2hindihd.png" group-title="Sports",Star Sports 2 Hindi HD
+#EXTINF:-1 tvg-id="1033" tvg-logo="https://image2url.com/r2/default/images/1775898160765-4f2145f1-d24c-4960-9fb6-f3ca51ac5d43.jpeg" group-title="Sports",Star Sports 2 Hindi HD
 http://103.157.248.140:8000/play/a01m/index.m3u8
 
 
@@ -67,7 +67,7 @@ http://103.175.73.12:8080/live/151/151_0.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/BwKj1kv.th.png",DAZN 1
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2531/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://iili.io/BwKj1kv.th.png",DAZN 2
+#EXTINF:-1 tvg-logo="https://iili.io/BwfEf7p.th.png",DAZN 2
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2532/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/bd.png",LIVE SPORTS AKASH DTH 1
