@@ -5,7 +5,7 @@ http://maxotts.maxdigitaltv.com/x-media/C212/master.m3u8
 http://i2col4q6.russtv.net/iptv/GFETD2V4GYT5Q449F9XNUYDZ/31131/index.m3u8
 
 #
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtZcJANelaW8aBRREj0hAfcWIjvYWJdJ_Epg&usqp=CAU",Willow SPORTS
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtZcJANelaW8aBRREj0hAfcWIjvYWJdJ_Epg&usqp=CAU",Willow Extra
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
@@ -14,7 +14,7 @@ http://i2col4q6.russtv.net/iptv/GFETD2V4GYT5Q449F9XNUYDZ/31131/index.m3u8
 http://27.124.71.27/Willow_Extra/index.m3u8
 
 #EXTINF:-1 tvg-name="A sports" tvg-logo="https://s3.aynaott.com/storage/f32cb68f73e383cf0e3f12ad2732b902" group-title="Channels",A sports
-https://yupptv.rkdyiptv.workers.dev/live/3327.m3u8
+https://iptv.prisma.net.bd/hls/stream2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pix1.b442d6eefbd6173bad7ee5bde6cd31e8.com/download/582580105ab6c615bdc7cb9fac1e96c7/mahmudsany+wapkizs+com/Sany-boss-ptv-png-(mahmudsany.wapkizs.com).png" group-title="AynaOTT - Sports",PTV Sports
 https://yupptv.rkdyiptv.workers.dev/live/1991.m3u8
