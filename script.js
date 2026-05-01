@@ -1,4 +1,4 @@
-const M3U_URL = 'https://raw.githubusercontent.com/XTeambd01/playlistm3u/refs/heads/main/playlist.m3u8';
+const M3U_URL = 'https://private-zone-by-xfireflix.pages.dev/playlist-isp-bdix.m3u';
 const video = document.getElementById('mainPlayer');
 const playerWrapper = document.getElementById('playerWrapper');
 
