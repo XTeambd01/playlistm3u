@@ -7,12 +7,6 @@
 #KODIPROP:inputstream.adaptive:manifest_type=mpd
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/bd.png",LIVE SPORTS AKASH DTH 1
-https://owrcovcrpy.gpcdn.net/bpk-tv/1730/output/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/bd.png",LIVE SPORTS AKASH DTH 2
-https://owrcovcrpy.gpcdn.net/bpk-tv/1731/output/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtZcJANelaW8aBRREj0hAfcWIjvYWJdJ_Epg&usqp=CAU",Willow Cricket
 http://i2col4q6.russtv.net/iptv/GFETD2V4GYT5Q449F9XNUYDZ/31131/index.m3u8
 
@@ -77,6 +71,12 @@ http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2531/index.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/BwKj1kv.th.png",DAZN 2
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2532/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/bd.png",LIVE SPORTS AKASH DTH 1
+https://owrcovcrpy.gpcdn.net/bpk-tv/1730/output/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/bd.png",LIVE SPORTS AKASH DTH 2
+https://owrcovcrpy.gpcdn.net/bpk-tv/1731/output/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/bd.png",TNT SPORTS
 http://46.225.94.157/hls/tnt/index.m3u8
 
@@ -92,20 +92,12 @@ https://a1xs.vip/700001
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/bd.png",ESPN Premium
 http://46.225.94.157/hls/espn/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY1.png" group-title="PREMIUM SPORT",Bein Sports 1
-http://27.124.71.27/beIN_Sports_1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY2.png" group-title="PREMIUM SPORT",Bein Sports 2
-http://27.124.71.27/beIN_Sports_2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY3.png" group-title="PREMIUM SPORT",Bein Sports 3
-http://27.124.71.27/beIN_Sports_3/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/bd.png",BEIN SPORTS 1 FRANCE
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY1.png",BEIN SPORTS 1 FRANCE
 http://99.27.51.147:8080/BeinSport/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/bd.png",BEIN SPORTS 2 FRANCE
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY2.png",BEIN SPORTS 2 FRANCE
 http://99.27.51.147:8080/BeinSport2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/bd.png",BEIN SPORTS 3 FRANCE
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY3.png",BEIN SPORTS 3 FRANCE
 http://99.27.51.147:8080/BeinSport3/index.m3u8
