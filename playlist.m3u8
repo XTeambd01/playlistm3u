@@ -62,8 +62,6 @@ http://stb-air.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_STAR_SPORTS_SELECT_1
 #EXTINF:-1 tvg-id="89" group-title="Sports" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735045174734.png",Star Sports Select 2 HD
 http://i2col4q6.russtv.net/iptv/GFETD2V4GYT5Q449F9XNUYDZ/2507/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/bd.png",STAR SPORTS KHEL
-http://103.175.73.12:8080/live/151/151_0.m3u8
 
 #EXTINF:-1 tvg-id="daznlaliga2" tvg-logo="https://iili.io/BwKj1kv.th.png", DAZN 1
 http://ytoxw6un.ottclub.xyz/iptv/VSQZTL9D68WBD9/2531/index.m3u8
@@ -105,9 +103,6 @@ http://ytoxw6un.ottclub.xyz/iptv/VSQZTL9D68WBD9/19054/index.m3u8
 #EXTINF:-1 group-title="Cricket" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtZcJANelaW8aBRREj0hAfcWIjvYWJdJ_Epg&usqp=CAU", Willow Cricket
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/215.ts
 
-
-#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/bd.png",ESPN Premium
-http://46.225.94.157/hls/espn/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY1.png",BEIN SPORTS 1 FRANCE
