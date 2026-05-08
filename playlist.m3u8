@@ -84,8 +84,6 @@ http://104.194.8.54:9090/281188_.m3u8
 #EXTINF:-1 group-title="Cricket" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtZcJANelaW8aBRREj0hAfcWIjvYWJdJ_Epg&usqp=CAU", Willow Cricket
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/215.ts
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/KpMZt4LS/images-2026-05-01-T102229-412.png",FOX SPORTS
-https://a1xs.vip/700001
 
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/bd.png",ESPN Premium
 http://46.225.94.157/hls/espn/index.m3u8
@@ -99,3 +97,50 @@ http://99.27.51.147:8080/BeinSport2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY3.png",BEIN SPORTS 3 FRANCE
 http://99.27.51.147:8080/BeinSport3/index.m3u8
+EXTINF:-1 tvg-name="Sky Sports F1 FHD" tvg-id="SkySp.F1.HD.uk" tvg-logo="https://i.ibb.co/h26bK2Q/sky-f1.png" group-title="WORLD SPORTS" radio="false",SKY SPORTS F1
+#http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/7342/index.m3u8
+http://ytoxw6un.ottclub.xyz/iptv/VSQZTL9D68WBD9/7342/index.m3u8
+
+
+
+#EXTINF:-1 tvg-name="Sky Sports Cricket FHD" tvg-id="SkySpCricket.HD.uk" tvg-logo="https://i.ibb.co/JyPnwvB/sky-cricket.png" group-title="WORLD SPORTS" radio="false",SKY SPORTS CRICKET
+http://ytoxw6un.ottclub.xyz/iptv/VSQZTL9D68WBD9/7343/index.m3u8
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/7343/index.m3u8
+http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/9258/index.m3u8
+
+
+
+#EXTINF:-1 tvg-name="Sky Sports Football FHD" tvg-id="SkySp.Fball.HD.uk" tvg-logo="https://i.ibb.co/WcCrBqx/sky-football.png" group-title="WORLD SPORTS" radio="false",SKY SPORTS FOOTBALL
+http://ytoxw6un.ottclub.xyz/iptv/VSQZTL9D68WBD9/9289/index.m3u8
+http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/9289/index.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-name="Sky Sports Main Event FHD" tvg-id="SkySpMainEvHD.uk" tvg-logo="https://i.ibb.co/CwMZcpP/sky-main-event.png" group-title="WORLD SPORTS" radio="false",SKY SPORTS MAIN EVENT
+http://ytoxw6un.ottclub.xyz/iptv/VSQZTL9D68WBD9/9308/index.m3u8
+https://crichd.johirxofficial.workers.dev/live/skysme.m3u8
+
+
+
+
+#EXTINF:-1 tvg-name="Sky Sports Mix FHD" tvg-id="SkySp.Mix.HD.uk" tvg-logo="https://i.ibb.co/7kYj5gc/sky-mix.png" group-title="WORLD SPORTS" radio="false",SKY SPORTS MIX
+http://ytoxw6un.ottclub.xyz/iptv/VSQZTL9D68WBD9/9310/index.m3u8
+https://crichd.johirxofficial.workers.dev/live/skysmixx.m3u8
+http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/9310/index.m3u8
+
+
+
+#EXTINF:-1 tvg-name="Sky Sports F1 FHD" tvg-id="SkySp.News.HD.uk" tvg-logo="https://i.ibb.co/7WMDvDP/sky-news.png" group-title="WORLD SPORTS" radio="false",SKY SPORTS NEWS
+http://ytoxw6un.ottclub.xyz/iptv/VSQZTL9D68WBD9/9283/index.m3u8
+http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/9314/index.m3u8
+
+
+
+#EXTINF:-1 tvg-name="Sky Sports Premier League FHD" tvg-id="SkySp.PL.HD.uk" tvg-logo="https://i.ibb.co/rcSRMh9/sky-sports-pl.png" group-title="WORLD SPORTS" radio="false",SKY SPORTS EPL
+http://ytoxw6un.ottclub.xyz/iptv/VSQZTL9D68WBD9/9334/index.m3u8
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/7335/index.m3u8
+http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/9334/index.m3u8
+
