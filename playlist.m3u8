@@ -1,6 +1,9 @@
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/500px-T_Sports_logo.svg.png" group-title="Sports",T Sports
 http://luckonline.eu/live/y49sz6KMQs/6115263489/1142.ts
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/500px-T_Sports_logo.svg.png" group-title="Sports",T Sports 2 FHD
+https://mflixott.com/tv/plusbox/live/TSports/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtZcJANelaW8aBRREj0hAfcWIjvYWJdJ_Epg&usqp=CAU",Willow Cricket
 http://i2col4q6.russtv.net/iptv/GFETD2V4GYT5Q449F9XNUYDZ/31131/index.m3u8
 
@@ -14,10 +17,10 @@ http://i2col4q6.russtv.net/iptv/GFETD2V4GYT5Q449F9XNUYDZ/31131/index.m3u8
 http://27.124.71.27/Willow_Extra/index.m3u8
 
 #EXTINF:-1 tvg-name="A sports" tvg-logo="https://s3.aynaott.com/storage/f32cb68f73e383cf0e3f12ad2732b902" group-title="Channels",A sports
-https://iptv.prisma.net.bd/hls/stream2/playlist.m3u8
+http://maxotts.maxdigitaltv.com/x-media/C213/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://pix1.b442d6eefbd6173bad7ee5bde6cd31e8.com/download/582580105ab6c615bdc7cb9fac1e96c7/mahmudsany+wapkizs+com/Sany-boss-ptv-png-(mahmudsany.wapkizs.com).png" group-title="AynaOTT - Sports",PTV Sports
-https://yupptv.rkdyiptv.workers.dev/live/1991.m3u8
+http://maxotts.maxdigitaltv.com/x-media/C212/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://pix1.b442d6eefbd6173bad7ee5bde6cd31e8.com/download/fdba6bfebbc1a9ac4723d4979feff73c/mahmudsany+wapkizs+com/Sany-boss-starsp-png-(mahmudsany.wapkizs.com).png" group-title="AynaOTT - Sports",Star Sports 1 HD
 http://maxotts.maxdigitaltv.com/x-media/C283/master.m3u8
@@ -53,11 +56,11 @@ http://maxotts.maxdigitaltv.com/x-media/C61/master.m3u8
 http://datahub11.com:80/live/Jen12345/Jen54321/98866..ts
 
 #EXTINF:-1 tvg-id="1033" tvg-logo="https://image2url.com/r2/default/images/1775898160765-4f2145f1-d24c-4960-9fb6-f3ca51ac5d43.jpeg" group-title="Sports",Star Sports 2 Hindi HD
-http://103.157.248.140:8000/play/a01m/index.m3u8
+http://maxotts.maxdigitaltv.com/x-media/C283/master.m3u8
 
 
 #EXTINF:-1 tvg-id="87" group-title="Sports" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735043602147.png",Star Sports Select 1 HD
-http://i2col4q6.russtv.net/iptv/GFETD2V4GYT5Q449F9XNUYDZ/2507/index.m3u8
+https://mflixott.com/tv/plusbox/live/StarSportsSelect1/index.m3u8
 
 #EXTINF:-1 tvg-id="89" group-title="Sports" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735045174734.png",Star Sports Select 2 HD
 http://i2col4q6.russtv.net/iptv/GFETD2V4GYT5Q449F9XNUYDZ/2507/index.m3u8
