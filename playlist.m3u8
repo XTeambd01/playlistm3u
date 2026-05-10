@@ -7,14 +7,6 @@ https://mflixott.com/tv/plusbox/live/TSports/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtZcJANelaW8aBRREj0hAfcWIjvYWJdJ_Epg&usqp=CAU",Willow Cricket
 http://4kgood.org:80/live/4o48up5evz/r4fiast66u/13141.ts
 
-#
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtZcJANelaW8aBRREj0hAfcWIjvYWJdJ_Epg&usqp=CAU",Willow Extra
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
-http://27.124.71.27/Willow_Extra/index.m3u8
 
 #EXTINF:-1 tvg-name="A sports" tvg-logo="https://s3.aynaott.com/storage/f32cb68f73e383cf0e3f12ad2732b902" group-title="Channels",A sports
 http://maxotts.maxdigitaltv.com/x-media/C213/master.m3u8
@@ -56,7 +48,7 @@ http://maxotts.maxdigitaltv.com/x-media/C61/master.m3u8
 http://datahub11.com:80/live/Jen12345/Jen54321/98866..ts
 
 #EXTINF:-1 tvg-id="1033" tvg-logo="https://image2url.com/r2/default/images/1775898160765-4f2145f1-d24c-4960-9fb6-f3ca51ac5d43.jpeg" group-title="Sports",Star Sports 2 Hindi HD
-http://maxotts.maxdigitaltv.com/x-media/C283/master.m3u8
+http://maxotts.maxdigitaltv.com/x-media/C250/master.m3u8
 
 
 #EXTINF:-1 tvg-id="87" group-title="Sports" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735043602147.png",Star Sports Select 1 HD
