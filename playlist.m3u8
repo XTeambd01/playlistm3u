@@ -68,9 +68,6 @@ http://99.27.51.147:8080/BeinSport2/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY3.png",BEIN SPORTS 3 FRANCE
 http://99.27.51.147:8080/BeinSport3/index.m3u8
 
-
-#EXTINF:-1 tvg-logo="http://multiacs.com/logo/sport%20fr/bein-sports-max-3.png" group-title="AsiaOTT - Sports",BEIN SPORTS MAX3 FHD
-http://newsee.live:8089/live/6903846084938/9760640938105/80070.ts
 #EXTINF:-1 tvg-logo="http://multiacs.com/logo/sport%20fr/bein-sports-max-4.png" group-title="AsiaOTT - Sports",BEIN SPORTS MAX4 FHD
 http://newsee.live:8089/live/6903846084938/9760640938105/80071.ts
 #EXTINF:-1 tvg-logo="http://multiacs.com/logo/sport%20fr/bein-sports-max-5.png" group-title="AsiaOTT - Sports",BEIN SPORTS MAX5 FHD
