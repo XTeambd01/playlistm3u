@@ -16,10 +16,10 @@ http://4kgood.org:80/live/4o48up5evz/r4fiast66u/13141.ts
 
 
 #EXTINF:-1 tvg-name="A sports" tvg-logo="https://s3.aynaott.com/storage/f32cb68f73e383cf0e3f12ad2732b902" group-title="Channels",A sports
-http://maxotts.maxdigitaltv.com/x-media/C213/master.m3u8
+https://playztv-apps.pages.dev/asports/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://pix1.b442d6eefbd6173bad7ee5bde6cd31e8.com/download/582580105ab6c615bdc7cb9fac1e96c7/mahmudsany+wapkizs+com/Sany-boss-ptv-png-(mahmudsany.wapkizs.com).png" group-title="AynaOTT - Sports",PTV Sports
-http://maxotts.maxdigitaltv.com/x-media/C212/master.m3u8
+https://playztv-apps.pages.dev/ptvsports/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://pix1.b442d6eefbd6173bad7ee5bde6cd31e8.com/download/fdba6bfebbc1a9ac4723d4979feff73c/mahmudsany+wapkizs+com/Sany-boss-starsp-png-(mahmudsany.wapkizs.com).png" group-title="AynaOTT - Sports",Star Sports 1 HD
 http://maxotts.maxdigitaltv.com/x-media/C283/master.m3u8
