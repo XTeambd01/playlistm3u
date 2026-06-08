@@ -2,32 +2,31 @@
 http://103.158.133.62:8080/live/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/K83r4XPs/20260607-191047.jpg" group-title="Iptv",FIF AWC 2026 🇮🇳
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/K83r4XPs/20260607-191047.jpg" group-title="Iptv",FIFA WC 2026 🇮🇳
 http://103.204.43.87:8080/live/1/1/266.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YqZY5nck/20260607-191024.jpg" group-title="Iptv",FIFA WC 2026 🇮🇳
+#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Iptv",FIFA WC 2026 🇵🇰
 https://tvsen5.aynaott.com/PtvSports/tracks-v1a1/mono.ts.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjnJP7D0/20260607-191116.jpg" group-title="Asia media",FIFA WC 2026 🇧🇷
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pdpNmLGj/20260607-191102.jpg" group-title="Asia Media",FIFA WC 2026 🇦🇷
-http://cdn.tv-rds.workers.dev/TYCSPT.m3u8
-
-#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Iptv",FIFAWC 2026
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YqZY5nck/20260607-191024.jpg" group-title="Iptv",FIFAWC 2026🇮🇳
 http://103.204.43.87:8080/live/1/1/264.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Iptv",FIFAWC 2026
-https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/prg8sRhM/20260604-101842.jpg" group-title="Iptv",FIFAWC 2026🇧🇩
+https://owrcovcrpy.gpcdn.net/https://i.postimg.cc/NjnJP7D0/20260607-191116.jpgbpk-tv/1709/output/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Iptv",FIFAWC 2026
+#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Iptv",FIFAWC 2026🇧🇩
 https://livecdn-bostahls.global.ssl.fastly.net/rongo/rongo-somoy/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Iptv",FIFAWC 2026
 http://mains.services:2086/live/7140059832/2878931835/134203.ts
+
+
+#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Asia media",FIFA WC 2026 🇧🇷
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/500px-T_Sports_logo.svg.png" group-title="Sports",T Sports
