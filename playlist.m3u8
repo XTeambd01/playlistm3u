@@ -25,9 +25,6 @@ https://livecdn-bostahls.global.ssl.fastly.net/rongo/rongo-somoy/index.m3u8
 http://mains.services:2086/live/7140059832/2878931835/134203.ts
 
 
-#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Cage Tv",FIFA WC 2026 🇧🇷
-http://ytoxw6un.ottclub.xyz/iptv/VSQZTL9D68WBD9/2499/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/500px-T_Sports_logo.svg.png" group-title="Sports",T Sports
 http://luckonline.eu/live/y49sz6KMQs/6115263489/1142.ts
@@ -94,11 +91,4 @@ http://99.27.51.147:8080/BeinSport2/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY3.png",BEIN SPORTS 3 FRANCE
 http://99.27.51.147:8080/BeinSport3/index.m3u8
 
-
-#EXTINF:-1 tvg-name="Sky Sports Cricket FHD" tvg-id="SkySpCricket.HD.uk" tvg-logo="https://i.ibb.co/JyPnwvB/sky-cricket.png" group-title="WORLD SPORTS" radio="false",SKY SPORTS CRICKET
-http://ytoxw6un.ottclub.xyz/iptv/VSQZTL9D68WBD9/7343/index.m3u8
-
-
-#EXTINF:-1 tvg-name="Sky Sports Football FHD" tvg-id="SkySp.Fball.HD.uk" tvg-logo="https://i.ibb.co/WcCrBqx/sky-football.png" group-title="WORLD SPORTS" radio="false",SKY SPORTS FOOTBALL
-http://ytoxw6un.ottclub.xyz/iptv/VSQZTL9D68WBD9/9289/index.m3u8
 
