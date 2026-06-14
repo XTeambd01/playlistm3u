@@ -1,5 +1,5 @@
-#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="sports",WC 2026 (T sports)
-https://xnxx.com
+#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="sports",WC 2026 (Tyc sports)
+http://147.135.114.221:8001/play/a00m/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="sports",WC 2026 (T sports Hd)
 http://103.158.133.62:8080/live/index.m3u8
@@ -26,7 +26,7 @@ http://mains.services:2086/live/7140059832/2878931835/134203.ts
 http://luckonline.eu/live/y49sz6KMQs/6115263489/1142.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/500px-T_Sports_logo.svg.png" group-title="Sports",T Sports 2 FHD
-http://103.59.176.72:8083/live1/tracks-v1a1/mono.m3u8?token=123
+http://luckonline.eu/live/y49sz6KMQs/6115263489/1142.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtZcJANelaW8aBRREj0hAfcWIjvYWJdJ_Epg&usqp=CAU",Willow Cricket
 http://4kgood.org:80/live/4o48up5evz/r4fiast66u/13141.ts
