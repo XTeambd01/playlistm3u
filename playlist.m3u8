@@ -9,10 +9,12 @@ http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/745195.ts
 
 
 
+#EXTINF:-1 tvg-name="Play z Tv" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="Sany Ott🔥 ",WC 2026 (Bein 1 1080p)
+http://99.27.51.147:8080/BeinSport/index.m3u8
 
 
-
-
+#EXTINF:-1 tvg-name="Play z Tv" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="Sany Ott🔥 ",WC 2026 (Bein 2 1080p)
+http://99.27.51.147:8080/BeinSport2/index.m3u8
 
 
 
@@ -63,42 +65,6 @@ https://playztv-apps.pages.dev/ptvsports/index.m3u8
 #EXTINF:-1 tvg-logo="https://pix1.b442d6eefbd6173bad7ee5bde6cd31e8.com/download/fdba6bfebbc1a9ac4723d4979feff73c/mahmudsany+wapkizs+com/Sany-boss-starsp-png-(mahmudsany.wapkizs.com).png" group-title="AynaOTT - Sports",Star Sports 1 HD
 http://maxotts.maxdigitaltv.com/x-media/C283/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DPF1gwYR/download-2026-05-01-T102259-231.jpg",KANTIPUR MAX HD 🏏
-http://maxotts.maxdigitaltv.com/x-media/C413/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/QFtRmLhW/images-2026-05-01-T102322-095.jpg",KANTIPUR MAX 2 HD ⚽
-http://maxotts.maxdigitaltv.com/x-media/C190/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPkLNzYmE3iWoT0RIUPh5dPx392smbo8bbbTfkUy2nWw&s=10" group-title="PSL + IPL",IPL 2026 HUB SPORTS
-http://premimum.online/live/jen12345/jen54321/196347.ts
-
-
-#EXTINF:-1 tvg-logo="https://epg.pw/media/images/epg/2025/05/09/20250509042549016858_59.png",Cricbuzz live
-http://maxotts.maxdigitaltv.com/x-media/C283/master.m3u8
-#EXTINF:-1 tvg-id="sony-ten-1-hd" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="Sports",Sony Ten 1 HD
-https://tflixcdn.site/sonyten1.m3u8
-
-#EXTINF:-1 tvg-id="sony-ten-2-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="Sports",Sony Ten 2 HD
-https://tflixcdn.site/sonyten2.m3u8
-
-#EXTINF:-1 tvg-id="sony-ten-3-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="Sports",Sony Ten 3 HD
-http://maxotts.maxdigitaltv.com/x-media/C73/master.m3u8
-
-#EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="Sports",Sony Ten 5 HD
-http://maxotts.maxdigitaltv.com/x-media/C61/master.m3u8
-
-#EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://pix1.b442d6eefbd6173bad7ee5bde6cd31e8.com/download/fdba6bfebbc1a9ac4723d4979feff73c/mahmudsany+wapkizs+com/Sany-boss-starsp-png-(mahmudsany.wapkizs.com).png",Star Sports 1 Hindi
-http://datahub11.com:80/live/Jen12345/Jen54321/98866..ts
-
-#EXTINF:-1 tvg-id="1033" tvg-logo="https://image2url.com/r2/default/images/1775898160765-4f2145f1-d24c-4960-9fb6-f3ca51ac5d43.jpeg" group-title="Sports",Star Sports 2 Hindi HD
-http://maxotts.maxdigitaltv.com/x-media/C250/master.m3u8
-
-
-#EXTINF:-1 tvg-id="87" group-title="Sports" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735043602147.png",Star Sports Select 1 HD
-https://mflixott.com/tv/plusbox/live/StarSportsSelect1/index.m3u8
-
-#EXTINF:-1 tvg-id="89" group-title="Sports" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735045174734.png",Star Sports Select 2 HD
-http://i2col4q6.russtv.net/iptv/GFETD2V4GYT5Q449F9XNUYDZ/2507/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY1.png",BEIN SPORTS 1 FRANCE
 http://99.27.51.147:8080/BeinSport/index.m3u8
