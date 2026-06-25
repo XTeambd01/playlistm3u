@@ -1,6 +1,11 @@
 
-#EXTINF:-1 tvg-name="Play z Tv" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="Sany Ott🔥 ",WC 2026 (GO Live)
-https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
+#EXTINF:-1 tvg-name="Play z Tv" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="Sany Ott🔥 ",WC 2026 (PTV)
+https://tv.beyondtaxconsultants.com/api/robi/lps/http://198.195.239.50:8095/ptv/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 tvg-name="Play z Tv" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="Sany Ott🔥 ",WC 2026 (Fast Tv)
+http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/745195.ts
 
 
 
@@ -11,15 +16,12 @@ https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 
 
 
-
-
-
-#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="sports",WC 2026 (Tyc sports)
+#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="sports",WC 2026 (Somoi Tv sports)
 http://ubuntu.moonplex.net:8080/Somoy_TV/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="sports",WC 2026 (T sports Hd)
-http://103.158.133.62:8080/live/index.m3u8
+https://xfireflix.my.id/mac.php?id=373312.m3u8
 
 
 
@@ -34,8 +36,8 @@ http://212.102.34.8:9080/AndFlixHD/video.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="sports",WC 2026 (Bein sports)
-http://starhub.pro/live/farhat-3379/67897-913379/744517.ts
+#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="sports",WC 2026 (BTV)
+http://114.130.57.233:8080/BTV/video.m3u8?token=SkQuhAXZxgBan1
 
 #EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="sports",WC 2026 (FOX)
 https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
