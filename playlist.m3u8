@@ -1,14 +1,14 @@
 #EXTINF:-1 tvg-chno="112" tvg-id="7c5fee98-96e2-43df-95f4-ae8ded8e9efe" tvg-name="BTV CTG" tvg-logo="https://raw.githubusercontent.com/BadhanStrom/img/refs/heads/main/BTV_Chittagong.png" group-title="Bangla",বিটিভি চট্টগ্রাম
 https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8
 
-#EXTINF:-1 tvg-id="atn_bangla" tvg-logo="http://monirul.bro.bd/assets/images/ATN BANGLA1745044183.png" group-title="Bangla",ATN BANGLA
+#EXTINF:-1 tvg-id="atn_bangla" tvg-logo="https://i.ibb.co.com/3yPLP9Db/images.jpg BANGLA1745044183.png" group-title="Bangla",ATN BANGLA
 http://tvsen5.aynascope.net/atnbangla/index.m3u8
 
 
 #EXTINF:-1 tvg-chno="119" tvg-logo="https://i.imgur.com/bahWhBG.png" group-title="BANGLADESH",মাই টিভি
 https://tvsen6.aynaott.com/XMpHaEf0ANBhv8w6NWR7/index.m3u8
 
-#EXTINF:-1 tvg-id="asiah_tv" tvg-logo="http://monirul.bro.bd/assets/images/Asiah Tv1752498724.png" group-title="Bangla", Asiah Tv
+#EXTINF:-1 tvg-id="asiah_tv" tvg-logo="https://i.ibb.co.com/3yPLP9Db/images.jpg Tv1752498724.png" group-title="Bangla", Asiah Tv
 https://stream.ottplus.live/live/asian_tv_abr/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1781163068414.png" group-title="News", Channel 1
@@ -20,13 +20,13 @@ https://tvsen5.aynaott.com/SyQuXz8sC3TB/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="d07563b0-7580-4cbd-a7c9-e67535c0164a" tvg-name="SA TV" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/SATV.png" group-title="Channels",SA TV
+#EXTINF:-1 tvg-id="d07563b0-7580-4cbd-a7c9-e67535c0164a" tvg-name="SA TV" tvg-logo="https://i.ibb.co.com/3yPLP9Db/images.jpg" group-title="Channels",SA TV
 https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/index.m3u8?e=1782759193&u=f54c14f5-0c1d-4106-885c-3bcd7626f69f&token=faa7bc1d2779ec18df93f4493afa3192
 
-#EXTINF:-1 tvg-id="channel_i" tvg-logo="http://monirul.bro.bd/assets/images/CHANNEL I1745044237.png" group-title="Bangla",CHANNEL I
+#EXTINF:-1 tvg-id="channel_i" tvg-logo="https://i.ibb.co.com/3yPLP9Db/images.jpg I1745044237.png" group-title="Bangla",CHANNEL I
 https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8
 
-#EXTINF:-1 tvg-id="dbc_news" tvg-logo="http://monirul.bro.bd/assets/images/DBC NEWS1750866614.png" group-title="Bangla",DBC NEWS
+#EXTINF:-1 tvg-id="dbc_news" tvg-logo="https://i.ibb.co.com/3yPLP9Db/images.jpg NEWS1750866614.png" group-title="Bangla",DBC NEWS
 https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8
 
 #EXTINF:-1 tvg-chno="118" tvg-id="70e97db9-5a9e-4642-874e-af3d30ba9925" tvg-name="RTV" tvg-logo="https://s3.aynaott.com/storage/fd634ca672c8294f109225ca42d20991" group-title="Recorded TV",RTV
@@ -36,16 +36,15 @@ http://tvsen5.aynascope.net/RtvHD/index.m3u8
 https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
 
 #EXTINF:-1 tvg-id="addb7014-1d2e-41d8-982d-7cafbdc48770" tvg-name="Bangla TV" tvg-logo="https://s3.aynaott.com/storage/5b22893ae4e816ef2cf87e63c96e9e08" group-title="Channels",Bangla TV
-https://cdn.ghuddi.live/tvapp/Bangla_TV_BD_New/playlist.m3u8|Referer=https://ghuddi.tv/
-http://livetv.akr4m.com:8080/bdtv/restrem/8.m3u8
+https://cdn.ghuddi.live/tvapp/Bangla_TV_BD_New/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.ghuddi.tv/uploads/images/2024/08/01/thumbnails_eac5034b1a589f589293aa6b92bcead1_goplay_bangla_tv_eu_1920_x_1080.png?w=1080&q=75",Bangla TV Europe
-https://cdn.ghuddi.live/tvapp/Bangla_TV_EU_New/playlist.m3u8|Referer=https://ghuddi.tv/
+https://cdn.ghuddi.live/tvapp/Bangla_TV_EU_New/playlist.m3u8
 
-#EXTINF:-1 tvg-id="global_tv" tvg-logo="http://monirul.bro.bd/assets/images/Global Tv1752498856.png" group-title="Bangla",Global Tv
+#EXTINF:-1 tvg-id="global_tv" tvg-logo="https://i.ibb.co.com/3yPLP9Db/images.jpg Tv1752498856.png" group-title="Bangla",Global Tv
 https://stream.ottplus.live/live/global_tv_abr/index.m3u8
 
-#EXTINF:-1 tvg-id="gtv" tvg-logo="http://monirul.bro.bd/assets/images/GTV1745042853.png" group-title="Bangla",GTV
+#EXTINF:-1 tvg-id="gtv" tvg-logo="https://i.ibb.co.com/3yPLP9Db/images.jpg" group-title="Bangla",GTV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/ananda-tv.png" group-title="SM_IPTV",Ananda TV
@@ -70,13 +69,12 @@ https://stream.ottplus.live/live/mohona_tv_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/jamuna-tv.png" group-title="SM_IPTV",Jamuna TV
 https://stream.ottplus.live/live/jamuna_tv_abr/index.m3u8
 
-#EXTINF:-1 tvg-id="maasranga_hd" tvg-logo="http://monirul.bro.bd/assets/images/MAASRANGA HD1745044117.png" group-title="Bangla",MAASRANGA HD
+#EXTINF:-1 tvg-id="maasranga_hd" tvg-logo="https://i.ibb.co.com/3yPLP9Db/images.jpg HD1745044117.png" group-title="Bangla",MAASRANGA HD
 https://mtv.sunplex.live/MAASRANGA/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0QRKCsfQ/20240823_020937.png" group-title="",Duronto TV
 https://box.bbaria.net/DurontoTV/tracks-v1a1/mono.m3u8
-https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.m3u8
 
 #EXTINF:-1 group-title="" tvg-logo="https://i.postimg.cc/wTvMLMp2/20240823_021706.png",Discovery Kids
 https://stream.ottplus.live/live/discovery_kids_abr/index.m3u8
@@ -96,9 +94,6 @@ https://cc-qgrxgp51645lw.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 #EXTINF:-1  tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",Investigation Discovery
 https://stream.ottplus.live/live/id_hd_abr/index.m3u8
 
-
-#EXTINF:-1 tvg-logo="" group-title="Sumon",ZEE Bangla
-https://stream.ottplus.live/live/zee_bangla_abr/live/zee_bangla_720/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x8BwX6QW/20240823_022929.png",Zee Tv
@@ -180,10 +175,10 @@ https://wiselp.wiseplayout.com/9X_Jhakaas/master.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Hindi%20Songs.jpg?raw=true" tvg-name="Hindi Songs" group-title="All-In-One~ENT🧩",Hindi Songs
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/3yPLP9Db/images.jpg" tvg-name="Hindi Songs" group-title="All-In-One~ENT🧩",Hindi Songs
 https://live20.bozztv.com/giatvplayout7/giatv-209592/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Bangla%20Songs.jpg?raw=true" tvg-name="Bangla Songs" group-title="All-In-One~ENT🧩",Bangla Songs
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/3yPLP9Db/images.jpg" tvg-name="Bangla Songs" group-title="All-In-One~ENT🧩",Bangla Songs
 https://live20.bozztv.com/giatvplayout7/giatv-209587/tracks-v1a1/mono.ts.m3u8
 
 
